@@ -26,7 +26,7 @@ Approach Methodology
 - [Hardware Hacking: Have Fun while Voiding your Warranty](https://www.elsevier.com/books/hardware-hacking/grand/978-1-932266-83-2)
 - [Linksys WRT54G Ultimate Hacking](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
 
-### IoT security checking guides
+### IoT Vulnerabilities checking guides
 
 - [Reflecting upon OWASP TOP-10 IoT Vulnerabilities](https://embedi.com/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
 
