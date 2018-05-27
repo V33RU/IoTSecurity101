@@ -5,7 +5,7 @@ Approach Methodology
   1. Network 
   2. Web (Front & Backend and Web services)
   3. Mobile App(Android & iOS)
-  4. IoT Protocol Testting 
+  4. IoT Protocol Testing 
   5. Wireless Connectivity 
   6. Firmware Pentesting(Hardware or IoT device OS)
   7. Hardware Level Approach 
