@@ -16,12 +16,12 @@ Approach Methodology
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-## Network
-## Web (Front & Backend and Web services)
-## Mobile App(Android & iOS)
-## Wireless Connectivity
-## Firmware Pentesting(Hardware or IoT device OS)
-## Hardware Level Approach
+### Network
+### Web (Front & Backend and Web services)
+### Mobile App(Android & iOS)
+### Wireless Connectivity
+### Firmware Pentesting(Hardware or IoT device OS)
+### Hardware Level Approach
 
     - [Introduction to IOT](#https://en.wikipedia.org/wiki/Internet_of_things)
     - [IOT Architecture](#https://www.c-sharpcorner.com/UploadFile/f88748/internet-of-things-part-2/)
