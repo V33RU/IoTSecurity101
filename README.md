@@ -20,11 +20,14 @@ Approach Methodology
 - Android Hacker's Handbook (esp. hardware hacking chapter)
 - Hacking the Xbox https://www.nostarch.com/xboxfree
 - Car hacker's handbook(GPL 3.0) http://opengarages.org/handbook/
+- IoT Penetration Testing Cookbook https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook
+- Abusing the Internet of Things: https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36
+- 
 
 
   #### INTRODUCTION
   
 - [Introduction to IOT] https://en.wikipedia.org/wiki/Internet_of_things
-    - [IOT Architecture]https://www.c-sharpcorner.com/UploadFile/f88748/internet-of-things-part-2/
-    - [IoT attack surface]#https://www.owasp.org/index.php/IoT_Attack_Surface_Areas
-    - [IoT Protocols Overview]#Shttps://www.postscapes.com/internet-of-things-protocols/
+- [IOT Architecture]https://www.c-sharpcorner.com/UploadFile/f88748/internet-of-things-part-2/
+- [IoT attack surface]#https://www.owasp.org/index.php/IoT_Attack_Surface_Areas
+- [IoT Protocols Overview]#Shttps://www.postscapes.com/internet-of-things-protocols/
