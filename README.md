@@ -31,7 +31,7 @@ Approach Methodology
 ### Blogs for iotpentest
 
 1. http://iotpentest.com/
-2. blog.attify.com
+2. https://blog.attify.com
 3. https://payatu.com/blog/
 4. http://jcjc-dev.com/
 5. https://w00tsec.blogspot.in/
@@ -104,8 +104,7 @@ Approach Methodology
 - [Hacking Zigbee Devices with Attify Zigbee Framework](https://blog.attify.com/hack-iot-devices-zigbee-sniffing-exploitation/)
 - [Hands-on with RZUSBstick](https://uk.rs-online.com/web/p/radio-frequency-development-kits/6962415/) 
 
-#### BLE(http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
- - [Introduction and protocol Overview]
+#### [BLE](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
  - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
  - Reconnaissance (Active and Passive) with HCI Tools
     - [btproxy](https://github.com/conorpp/btproxy)
