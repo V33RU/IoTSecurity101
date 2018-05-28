@@ -123,11 +123,12 @@ Approach Methodology
 #### Firmware Pentest
  - [Firmware analysis and reversing](https://www.youtube.com/watch?v=G0NNBloGIvs)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
+ - [Dumping Firmware using Buspirate]
 
 ### IoT hardware Overview
  - [Introduction to hardware]
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
-    
+ - [
 #### Hardware Tools
   - [Bus Pirate](https://www.sparkfun.com/products/12942)
   - [EEPROM readers](https://www.ebay.com/bhp/eeprom-reader)
@@ -144,4 +145,4 @@ Approach Methodology
    - [Accessing sensor via UART](http://home.wlu.edu/~levys/courses/csci250s2017/SensorsSignalsSerialSockets.pdf)
 #### JTAG
    - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
-   - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-fo
+   - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
