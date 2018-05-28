@@ -93,7 +93,7 @@ Approach Methodology
 - [Signal Processing]()
 - [Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
 - [Gnuradio](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC#Tutorial:_GNU_Radio_Companion)
-- [Introduction to gnuradio concepts]
+-
 - [Creating a flow graph](https://blog.didierstevens.com/2017/09/19/quickpost-creating-a-simple-flow-graph-with-gnu-radio-companion/)
 - [Analysing radio signals](https://www.rtl-sdr.com/analyzing-433-mhz-transmitters-rtl-sdr/)
 - [Recording specific radio signal](https://www.rtl-sdr.com/freqwatch-rtl-sdr-frequency-scanner-recorder/)
@@ -106,7 +106,7 @@ Approach Methodology
 
 #### [BLE](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
  - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
- - Reconnaissance (Active and Passive) with HCI Tools
+Reconnaissance (Active and Passive) with HCI Tools
     - [btproxy](https://github.com/conorpp/btproxy)
     - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
     - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
@@ -125,7 +125,6 @@ Approach Methodology
  - [Dumping Firmware using Buspirate]
 
 ### IoT hardware Overview
- - [Introduction to hardware]
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
  - [
 #### Hardware Tools
