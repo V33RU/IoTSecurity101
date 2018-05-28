@@ -29,8 +29,8 @@ Approach Methodology
 
 ### Blogs for iotpentest
 
-1. iotpentest.com
-2. blog.attify.com
+1. http://iotpentest.com/
+2. https://blog.attify.com/
 3. https://payatu.com/blog/
 4. http://jcjc-dev.com/
 5. https://w00tsec.blogspot.in/
