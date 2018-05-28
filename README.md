@@ -73,6 +73,7 @@ Approach Methodology
 - [thoughts about using IoT MQTT for V2V and Connected Car from CES 2014](https://mobilebit.wordpress.com/tag/mqtt/)
 - [Nmap](https://nmap.org/nsedoc/lib/mqtt.html)
 - [The Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
+- [A Guide to MQTT by Hacking a Doorbell to send Push Notifications](https://youtu.be/J_BAXVSVPVI)
 
 
 #### CoAP
@@ -118,7 +119,6 @@ Approach Methodology
 
 #### ARM
 - [Azeria Labs](https://azeria-labs.com/)
-
 
 #### Firmware Pentest
  - [Firmware analysis and reversing](https://www.youtube.com/watch?v=G0NNBloGIvs)
