@@ -122,11 +122,11 @@ Reconnaissance (Active and Passive) with HCI Tools
 #### Firmware Pentest
  - [Firmware analysis and reversing](https://www.youtube.com/watch?v=G0NNBloGIvs)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
- - [Dumping Firmware using Buspirate]
+ - [Dumping Firmware using Buspirate](http://iotpentest.com/tag/pulling-firmware/)
 
 ### IoT hardware Overview
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
- - [
+ 
 #### Hardware Tools
   - [Bus Pirate](https://www.sparkfun.com/products/12942)
   - [EEPROM readers](https://www.ebay.com/bhp/eeprom-reader)
