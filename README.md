@@ -105,7 +105,7 @@ Approach Methodology
 - [Hands-on with RZUSBstick](https://uk.rs-online.com/web/p/radio-frequency-development-kits/6962415/) 
 
 #### BLE
--[Traffic Engineering in a  
+- [Traffic Engineering in a  
 Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
  - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
 Reconnaissance (Active and Passive) with HCI Tools
