@@ -104,7 +104,9 @@ Approach Methodology
 - [Hacking Zigbee Devices with Attify Zigbee Framework](https://blog.attify.com/hack-iot-devices-zigbee-sniffing-exploitation/)
 - [Hands-on with RZUSBstick](https://uk.rs-online.com/web/p/radio-frequency-development-kits/6962415/) 
 
-#### [BLE](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
+#### BLE
+-[Traffic Engineering in a  
+Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
  - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
 Reconnaissance (Active and Passive) with HCI Tools
     - [btproxy](https://github.com/conorpp/btproxy)
@@ -116,7 +118,8 @@ Reconnaissance (Active and Passive) with HCI Tools
  - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
 
-#### [ARM](https://azeria-labs.com/)
+#### ARM
+- [Azeria Labs](https://azeria-labs.com/)
 
 
 #### Firmware Pentest
