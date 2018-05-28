@@ -58,7 +58,6 @@ Approach Methodology
 
 ### Introduction
 
-
 - [Introduction to IoT](https://en.wikipedia.org/wiki/Internet_of_things)
 - [IoT Architecture](https://www.c-sharpcorner.com/UploadFile/f88748/internet-of-things-part-2/)
 - [IoT attack surface](https://www.owasp.org/index.php/IoT_Attack_Surface_Areas)
@@ -105,9 +104,9 @@ Approach Methodology
 - [Hands-on with RZUSBstick](https://uk.rs-online.com/web/p/radio-frequency-development-kits/6962415/) 
 
 #### BLE
-- [Traffic Engineering in a  
-Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
- - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
+- [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
+- [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
+
 Reconnaissance (Active and Passive) with HCI Tools
     - [btproxy](https://github.com/conorpp/btproxy)
     - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
