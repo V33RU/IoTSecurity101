@@ -133,6 +133,13 @@ Approach Methodology
   - [EEPROM readers](https://www.ebay.com/bhp/eeprom-reader)
   - [Jtagulator / Jtagenum](https://www.adafruit.com/product/1550)
   - [Logic Analyzer](https://www.saleae.com/)
+    - [The Shikra](https://int3.cc/products/the-shikra)
+  - [FaceDancer21 (USB Emulator/USB Fuzzer)](https://int3.cc/products/facedancer21)
+  - [RfCat](https://int3.cc/products/rfcat)
+  - [IoT Exploitation Learning Kit](https://www.attify.com/attify-store/iot-exploitation-learning-kit)
+  - [Hak5Gear- Hak5FieldKits](https://hakshop.com/)
+  - [Ultra-Mini Bluetooth CSR 4.0 USB Dongle Adapter](https://www.ebay.in/itm/Ultra-Mini-Bluetooth-CSR-4-0-USB-Dongle-Adapter-Black-Golden-with-2-yr-wrnty-/332302813975)
+  - [Attify Badge - UART, JTAG, SPI, I2C (w/ headers)](https://www.attify-store.com/products/attify-badge-assess-security-of-iot-devices)
     
 #### Attacking Hardware Interfaces
    -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
