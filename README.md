@@ -133,7 +133,7 @@ Approach Methodology
   - [EEPROM readers](https://www.ebay.com/bhp/eeprom-reader)
   - [Jtagulator / Jtagenum](https://www.adafruit.com/product/1550)
   - [Logic Analyzer](https://www.saleae.com/)
-    - [The Shikra](https://int3.cc/products/the-shikra)
+  - [The Shikra](https://int3.cc/products/the-shikra)
   - [FaceDancer21 (USB Emulator/USB Fuzzer)](https://int3.cc/products/facedancer21)
   - [RfCat](https://int3.cc/products/rfcat)
   - [IoT Exploitation Learning Kit](https://www.attify.com/attify-store/iot-exploitation-learning-kit)
