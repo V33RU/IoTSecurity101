@@ -100,6 +100,10 @@ Approach Methodology
 - [Recording specific radio signal](https://www.rtl-sdr.com/freqwatch-rtl-sdr-frequency-scanner-recorder/)
 - [Replay Attacks](https://www.rtl-sdr.com/tutorial-replay-attacks-with-an-rtl-sdr-raspberry-pi-and-rpitx/)
 
+#### Base transceiver station (BTS)
+- [what is base tranceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
+- [How to Build Your Own Rogue GSM BTS](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
+
 #### Zigbee
 - [Introduction and protocol Overview](http://www.informit.com/articles/article.aspx?p=1409785)
 - [Hacking Zigbee Devices with Attify Zigbee Framework](https://blog.attify.com/hack-iot-devices-zigbee-sniffing-exploitation/)
