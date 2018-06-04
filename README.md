@@ -95,7 +95,6 @@ Approach Methodology
 - [Signal Processing]()
 - [Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
 - [Gnuradio](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC#Tutorial:_GNU_Radio_Companion)
--
 - [Creating a flow graph](https://blog.didierstevens.com/2017/09/19/quickpost-creating-a-simple-flow-graph-with-gnu-radio-companion/)
 - [Analysing radio signals](https://www.rtl-sdr.com/analyzing-433-mhz-transmitters-rtl-sdr/)
 - [Recording specific radio signal](https://www.rtl-sdr.com/freqwatch-rtl-sdr-frequency-scanner-recorder/)
