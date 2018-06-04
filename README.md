@@ -124,6 +124,7 @@ Approach Methodology
 
 #### ARM
 - [Azeria Labs](https://azeria-labs.com/)
+- [ARM EXPLOITATION FOR IoT](https://www.exploit-db.com/docs/english/43906-arm-exploitation-for-iot.pdf)
 
 #### Firmware Pentest
  - [Firmware analysis and reversing](https://www.youtube.com/watch?v=G0NNBloGIvs)
