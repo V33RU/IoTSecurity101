@@ -51,6 +51,7 @@ Approach Methodology
 - [Ubutnu Best Host Linux for IoT's - Use LTS](https://www.ubuntu.com/)
 - [A Small, Scalable Open Source RTOS for IoT Embedded Devices](https://www.zephyrproject.org/)
 - [Skywave Linux- Software Defined Radio for Global Online Listening](https://skywavelinux.com/)
+- [Routersploit (Exploitation Framework for Embedded Devices)](https://github.com/threat9/routersploit)
 
 ### Reverse Enginnering Tools
 - [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
@@ -70,7 +71,6 @@ Approach Methodology
 
 #### MQTT
 - [Introduction](https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
-- [Reconnaisance]()
 - [Hacking the IoT with MQTT](https://morphuslabs.com/hacking-the-iot-with-mqtt-8edaf0d07b9b)
 - [thoughts about using IoT MQTT for V2V and Connected Car from CES 2014](https://mobilebit.wordpress.com/tag/mqtt/)
 - [Nmap](https://nmap.org/nsedoc/lib/mqtt.html)
