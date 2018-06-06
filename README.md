@@ -106,10 +106,11 @@ Approach Methodology
 - [what is base tranceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
 - [How to Build Your Own Rogue GSM BTS](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
 
-#### Zigbee
+#### Zigbee & Zwave
 - [Introduction and protocol Overview](http://www.informit.com/articles/article.aspx?p=1409785)
 - [Hacking Zigbee Devices with Attify Zigbee Framework](https://blog.attify.com/hack-iot-devices-zigbee-sniffing-exploitation/)
 - [Hands-on with RZUSBstick](https://uk.rs-online.com/web/p/radio-frequency-development-kits/6962415/) 
+- [ZigBee & Z-Wave Security Brief](http://www.riverloopsecurity.com/blog/2018/05/zigbee-zwave-part1/)
 
 #### BLE
 - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
