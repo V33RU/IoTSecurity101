@@ -106,6 +106,18 @@ Approach Methodology
 - [what is base tranceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
 - [How to Build Your Own Rogue GSM BTS](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
 
+#### GSM & SS7 Pentesting
+- [Introduction to GSM Security](http://www.pentestingexperts.com/introduction-to-gsm-security/)
+- [GSM Security 2 ](https://www.ehacking.net/2011/02/gsm-security-2.html)
+- [vulnerabilities in GSM security with USRP B200](https://ieeexplore.ieee.org/document/7581461/)
+- [Security Testing 4G (LTE) Networks](https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-44con-lte-presentation-2012-09-11.pdf)
+- [Case Study of SS7/SIGTRAN Assessment](https://nullcon.net/website/archives/pdf/goa-2017/case-study-of-SS7-sigtran.pdf)
+- [Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP](https://github.com/SigPloiter/SigPloit)
+- [ss7MAPer – A SS7 pen testing toolkit](https://n0where.net/ss7-pentesting-toolkit-ss7maper)
+- [Introduction to SIGTRAN and SIGTRAN Licensing](https://www.youtube.com/watch?v=XUY6pyoRKsg)
+- [SS7 Network Architecture](https://youtu.be/pg47dDUL1T0)
+- [Introduction to SS7 Signaling](https://www.patton.com/whitepapers/Intro_to_SS7_Tutorial.pdf)
+
 #### Zigbee & Zwave
 - [Introduction and protocol Overview](http://www.informit.com/articles/article.aspx?p=1409785)
 - [Hacking Zigbee Devices with Attify Zigbee Framework](https://blog.attify.com/hack-iot-devices-zigbee-sniffing-exploitation/)
