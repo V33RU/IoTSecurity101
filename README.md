@@ -48,7 +48,7 @@ Approach Methodology
 
 
 ### Exploitation Tools & OS 
-- [Exploit - IoT Exploitation framework - by Aseemjakhar](https://bitbucket.org/aseemjakhar/expliot_framework)
+- [Exploit - IoT Exploitation framework - by Aseemjakhar](https://gitlab.com/expliot_framework/expliot)
 - [AttifyOS - IoT Pentest OS - by Aditya Gupta](https://github.com/adi0x90/attifyos)
 - [Ubutnu Best Host Linux for IoT's - Use LTS](https://www.ubuntu.com/)
 - [A Small, Scalable Open Source RTOS for IoT Embedded Devices](https://www.zephyrproject.org/)
