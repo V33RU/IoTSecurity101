@@ -41,6 +41,10 @@ Approach Methodology
 9. https://courk.cc/
 10. https://iotsecuritywiki.com/
 
+### CTF For IoT's And Embeddded
+1. https://github.com/hackgnar/ble_ctf
+2. https://www.microcorruption.com/
+
 
 ### IoT security vulnerabilites checking guides
 
