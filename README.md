@@ -15,6 +15,9 @@ Approach Methodology
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+### Telegram group for IoT Security
+- https://t.me/iotsecurity1011
+
 ### Books
 
 - [Android Hacker's Handbook](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
