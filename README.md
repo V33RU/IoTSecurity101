@@ -142,6 +142,7 @@ Approach Methodology
 
 #### Mobile security (Android & iOS)
  - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
+ - [Android Pentest Video Course](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
 
 #### ARM
