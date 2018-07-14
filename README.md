@@ -15,6 +15,9 @@ Approach Methodology
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+### Telegram group for IoT Security
+- https://t.me/iotsecurity1011
+
 ### Books
 
 - [Android Hacker's Handbook](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
@@ -41,6 +44,10 @@ Approach Methodology
 9. https://courk.cc/
 10. https://iotsecuritywiki.com/
 
+### CTF For IoT's And Embeddded
+1. https://github.com/hackgnar/ble_ctf
+2. https://www.microcorruption.com/
+
 
 ### IoT security vulnerabilites checking guides
 
@@ -48,7 +55,7 @@ Approach Methodology
 
 
 ### Exploitation Tools & OS 
-- [Exploit - IoT Exploitation framework - by Aseemjakhar](https://bitbucket.org/aseemjakhar/expliot_framework)
+- [Expliot - IoT Exploitation framework - by Aseemjakhar](https://gitlab.com/expliot_framework/expliot)
 - [AttifyOS - IoT Pentest OS - by Aditya Gupta](https://github.com/adi0x90/attifyos)
 - [Ubutnu Best Host Linux for IoT's - Use LTS](https://www.ubuntu.com/)
 - [A Small, Scalable Open Source RTOS for IoT Embedded Devices](https://www.zephyrproject.org/)
@@ -135,6 +142,7 @@ Approach Methodology
 
 #### Mobile security (Android & iOS)
  - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
+ - [Android Pentest Video Course](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
 
 #### ARM
