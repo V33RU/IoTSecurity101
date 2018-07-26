@@ -48,6 +48,13 @@ Approach Methodology
 1. https://github.com/hackgnar/ble_ctf
 2. https://www.microcorruption.com/
 
+### YouTube Channels for Embedded hacking
+
+1. [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+2. [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
+3. [EEVBlog](https://www.youtube.com/user/EEVblog)
+4. [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
+
 
 ### IoT security vulnerabilites checking guides
 
