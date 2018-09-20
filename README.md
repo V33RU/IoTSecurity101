@@ -1,21 +1,20 @@
-# IoT Penetesting 101 && IoT security 101	
+# IoT Pentesting 101 && IoT Security 101	
 
 Approach Methodology 
   
   1. Network 
   2. Web (Front & Backend and Web services)
-  3. Mobile App(Android & iOS)
+  3. Mobile App (Android & iOS)
   4. Wireless Connectivity 
-  5. Firmware Pentesting(Hardware or IoT device OS)
+  5. Firmware Pentesting (Hardware or IoT device OS)
   6. Hardware Level Approach 
-
-
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ### Telegram group for IoT Security
+
 - https://t.me/iotsecurity1011
 
 ### Books
@@ -29,9 +28,9 @@ Approach Methodology
 - [Linksys WRT54G Ultimate Hacking](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
 - [Linux Binary Analysis](https://www.packtpub.com/networking-and-servers/learning-linux-binary-analysis)
 - [Firmware](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
-- 
 
-### Blogs for iotpentest
+
+### Blogs for IoT Pentest
 
 1. http://iotpentest.com/
 2. https://blog.attify.com
@@ -46,13 +45,16 @@ Approach Methodology
 11. https://cybergibbons.com/
 12. http://firmware.re/
 
-### CTF For IoT's And Embeddded
+### CTF for IoT's and Embedded
+
 1. https://github.com/hackgnar/ble_ctf
 2. https://www.microcorruption.com/
 3. https://github.com/Riscure/Rhme-2016
 4. https://github.com/Riscure/Rhme-2017
 
+
 ### YouTube Channels for Embedded hacking
+
 1. [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 2. [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
 3. [EEVBlog](https://www.youtube.com/user/EEVblog)
@@ -66,6 +68,7 @@ Approach Methodology
 
 
 ### Exploitation Tools & OS 
+
 - [Expliot - IoT Exploitation framework - by Aseemjakhar](https://gitlab.com/expliot_framework/expliot)
 - [AttifyOS - IoT Pentest OS - by Aditya Gupta](https://github.com/adi0x90/attifyos)
 - [Ubutnu Best Host Linux for IoT's - Use LTS](https://www.ubuntu.com/)
@@ -73,7 +76,9 @@ Approach Methodology
 - [Skywave Linux- Software Defined Radio for Global Online Listening](https://skywavelinux.com/)
 - [Routersploit (Exploitation Framework for Embedded Devices)](https://github.com/threat9/routersploit)
 
+
 ### Reverse Enginnering Tools
+
 - [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [GDB](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [Radare2](https://radare.gitbooks.io/radare2book/content/)
@@ -97,14 +102,15 @@ Approach Methodology
 - [The Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
 - [A Guide to MQTT by Hacking a Doorbell to send Push Notifications](https://youtu.be/J_BAXVSVPVI)
 
-
 #### CoAP
+
 - [Introduction](http://coap.technology/)
 - [CoAP client Tools](http://coap.technology/tools.html)
 - [CoAP Pentest Tools](https://bitbucket.org/aseemjakhar/expliot_framework)
 - [Nmap](https://nmap.org/nsedoc/lib/coap.html)
 
 #### Automobile 
+
   CanBus
 - [Introduction and protocol Overview](https://www.youtube.com/watch?v=FqLDpHsxvf8)	
 - [PENTESTING VEHICLES WITH CANTOOLZ](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf)
@@ -112,6 +118,7 @@ Approach Methodology
 - [CANToolz - Black-box CAN network analysis framework](https://github.com/CANToolz/CANToolz)
 
 #### Radio IoT Protocols Overview
+
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
 - [Signal Processing]()
 - [Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
@@ -121,11 +128,13 @@ Approach Methodology
 - [Recording specific radio signal](https://www.rtl-sdr.com/freqwatch-rtl-sdr-frequency-scanner-recorder/)
 - [Replay Attacks](https://www.rtl-sdr.com/tutorial-replay-attacks-with-an-rtl-sdr-raspberry-pi-and-rpitx/)
 
-#### Base transceiver station (BTS)
-- [what is base tranceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
+#### Base Transceiver Station (BTS)
+
+- [What is base tranceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
 - [How to Build Your Own Rogue GSM BTS](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
 
 #### GSM & SS7 Pentesting
+
 - [Introduction to GSM Security](http://www.pentestingexperts.com/introduction-to-gsm-security/)
 - [GSM Security 2 ](https://www.ehacking.net/2011/02/gsm-security-2.html)
 - [vulnerabilities in GSM security with USRP B200](https://ieeexplore.ieee.org/document/7581461/)
@@ -138,12 +147,14 @@ Approach Methodology
 - [Introduction to SS7 Signaling](https://www.patton.com/whitepapers/Intro_to_SS7_Tutorial.pdf)
 
 #### Zigbee & Zwave
+
 - [Introduction and protocol Overview](http://www.informit.com/articles/article.aspx?p=1409785)
 - [Hacking Zigbee Devices with Attify Zigbee Framework](https://blog.attify.com/hack-iot-devices-zigbee-sniffing-exploitation/)
 - [Hands-on with RZUSBstick](https://uk.rs-online.com/web/p/radio-frequency-development-kits/6962415/) 
 - [ZigBee & Z-Wave Security Brief](http://www.riverloopsecurity.com/blog/2018/05/zigbee-zwave-part1/)
 
 #### BLE
+
 - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
 - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
    Reconnaissance (Active and Passive) with HCI Tools
@@ -152,24 +163,29 @@ Approach Methodology
     - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
     - [Cracking encryption](https://github.com/mikeryan/crackle)
 
-#### Mobile security (Android & iOS)
+#### Mobile Security (Android & iOS)
+
  - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
  - [Android Pentest Video Course](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
 
 #### ARM
+
 - [Azeria Labs](https://azeria-labs.com/)
 - [ARM EXPLOITATION FOR IoT](https://www.exploit-db.com/docs/english/43906-arm-exploitation-for-iot.pdf)
 
 #### Firmware Pentest
+
  - [Firmware analysis and reversing](https://www.youtube.com/watch?v=G0NNBloGIvs)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
  - [Dumping Firmware using Buspirate](http://iotpentest.com/tag/pulling-firmware/)
 
-### IoT hardware Overview
+### IoT Hardware Overview
+
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
  
 #### Hardware Tools
+
   - [Bus Pirate](https://www.sparkfun.com/products/12942)
   - [EEPROM readers](https://www.ebay.com/bhp/eeprom-reader)
   - [Jtagulator / Jtagenum](https://www.adafruit.com/product/1550)
@@ -183,13 +199,17 @@ Approach Methodology
   - [Attify Badge - UART, JTAG, SPI, I2C (w/ headers)](https://www.attify-store.com/products/attify-badge-assess-security-of-iot-devices)
     
 #### Attacking Hardware Interfaces
+
    -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
    -  [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
       
-#### UART  
+#### UART
+
    - [Identifying UART interface](https://www.mikroe.com/blog/uart-serial-communication)
    - [onewire-over-uart](https://github.com/dword1511/onewire-over-uart)
    - [Accessing sensor via UART](http://home.wlu.edu/~levys/courses/csci250s2017/SensorsSignalsSerialSockets.pdf)
+   
 #### JTAG
+
    - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
