@@ -1,4 +1,4 @@
-# IoT Penetesting 101 && IoT security 101	
+# IoT Pentesting 101 && IoT security 101	
 
 Approach Methodology 
   
