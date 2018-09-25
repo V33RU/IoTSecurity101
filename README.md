@@ -169,7 +169,7 @@ Approach Methodology
 ### IoT hardware Overview
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
  
-#### Hardware Tools
+#### Hardware Gadgets to pentest
   - [Bus Pirate](https://www.sparkfun.com/products/12942)
   - [EEPROM readers](https://www.ebay.com/bhp/eeprom-reader)
   - [Jtagulator / Jtagenum](https://www.adafruit.com/product/1550)
