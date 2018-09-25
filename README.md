@@ -185,6 +185,7 @@ Approach Methodology
 
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
  
+
 #### Hardware Tools
 
   - [Bus Pirate](https://www.sparkfun.com/products/12942)
