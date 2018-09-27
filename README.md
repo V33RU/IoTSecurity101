@@ -1,4 +1,4 @@
-# IoT Penetesting 101 && IoT security 101	
+# IoT Pentesting 101 && IoT security 101 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
 Approach Methodology 
   
@@ -29,7 +29,6 @@ Approach Methodology
 - [Linksys WRT54G Ultimate Hacking](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
 - [Linux Binary Analysis](https://www.packtpub.com/networking-and-servers/learning-linux-binary-analysis)
 - [Firmware](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
-- 
 
 ### Blogs for iotpentest
 
@@ -43,12 +42,21 @@ Approach Methodology
 8. https://keenlab.tencent.com/en/
 9. https://courk.cc/
 10. https://iotsecuritywiki.com/
+11. https://cybergibbons.com/
+12. http://firmware.re/
 
 ### CTF For IoT's And Embeddded
 1. https://github.com/hackgnar/ble_ctf
 2. https://www.microcorruption.com/
 3. https://github.com/Riscure/Rhme-2016
 4. https://github.com/Riscure/Rhme-2017
+
+### YouTube Channels for Embedded hacking
+1. [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+2. [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
+3. [EEVBlog](https://www.youtube.com/user/EEVblog)
+4. [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
+5. [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
 
 
 ### IoT security vulnerabilites checking guides
@@ -100,6 +108,7 @@ Approach Methodology
 - [Introduction and protocol Overview](https://www.youtube.com/watch?v=FqLDpHsxvf8)	
 - [PENTESTING VEHICLES WITH CANTOOLZ](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf)
 - [Building a Car Hacking Development Workbench: Part1](https://blog.rapid7.com/2017/07/11/building-a-car-hacking-development-workbench-part-1/)
+- [CANToolz - Black-box CAN network analysis framework](https://github.com/CANToolz/CANToolz)
 
 #### Radio IoT Protocols Overview
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
@@ -144,6 +153,7 @@ Approach Methodology
 
 #### Mobile security (Android & iOS)
  - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
+ - [Android Pentest Video Course](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
 
 #### ARM
@@ -158,7 +168,7 @@ Approach Methodology
 ### IoT hardware Overview
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
  
-#### Hardware Tools
+#### Hardware Gadgets to pentest
   - [Bus Pirate](https://www.sparkfun.com/products/12942)
   - [EEPROM readers](https://www.ebay.com/bhp/eeprom-reader)
   - [Jtagulator / Jtagenum](https://www.adafruit.com/product/1550)
