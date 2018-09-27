@@ -199,4 +199,4 @@ Approach Methodology
 #### JTAG
    - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
-   - [JTAG On-Chip Debugging](https://labs.portcullis.co.uk/blog/jtag-on-chip-debugging-extracting-passwords-from-memory/)
+   - [Extracting Passwords from memory w/ JTAG](https://labs.portcullis.co.uk/blog/jtag-on-chip-debugging-extracting-passwords-from-memory/)
