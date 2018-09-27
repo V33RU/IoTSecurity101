@@ -1,4 +1,4 @@
-# IoT Pentesting 101 && IoT security 101 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# IoT Pentesting 101 && IoT security 101 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Approach Methodology 
   
@@ -50,6 +50,9 @@ Approach Methodology
 2. https://www.microcorruption.com/
 3. https://github.com/Riscure/Rhme-2016
 4. https://github.com/Riscure/Rhme-2017
+5. https://github.com/pentesteracademy/blemystique
+6. https://github.com/praetorian-inc/DVRF
+7. http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
 
 ### YouTube Channels for Embedded hacking
 1. [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
@@ -182,13 +185,15 @@ Approach Methodology
   - [Attify Badge - UART, JTAG, SPI, I2C (w/ headers)](https://www.attify-store.com/products/attify-badge-assess-security-of-iot-devices)
     
 #### Attacking Hardware Interfaces
-   -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
-   -  [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
-      
+   - [Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
+   - [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
+   - [Hardware Hacking : How to train (a team)](https://labs.portcullis.co.uk/blog/hardware-hacking-how-to-train-a-team/)
 #### UART  
    - [Identifying UART interface](https://www.mikroe.com/blog/uart-serial-communication)
    - [onewire-over-uart](https://github.com/dword1511/onewire-over-uart)
    - [Accessing sensor via UART](http://home.wlu.edu/~levys/courses/csci250s2017/SensorsSignalsSerialSockets.pdf)
+   - [Rooting an IP Phone using UART](https://labs.portcullis.co.uk/blog/uart-debugging-rooting-an-ip-phone-using-uart/)
 #### JTAG
    - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
+   - [JTAG On-Chip Debugging](https://labs.portcullis.co.uk/blog/jtag-on-chip-debugging-extracting-passwords-from-memory/)
