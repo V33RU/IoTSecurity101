@@ -32,34 +32,37 @@ Approach Methodology
 
 ### Blogs for iotpentest
 
-1. http://iotpentest.com/
-2. https://blog.attify.com
-3. https://payatu.com/blog/
-4. http://jcjc-dev.com/
-5. https://w00tsec.blogspot.in/
-6. http://www.devttys0.com/
-7. https://www.rtl-sdr.com/
-8. https://keenlab.tencent.com/en/
-9. https://courk.cc/
-10. https://iotsecuritywiki.com/
-11. https://cybergibbons.com/
-12. http://firmware.re/
+- http://iotpentest.com/
+- https://blog.attify.com
+- https://payatu.com/blog/
+- http://jcjc-dev.com/
+- https://w00tsec.blogspot.in/
+- http://www.devttys0.com/
+- https://www.rtl-sdr.com/
+- https://keenlab.tencent.com/en/
+- https://courk.cc/
+- https://iotsecuritywiki.com/
+- https://cybergibbons.com/
+- http://firmware.re/
 
 ### CTF For IoT's And Embeddded
-1. [BLECTF: ESP32 based Bluetooth CTF](https://github.com/hackgnar/ble_ctf)
-2. [Microcorruption CTF](https://www.microcorruption.com/)
-3. [Riscure Embedded Hardware CTF 2016](https://github.com/Riscure/Rhme-2016)
-4. [Riscure Embedded Hardware CTF 2017](https://github.com/Riscure/Rhme-2017)
-5. [BTLEmystique: ESP32 vulnerable BLE programs](https://github.com/pentesteracademy/blemystique)
-6. [Damn Vulnerable Router Firmware](https://github.com/praetorian-inc/DVRF)
-7. [Damn Vulnerable ARM Router](http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
+- [BLECTF: ESP32 based Bluetooth CTF](https://github.com/hackgnar/ble_ctf)
+- [Microcorruption CTF](https://www.microcorruption.com/)
+- [Riscure Embedded Hardware CTF 2016](https://github.com/Riscure/Rhme-2016)
+- [Riscure Embedded Hardware CTF 2017](https://github.com/Riscure/Rhme-2017)
+- [BTLEmystique: ESP32 vulnerable BLE programs](https://github.com/pentesteracademy/blemystique)
+- [Damn Vulnerable Router Firmware](https://github.com/praetorian-inc/DVRF)
+- [Damn Vulnerable ARM Router](http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
 
 ### YouTube Channels for Embedded hacking
-1. [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-2. [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
-3. [EEVBlog](https://www.youtube.com/user/EEVblog)
-4. [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
-5. [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
+- [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
+- [EEVBlog](https://www.youtube.com/user/EEVblog)
+- [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
+- [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
+- [Scanlime](https://www.youtube.com/user/micahjd)
+- [Hardwear.io](https://www.youtube.com/channel/UChwYb9xc9tZXquQxu4G0l_g)
+- [Colin O'Flynn](https://www.youtube.com/channel/UCqc9MJwX_R1pQC6A353JmJg)
 
 
 ### IoT security vulnerabilites checking guides
