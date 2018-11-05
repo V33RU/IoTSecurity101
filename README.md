@@ -1,4 +1,6 @@
-# IoT Pentesting 101 && IoT security 101	![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/v33ruiot)
+# IoT Pentesting 101 && IoT security 101	![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
+
+
 
 Approach Methodology 
   
@@ -194,3 +196,7 @@ Approach Methodology
 #### JTAG
    - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
+   
+# Donation
+If you feel this one useful send some and releasing projects soon 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/v33ruiot)
