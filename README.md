@@ -166,7 +166,7 @@ Approach Methodology
 - [ARM EXPLOITATION FOR IoT](https://www.exploit-db.com/docs/english/43906-arm-exploitation-for-iot.pdf)
 
 #### Firmware Pentest
- - [Firmware analysis and reversing](https://www.youtube.com/watch?v=G0NNBloGIvs)
+ - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
  - [Dumping Firmware using Buspirate](http://iotpentest.com/tag/pulling-firmware/)
  
