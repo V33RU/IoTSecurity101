@@ -48,6 +48,7 @@ Approach Methodology
 11. https://cybergibbons.com/
 12. http://firmware.re/
 13. https://iotmyway.wordpress.com/
+14. http://blog.k3170makan.com/
 
 ### CTF For IoT's And Embeddded
 1. https://github.com/hackgnar/ble_ctf
