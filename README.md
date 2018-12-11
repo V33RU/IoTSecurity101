@@ -49,6 +49,7 @@ Approach Methodology
 12. http://firmware.re/
 13. https://iotmyway.wordpress.com/
 14. http://blog.k3170makan.com/
+15. https://blog.tclaverie.eu/
 
 ### Search Engines for IoT Devices
 1. [Shodan](https://www.shodan.io/)
