@@ -2,7 +2,7 @@
 
 
 
-Approach Methodology 
+## Approach Methodology 
   
   1. Network 
   2. Web (Front & Backend and Web services)
@@ -11,6 +11,10 @@ Approach Methodology
   5. Firmware Pentesting(Hardware or IoT device OS)
   6. Hardware Level Approach 
 
+## To seen Hacked devices
+1. https://blog.exploitee.rs/2018/10/
+2. https://www.exploitee.rs/
+3. https://forum.exploitee.rs/
 
 
 ## Contents
