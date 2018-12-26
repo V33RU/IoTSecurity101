@@ -35,7 +35,6 @@
 - [Linksys WRT54G Ultimate Hacking](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
 - [Linux Binary Analysis](https://www.packtpub.com/networking-and-servers/learning-linux-binary-analysis)
 - [Firmware](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
-- 
 
 ### Blogs for iotpentest
 
@@ -214,5 +213,5 @@
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
    
 # Donation
-If you feel this one useful send some and releasing projects soon 
+If you feel this one useful helpme to buy Beer
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/v33ruiot)
