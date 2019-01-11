@@ -15,9 +15,10 @@ Approach Methodology
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-### Telegram group for IoT Security
+### Get In Touch With Other IoT Hackers
 - https://t.me/iotsecurity1011
-
+- https://www.iotvillage.org/
+- https://www.ethicalhacker.net/groups/iot
 ### Books
 
 - [Android Hacker's Handbook](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
@@ -44,6 +45,7 @@ Approach Methodology
 - https://iotsecuritywiki.com/
 - https://cybergibbons.com/
 - http://firmware.re/
+- https://www.securityevaluators.com/blog/
 
 ### CTF For IoT's And Embeddded
 - [BLECTF: ESP32 based Bluetooth CTF](https://github.com/hackgnar/ble_ctf)
