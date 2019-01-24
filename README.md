@@ -212,6 +212,3 @@
    - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
    
-# Donation
-If you feel this one useful helpme to buy Beer
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/v33ruiot)
