@@ -77,7 +77,7 @@
 
 ### IoT security vulnerabilites checking guides
 
-- [Reflecting upon OWASP TOP-10 IoT Vulnerabilities](https://embedi.com/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
+- [Reflecting upon OWASP TOP-10 IoT Vulnerabilities](https://embedi.org/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
 
 
 ### Exploitation Tools & OS 
