@@ -87,7 +87,7 @@
 - [A Small, Scalable Open Source RTOS for IoT Embedded Devices](https://www.zephyrproject.org/)
 - [Skywave Linux- Software Defined Radio for Global Online Listening](https://skywavelinux.com/)
 - [Routersploit (Exploitation Framework for Embedded Devices)](https://github.com/threat9/routersploit)
-- [IoTSecFuzz (comprehensive testing of IoT device)](https://gitlab.com/invuls/iot-projects/iotsecfuzz)
+- [IoTSecFuzz (comprehensive testing for IoT device)](https://gitlab.com/invuls/iot-projects/iotsecfuzz)
 
 ### Reverse Enginnering Tools
 - [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
