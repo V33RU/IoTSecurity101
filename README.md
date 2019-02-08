@@ -67,12 +67,13 @@
 3. https://github.com/Riscure/Rhme-2016
 4. https://github.com/Riscure/Rhme-2017
 
-### YouTube Channels for Embedded hacking
+### YouTube Channels for IoT Pentesting
 1. [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 2. [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
 3. [EEVBlog](https://www.youtube.com/user/EEVblog)
 4. [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
 5. [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
+6. [veerababu [Mr-IoT]](https://www.youtube.com/channel/UCe2mJv2FPRFhYJ7dvNdYR4Q)
 
 
 ### IoT security vulnerabilites checking guides
