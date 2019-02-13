@@ -172,10 +172,11 @@
     - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
     - [Cracking encryption](https://github.com/mikeryan/crackle)
     - [bettercap](https://github.com/bettercap/bettercap)
+    
  ##### BLE Sniffing/MiTM
-    - [BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework](https://github.com/DigitalSecurity/btlejuice)
-    - [gattacker](https://github.com/securing/gattacker)
-    - [BTLEjack - Bluetooth Low Energy Swiss-army knife](https://github.com/virtualabs/btlejack)
+ - [BtleJuice Bluetooth Smart Man-in-the-Middle framework](https://github.com/DigitalSecurity/btlejuice)
+ - [gattacker](https://github.com/securing/gattacker)
+ - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
 
 #### Mobile security (Android & iOS)
  - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
