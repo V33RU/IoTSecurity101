@@ -75,7 +75,7 @@
 4. [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
 5. [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
 6. [veerababu [Mr-IoT]](https://www.youtube.com/channel/UCe2mJv2FPRFhYJ7dvNdYR4Q)
-7. [Besim ALTINOK - IoT - Hardware - Wireless] (https://www.youtube.com/channel/UCnIV7A3kDL4JXJEljpW6TRQ/playlists)
+7. [Besim ALTINOK - IoT - Hardware - Wireless](https://www.youtube.com/channel/UCnIV7A3kDL4JXJEljpW6TRQ/playlists)
 
 
 ### IoT security vulnerabilites checking guides
