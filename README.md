@@ -15,6 +15,9 @@
 1. https://blog.exploitee.rs/2018/10/
 2. https://www.exploitee.rs/
 3. https://forum.exploitee.rs/
+4. [Your Lenovo Watch X Is Watching You & Sharing What It Learns](https://www.checkmarx.com/blog/lenovo-watch-watching-you/)
+5. [Your Smart Scale is Leaking More than Your Weight: Privacy Issues in IoT](https://www.checkmarx.com/blog/smart-scale-privacy-issues-iot/)
+6. [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
 
 
 ## Contents
@@ -170,6 +173,12 @@
     - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
     - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
     - [Cracking encryption](https://github.com/mikeryan/crackle)
+    - [bettercap](https://github.com/bettercap/bettercap)
+    
+ ##### BLE Sniffing/MiTM
+ - [BtleJuice Bluetooth Smart Man-in-the-Middle framework](https://github.com/DigitalSecurity/btlejuice)
+ - [gattacker](https://github.com/securing/gattacker)
+ - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
 
 #### Mobile security (Android & iOS)
  - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
@@ -203,6 +212,7 @@
   - [Hak5Gear- Hak5FieldKits](https://hakshop.com/)
   - [Ultra-Mini Bluetooth CSR 4.0 USB Dongle Adapter](https://www.ebay.in/itm/Ultra-Mini-Bluetooth-CSR-4-0-USB-Dongle-Adapter-Black-Golden-with-2-yr-wrnty-/332302813975)
   - [Attify Badge - UART, JTAG, SPI, I2C (w/ headers)](https://www.attify-store.com/products/attify-badge-assess-security-of-iot-devices)
+  - [Ubertooth](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One)
     
 #### Attacking Hardware Interfaces
    -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
@@ -212,6 +222,8 @@
    - [Identifying UART interface](https://www.mikroe.com/blog/uart-serial-communication)
    - [onewire-over-uart](https://github.com/dword1511/onewire-over-uart)
    - [Accessing sensor via UART](http://home.wlu.edu/~levys/courses/csci250s2017/SensorsSignalsSerialSockets.pdf)
+   - [Using UART to connect to a chinese IP cam](https://www.davidsopas.com/using-uart-to-connect-to-a-chinese-ip-cam/)
+   
 #### JTAG
    - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
