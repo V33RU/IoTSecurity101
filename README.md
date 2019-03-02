@@ -194,6 +194,7 @@
  - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
  - [Dumping Firmware using Buspirate](http://iotpentest.com/tag/pulling-firmware/)
+ - [Reversing ESP8266 Firmware](https://boredpentester.com/reversing-esp8266-firmware-part-1/)
  
 #### Firmware to pentest
  - [Download From here](https://firmware.center/)
