@@ -58,6 +58,7 @@
 14. http://blog.k3170makan.com/
 15. https://blog.tclaverie.eu/
 16. http://blog.besimaltinok.com/category/iot-pentest/
+17. https://ctrlu.net/
 
 ### Search Engines for IoT Devices
 1. [Shodan](https://www.shodan.io/)
