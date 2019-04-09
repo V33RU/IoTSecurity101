@@ -102,6 +102,7 @@
 - [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [GDB](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [Radare2](https://radare.gitbooks.io/radare2book/content/)
+- [Ghidra](https://ghidra-sre.org/)
 
 
 ### Introduction
@@ -191,6 +192,7 @@
 #### ARM
 - [Azeria Labs](https://azeria-labs.com/)
 - [ARM EXPLOITATION FOR IoT](https://www.exploit-db.com/docs/english/43906-arm-exploitation-for-iot.pdf)
+- [Static Binary analysis ARMV7](https://github.com/CJHackerz/easy_iotsec-arm)
 
 #### Firmware Pentest
  - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
@@ -212,7 +214,6 @@
   - [The Shikra](https://int3.cc/products/the-shikra)
   - [FaceDancer21 (USB Emulator/USB Fuzzer)](https://int3.cc/products/facedancer21)
   - [RfCat](https://int3.cc/products/rfcat)
-  - [IoT Exploitation Learning Kit](https://www.attify.com/attify-store/iot-exploitation-learning-kit)
   - [Hak5Gear- Hak5FieldKits](https://hakshop.com/)
   - [Ultra-Mini Bluetooth CSR 4.0 USB Dongle Adapter](https://www.ebay.in/itm/Ultra-Mini-Bluetooth-CSR-4-0-USB-Dongle-Adapter-Black-Golden-with-2-yr-wrnty-/332302813975)
   - [Attify Badge - UART, JTAG, SPI, I2C (w/ headers)](https://www.attify-store.com/products/attify-badge-assess-security-of-iot-devices)
