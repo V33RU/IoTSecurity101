@@ -59,7 +59,7 @@
 15. https://blog.tclaverie.eu/
 16. http://blog.besimaltinok.com/category/iot-pentest/
 17. https://ctrlu.net/
-
+18. https://duo.com/decipher/
 ### Search Engines for IoT Devices
 1. [Shodan](https://www.shodan.io/)
 2. [FOFA](https://fofa.so/?locale=en)
