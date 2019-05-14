@@ -81,6 +81,7 @@
 5. [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
 6. [veerababu [Mr-IoT]](https://www.youtube.com/channel/UCe2mJv2FPRFhYJ7dvNdYR4Q)
 7. [Besim ALTINOK - IoT - Hardware - Wireless](https://www.youtube.com/channel/UCnIV7A3kDL4JXJEljpW6TRQ/playlists)
+8. [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 
 
 ###***IoT security vulnerabilites checking guides***
@@ -162,6 +163,7 @@
 - [Introduction to SIGTRAN and SIGTRAN Licensing](https://www.youtube.com/watch?v=XUY6pyoRKsg)
 - [SS7 Network Architecture](https://youtu.be/pg47dDUL1T0)
 - [Introduction to SS7 Signaling](https://www.patton.com/whitepapers/Intro_to_SS7_Tutorial.pdf)
+- [Breaking LTE on Layer Two](https://alter-attack.net/)
 
 ###***Zigbee & Zwave***
 - [Introduction and protocol Overview](http://www.informit.com/articles/article.aspx?p=1409785)
@@ -194,6 +196,7 @@
 - [ARM EXPLOITATION FOR IoT](https://www.exploit-db.com/docs/english/43906-arm-exploitation-for-iot.pdf)
 - [Static Binary analysis ARMV7](https://github.com/CJHackerz/easy_iotsec-arm)
 - [Damn Vulnerable ARM Router (DVAR)](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
+- [EXPLOIT.EDUCATION](https://exploit.education/)
 
 ###***Firmware Pentest***
  - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
