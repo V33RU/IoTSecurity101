@@ -73,7 +73,7 @@
 3. https://github.com/Riscure/Rhme-2016
 4. https://github.com/Riscure/Rhme-2017
 5. https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
-
+6. https://github.com/scriptingxss/IoTGoat
 ### YouTube Channels for IoT Pentesting
 1. [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 2. [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
