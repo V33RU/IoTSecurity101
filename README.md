@@ -57,6 +57,7 @@
 16. http://blog.besimaltinok.com/category/iot-pentest/
 17. https://ctrlu.net/
 18. https://duo.com/decipher/
+19. http://www.sp3ctr3.me
 
 ### ***Search Engines for IoT Devices***
 1. [Shodan](https://www.shodan.io/)
