@@ -18,6 +18,7 @@
 4. [Your Lenovo Watch X Is Watching You & Sharing What It Learns](https://www.checkmarx.com/blog/lenovo-watch-watching-you/)
 5. [Your Smart Scale is Leaking More than Your Weight: Privacy Issues in IoT](https://www.checkmarx.com/blog/smart-scale-privacy-issues-iot/)
 6. [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
+7. Besder-IPCamera analysis(http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
 
 
 ## Contents
@@ -58,6 +59,7 @@
 17. https://ctrlu.net/
 18. https://duo.com/decipher/
 19. http://www.sp3ctr3.me
+20. http://blog.0x42424242.in/
 
 ### ***Search Engines for IoT Devices***
 1. [Shodan](https://www.shodan.io/)
