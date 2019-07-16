@@ -177,6 +177,7 @@
 - [ZigBee & Z-Wave Security Brief](http://www.riverloopsecurity.com/blog/2018/05/zigbee-zwave-part1/)
 
 ### ***BLE***
+- [Step By Step guide to BLE Understanding and Exploiting](https://github.com/V33RU/BLE-NullBlr)
 - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
 - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
    Reconnaissance (Active and Passive) with HCI Tools
