@@ -60,6 +60,8 @@
 18. https://duo.com/decipher/
 19. http://www.sp3ctr3.me
 20. http://blog.0x42424242.in/
+21. https://dantheiotman.com/
+
 
 ### ***Search Engines for IoT Devices***
 1. [Shodan](https://www.shodan.io/)
