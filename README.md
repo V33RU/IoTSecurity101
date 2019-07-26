@@ -62,7 +62,7 @@
 20. http://blog.0x42424242.in/
 21. https://dantheiotman.com/
 
-### ***Awesome Nmap Cheat***
+### ***Awesome Nmap CheatSheet***
 - https://github.com/gnebbia/nmap_tutorial
 
 ### ***Search Engines for IoT Devices***
