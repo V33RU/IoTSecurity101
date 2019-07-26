@@ -86,7 +86,7 @@
 3. [EEVBlog](https://www.youtube.com/user/EEVblog)
 4. [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
 5. [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
-6. [veerababu [Mr-IoT]](https://www.youtube.com/channel/UCe2mJv2FPRFhYJ7dvNdYR4Q)
+6. [iotpentest [Mr-IoT]](https://www.youtube.com/channel/UCe2mJv2FPRFhYJ7dvNdYR4Q)
 7. [Besim ALTINOK - IoT - Hardware - Wireless](https://www.youtube.com/channel/UCnIV7A3kDL4JXJEljpW6TRQ/playlists)
 8. [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 
