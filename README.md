@@ -62,6 +62,8 @@
 20. http://blog.0x42424242.in/
 21. https://dantheiotman.com/
 
+### ***Awesome Nmap Cheat***
+- https://github.com/gnebbia/nmap_tutorial
 
 ### ***Search Engines for IoT Devices***
 1. [Shodan](https://www.shodan.io/)
