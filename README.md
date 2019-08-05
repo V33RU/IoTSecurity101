@@ -18,7 +18,8 @@
 4. [Your Lenovo Watch X Is Watching You & Sharing What It Learns](https://www.checkmarx.com/blog/lenovo-watch-watching-you/)
 5. [Your Smart Scale is Leaking More than Your Weight: Privacy Issues in IoT](https://www.checkmarx.com/blog/smart-scale-privacy-issues-iot/)
 6. [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
-7. Besder-IPCamera analysis(http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
+7. [Besder-IPCamera analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
+8. [Smart Lock](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
 
 
 ## Contents
@@ -192,12 +193,14 @@
     - [gattacker](https://github.com/securing/gattacker)
     - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
 ### ***BLE Pentesting Tutorials***
+  - [Bluetooth vs BLE Basics](https://github.com/V33RU/BLE-NullBlr)
   - [Intel Edison as Bluetooth LE — Exploit box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
   - [How I Reverse Engineered and Exploited a Smart Massager](https://medium.com/@arunmag/how-i-reverse-engineered-and-exploited-a-smart-massager-ee7c9f21bf33)
   - [My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE](https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2)
   - [Bluetooth Smartlocks](https://www.getkisi.com/blog/smart-locks-hacked-bluetooth-ble)
   - [I hacked MiBand 3](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
   - [GATTacking Bluetooth Smart Devices](https://securing.pl/en/gattacking-bluetooth-smart-devices-introducing-a-new-ble-proxy-tool/index.html)
+  
 
 
 ### ***Mobile security (Android & iOS)***
@@ -255,3 +258,5 @@
    
 ### ***SideChannel Attacks***
    - [All Attacks](https://yifan.lu/)
+   
+
