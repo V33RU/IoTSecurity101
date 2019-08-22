@@ -62,6 +62,7 @@
 19. http://www.sp3ctr3.me
 20. http://blog.0x42424242.in/
 21. https://dantheiotman.com/
+22. https://blog.danman.eu/
 
 ### ***Awesome Nmap CheatSheet***
 - https://github.com/gnebbia/nmap_tutorial
@@ -145,6 +146,8 @@
 - [PENTESTING VEHICLES WITH CANTOOLZ](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf)
 - [Building a Car Hacking Development Workbench: Part1](https://blog.rapid7.com/2017/07/11/building-a-car-hacking-development-workbench-part-1/)
 - [CANToolz - Black-box CAN network analysis framework](https://github.com/CANToolz/CANToolz)
+- [PLAYING WITH CAN BUS](https://blog.danman.eu/playing-with-can-bus/)
+
 
 ### ***Radio IoT Protocols Overview***
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
