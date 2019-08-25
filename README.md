@@ -29,6 +29,9 @@
 ### ***Telegram group for IoT Security***
 - https://t.me/iotsecurity1011
 
+### ***Discord Group for IoT Security and CTF***
+- https://discord.gg/EH9dxT9
+
 ### ***Books***
 - [Android Hacker's Handbook](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
 - [Hacking the Xbox](https://www.nostarch.com/xboxfree)
