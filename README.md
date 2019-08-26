@@ -101,6 +101,8 @@
 - [Reflecting upon OWASP TOP-10 IoT Vulnerabilities](https://embedi.org/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
 - [OWASP IoT Top 10 2018 Mapping Project](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/)
 
+### ***Labs for Practice*** ####
+- [IoT Goat](https://github.com/scriptingxss/IoTGoat)
 
 ### ***Exploitation Tools & OS***
 - [Expliot - IoT Exploitation framework - by Aseemjakhar](https://gitlab.com/expliot_framework/expliot)
