@@ -66,6 +66,7 @@
 20. http://blog.0x42424242.in/
 21. https://dantheiotman.com/
 22. https://blog.danman.eu/
+23. https://quentinkaiser.be/
 
 ### ***Awesome Nmap CheatSheet***
 - https://github.com/gnebbia/nmap_tutorial
