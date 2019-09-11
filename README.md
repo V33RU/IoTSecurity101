@@ -268,4 +268,18 @@
 ### ***SideChannel Attacks***
    - [All Attacks](https://yifan.lu/)
    
+## ***Vulnerable IoT and Hardware Applications***
 
+  - IoT : https://github.com/Vulcainreo/DVID
+
+  - Safe : https://insinuator.net/2016/01/damn-vulnerable-safe/
+
+  - Router : https://github.com/praetorian-code/DVRF
+
+  - SCADA : https://www.slideshare.net/phdays/damn-vulnerable-chemical-process
+
+  - PI : https://whitedome.com.au/re4son/sticky-fingers-dv-pi/
+
+  - SS7 Network: https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network
+
+ -  VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
