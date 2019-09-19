@@ -28,7 +28,7 @@
 
 ### ***Telegram group for IoT Security***
 
-<- <https://t.me/iotsecurity1011>
+- <https://t.me/iotsecurity1011>
 
 ### ***Discord Group for IoT Security and CTF***
 - https://discord.gg/EH9dxT9
