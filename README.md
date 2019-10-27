@@ -20,7 +20,8 @@
 6. [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
 7. [Besder-IPCamera analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
 8. [Smart Lock](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
-
+9. [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
+10. [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
