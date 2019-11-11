@@ -122,7 +122,7 @@
 - [Routersploit (Exploitation Framework for Embedded Devices)](https://github.com/threat9/routersploit)
 - [IoTSecFuzz (comprehensive testing for IoT device)](https://gitlab.com/invuls/iot-projects/iotsecfuzz)
 
-### ***Reverse Enginnering Tools***
+### ***Reverse Engineering Tools***
 - [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [GDB](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [Radare2](https://radare.gitbooks.io/radare2book/content/)
