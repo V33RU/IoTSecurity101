@@ -101,6 +101,10 @@
 8. [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 
 
+### ***Vehicle Security Resources***
+
+- https://github.com/jaredthecoder/awesome-vehicle-security
+
 ### ***IoT security vulnerabilites checking guides***
 
 - [Reflecting upon OWASP TOP-10 IoT Vulnerabilities](https://embedi.org/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
