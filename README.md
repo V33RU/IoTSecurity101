@@ -71,6 +71,7 @@
 23. https://quentinkaiser.be/
 24. https://blog.quarkslab.com
 25. https://blog.ice9.us/
+26. https://labs.f-secure.com/
 
 ### ***Awesome Nmap CheatSheet***
 - https://github.com/gnebbia/nmap_tutorial
