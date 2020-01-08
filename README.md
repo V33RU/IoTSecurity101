@@ -31,6 +31,7 @@
 
 - <https://t.me/iotsecurity1011>
 - <https://t.me/hardwareHackingBrasil>
+- <https://t.me/joinchat/JAMxOg5YzdkGjcF3HmNgQw>
 
 ### ***Discord Group for IoT Security and CTF***
 - https://discord.gg/EH9dxT9
