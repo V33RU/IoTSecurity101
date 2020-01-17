@@ -9,7 +9,6 @@
   4. Wireless Connectivity 
   5. Firmware Pentesting(Hardware or IoT device OS)
   6. Hardware Level Approach 
-  7. Storage Areas
 
 ### ***To seen Hacked devices***
 1. https://blog.exploitee.rs/2018/10/
