@@ -47,23 +47,24 @@
 - [Firmware](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 
 ### ***Blogs for iotpentest***
-1. http://iotpentest.com/
-2. https://blog.attify.com
-3. https://payatu.com/blog/
-4. http://jcjc-dev.com/
-5. https://w00tsec.blogspot.in/
-6. http://www.devttys0.com/
-7. https://www.rtl-sdr.com/
-8. https://keenlab.tencent.com/en/
-9. https://courk.cc/
-10. https://iotsecuritywiki.com/
-11. https://cybergibbons.com/
-12. http://firmware.re/
-13. https://iotmyway.wordpress.com/
-14. http://blog.k3170makan.com/
-15. https://blog.tclaverie.eu/
-16. http://blog.besimaltinok.com/category/iot-pentest/
-17. https://ctrlu.net/
+
+1. https://payatu.com/blog/
+2. http://jcjc-dev.com/
+3. https://w00tsec.blogspot.in/
+4. http://www.devttys0.com/
+5. https://www.rtl-sdr.com/
+6. https://keenlab.tencent.com/en/
+7. https://courk.cc/
+8. https://iotsecuritywiki.com/
+9. https://cybergibbons.com/
+10. http://firmware.re/
+11. https://iotmyway.wordpress.com/
+12. http://blog.k3170makan.com/
+13. https://blog.tclaverie.eu/
+14. http://blog.besimaltinok.com/category/iot-pentest/
+15. https://ctrlu.net/
+16. http://iotpentest.com/
+17. https://blog.attify.com
 18. https://duo.com/decipher/
 19. http://www.sp3ctr3.me
 20. http://blog.0x42424242.in/
@@ -75,8 +76,9 @@
 26. https://labs.f-secure.com/
 27. https://mg.lol/blog/
 
-### ***Awesome Nmap CheatSheet***
-- https://github.com/gnebbia/nmap_tutorial
+### ***Awesome CheatSheets***
+- [Hw Hacking](https://github.com/arunmagesh/hw_hacking_cheatsheet)
+- [Nmap](https://github.com/gnebbia/nmap_tutorial)
 
 ### ***Search Engines for IoT Devices***
 1. [Shodan](https://www.shodan.io/)
