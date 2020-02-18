@@ -212,10 +212,11 @@
 - [Hands-on with RZUSBstick](https://uk.rs-online.com/web/p/radio-frequency-development-kits/6962415/) 
 - [ZigBee & Z-Wave Security Brief](http://www.riverloopsecurity.com/blog/2018/05/zigbee-zwave-part1/)
 
-### ***BLE Intro and Tools***
+### ***BLE Intro and SW & HW Tools***
   - [Step By Step guide to BLE Understanding and Exploiting](https://github.com/V33RU/BLE-NullBlr)
   - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
   - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
+   
    Reconnaissance (Active and Passive) with HCI Tools
     - [btproxy](https://github.com/conorpp/btproxy)
     - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
@@ -225,6 +226,15 @@
     - [BtleJuice Bluetooth Smart Man-in-the-Middle framework](https://github.com/DigitalSecurity/btlejuice)
     - [gattacker](https://github.com/securing/gattacker)
     - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
+    
+   Hardware
+    - [NRFCONNECT - 52840](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
+    - [EDIMAX](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
+    - [CSR 4.0](https://www.amazon.in/GENERIC-Ultra-Mini-Bluetooth-Dongle-Adapter/dp/B0117H7GZ6/ref=asc_df_B0117H7GZ6/?tag=googleshopdes-21&linkCode=df0&hvadid=396984700257&hvpos=1o1&hvnetw=g&hvrand=2179727910417729406&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061998&hvtargid=pla-343685677347&psc=1&ext_vrnc=hi)
+    - [ESP32 - Development and learning Bluetooth](https://www.espressif.com/en/products/hardware/esp32/overview)
+    - [Ubertooth](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One)
+    - [Sena 100](http://www.senanetworks.com/ud100-g03.html)
+    
 ### ***BLE Pentesting Tutorials***
   - [Bluetooth vs BLE Basics](https://github.com/V33RU/BLE-NullBlr)
   - [Intel Edison as Bluetooth LE — Exploit box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
@@ -262,8 +272,8 @@
  
 ### ***Hardware Gadgets to pentest***
   - [Bus Pirate](https://www.sparkfun.com/products/12942)
-  - [EEPROM readers](https://www.ebay.com/bhp/eeprom-reader)
-  - [Jtagulator / Jtagenum](https://www.adafruit.com/product/1550)
+  - [EEPROM reader/SOIC Cable](https://www.sparkfun.com/products/13153)
+  - [Jtagulator/Jtagenum](https://www.adafruit.com/product/1550)
   - [Logic Analyzer](https://www.saleae.com/)
   - [The Shikra](https://int3.cc/products/the-shikra)
   - [FaceDancer21 (USB Emulator/USB Fuzzer)](https://int3.cc/products/facedancer21)
@@ -271,7 +281,8 @@
   - [Hak5Gear- Hak5FieldKits](https://hakshop.com/)
   - [Ultra-Mini Bluetooth CSR 4.0 USB Dongle Adapter](https://www.ebay.in/itm/Ultra-Mini-Bluetooth-CSR-4-0-USB-Dongle-Adapter-Black-Golden-with-2-yr-wrnty-/332302813975)
   - [Attify Badge - UART, JTAG, SPI, I2C (w/ headers)](https://www.attify-store.com/products/attify-badge-assess-security-of-iot-devices)
-  - [Ubertooth](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One)
+  
+  
     
 ### ***Attacking Hardware Interfaces***
    -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
@@ -291,6 +302,11 @@
    
 ### ***SideChannel Attacks***
    - [All Attacks](https://yifan.lu/)
+   
+   
+### ***Pentesting Guides***
+  - [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/)
+  - [Car Hacking Practical Guide 101](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
    
 ## ***Vulnerable IoT and Hardware Applications***
 
