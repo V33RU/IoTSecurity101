@@ -79,7 +79,7 @@
 27. https://mg.lol/blog/
 
 ### ***Awesome CheatSheets***
-- [Hw Hacking](https://github.com/arunmagesh/hw_hacking_cheatsheet)
+- [Hardware Hacking](https://github.com/arunmagesh/hw_hacking_cheatsheet)
 - [Nmap](https://github.com/gnebbia/nmap_tutorial)
 
 ### ***Search Engines for IoT Devices***
