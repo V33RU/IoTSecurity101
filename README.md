@@ -215,7 +215,7 @@
 ### ***BLE Intro and SW & HW Tools***
   - [Step By Step guide to BLE Understanding and Exploiting](https://github.com/V33RU/BLE-NullBlr)
   - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
-  - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
+  - [BLE Characteristics](https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
    
  #### Reconnaissance (Active and Passive) with HCI Tools
    - [btproxy](https://github.com/conorpp/btproxy)
