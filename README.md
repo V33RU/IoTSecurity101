@@ -3,6 +3,7 @@
 
 
 ## **Approach Methodology** 
+********************************************************************************************************************************
   1. Network 
   2. Web (Front & Backend and Web services)
   3. Mobile App(Android & iOS)
