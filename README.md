@@ -217,8 +217,7 @@
   - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
   - [BLE Characteristics](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial0)
    
-   Reconnaissance (Active and Passive) with HCI Tools
-   
+ > Reconnaissance (Active and Passive) with HCI Tools
     - [btproxy](https://github.com/conorpp/btproxy)
     - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
     - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
@@ -228,8 +227,7 @@
     - [gattacker](https://github.com/securing/gattacker)
     - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
     
-   Hardware
-   
+  > Hardware
     - [NRFCONNECT - 52840](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
     - [EDIMAX](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
     - [CSR 4.0](https://www.amazon.in/GENERIC-Ultra-Mini-Bluetooth-Dongle-Adapter/dp/B0117H7GZ6/ref=asc_df_B0117H7GZ6/?tag=googleshopdes-21&linkCode=df0&hvadid=396984700257&hvpos=1o1&hvnetw=g&hvrand=2179727910417729406&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061998&hvtargid=pla-343685677347&psc=1&ext_vrnc=hi)
