@@ -190,6 +190,12 @@
 - [Nmap](https://nmap.org/nsedoc/lib/mqtt.html)
 - [The Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
 - [A Guide to MQTT by Hacking a Doorbell to send Push Notifications](https://youtu.be/J_BAXVSVPVI)
+- [Are smart homes vulnerable to hacking](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
+
+### Softwares
+- [Mosquitto](https://mosquitto.org/)
+- [HiveMQ](https://www.hivemq.com/)
+- [MQTT Explorer](http://mqtt-explorer.com/)
 
 ********************************************************************************************************************************
 ### ***CoAP***
@@ -258,7 +264,7 @@
   - [BLE Characteristics](https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
   
  ******************************************************************************************************************************** 
- #### Reconnaissance (Active and Passive) with HCI Tools
+ ### Reconnaissance (Active and Passive) with HCI Tools
  
    - [btproxy](https://github.com/conorpp/btproxy)
    - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
@@ -270,7 +276,7 @@
    - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
     
  ********************************************************************************************************************************
- #### Hardware
+ ### Hardware
   
    - [NRFCONNECT - 52840](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
    - [EDIMAX](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
