@@ -142,8 +142,8 @@
 
 - [Webthings by Mozilla - RaspberryPi](https://iot.mozilla.org/docs/gateway-getting-started-guide.html)
 
-### ***Labs for Practice***
 ********************************************************************************************************************************
+### ***Labs for Practice***
 
 - [IoT Goat](https://github.com/scriptingxss/IoTGoat)
 
