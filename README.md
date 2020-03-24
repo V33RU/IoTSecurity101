@@ -303,7 +303,13 @@
  - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
  - [Android Pentest Video Course](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
+ 
+*******************************************************************************************************************************
+### ***Online Assemblers
 
+- [AZM Online Arm Assembler by Azeria](https://azeria-labs.com/azm/)
+- [Online Disassembler](https://onlinedisassembler.com/odaweb/)
+- [Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go](https://godbolt.org/)
 ********************************************************************************************************************************
 ### ***ARM***
 
@@ -314,12 +320,16 @@
 - [EXPLOIT.EDUCATION](https://exploit.education/)
 
 ********************************************************************************************************************************
-### ***Firmware Pentest***
+### ***Pentesting Firmwares and emulating and analyzing***
 
  - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
  - [Dumping Firmware using Buspirate](http://iotpentest.com/tag/pulling-firmware/)
  - [Reversing ESP8266 Firmware](https://boredpentester.com/reversing-esp8266-firmware-part-1/)
+ - [Emulating Embedded Linux Devices with QEMU](https://www.novetta.com/2018/02/emulating-embedded-linux-devices-with-qemu/?__cf_chl_captcha_tk__=2167fb6cf097848dbf0dea8e4ecccc66f2a55e55-1585030085-0-AVfO7wG_mHgvnIgeIl-aiKLNW1IMb5IMLyqLOSOLydnZFzhyAyySWgfKvjvllAtYtmpbJjnaTlwyaWiO2kHXH4APqLuott0R7UReYCTZ3u--g4AJBK4eONEL2bTJcAHg3fzmXhrC-3iAqccNQC4jx1RWEz60y_MKFq63NVeoE1pC0EBYWkk7VqDWusBFbgpj6zRNv0ifKLc3oLYJck-oG13jeSbPISVLMCn6bCHVLaTp2gW7qG6GRELIWgdyfP9viyMDSAww3u-R1NmUgRQzctXIYMWH1MdL5p8lqbSpCa160cW3JaZ16IxT7iP1HkCBurx7rCOVP3DAcI8zrc19V9mi-jU9nXIW0Xf9eIpqlUP-R_txfNw4vF10PwIGKmg0Cpl2IDuY1ty3J8koQkdvxfE)
+ - [Emulating Embedded Linux Systems with QEMU](https://www.novetta.com/2018/02/emulating-embedded-linux-systems-with-qemu/?__cf_chl_captcha_tk__=9dd83a08cffb28fae75286f63f399c34eec56852-1585030087-0-AblGAUd4LCDVbghNgQyfL5hgPXNC8pUcLIAbPUpx2tBOb_L4gVVc1sZ7Ivg0g--06WpkdpeV-kylZu3T_Yqgr7GdFpc2cKzxATdc_bsEV7uu1ljIctFloHTW_B1vvjFAe3QXdex4kkn2D4HuQiw9WLszvO2Ff8SvvfEpHoBumOavj-c2iXcEb2dDFMoK3_HB_3-y7q_BEAX3xqDCjqz7TpcoIWt-wTSQwRfx-VuBfO87hrTsX43yzq6BNjCE9s15ZQmPp_NouYIHNMnx3augAfkwZBSUA0r43GbA--3jLmJsTe_qvcn7gMz_HAR-GpnA_Usn_cr94VqtyNpl0vEsC1OMf48oBMMoFQJA6Jjn1hGPv5hV4M4aBtJrTnFoRP2YGwxAyNTM3Df9qw1iyBB8r58)
+ -[Fuzzing Embedded Linux Devices](https://www.novetta.com/2018/07/fuzzing-embedded-linux-devices/?__cf_chl_captcha_tk__=f07f3f76e61b43f9ae6340e94cf4adeaec87977e-1585030089-0-AYkRNbh1wpUia0P5wBgrRfhf92Uy6Pl2mEEBOXi2FUvxROOJ9obK4ZIS78Y4iCRrMdi3umwQrJEyF0u3EPwHPu3_22f5PwOvVDFC0QwFPyw7LkY5bLuansI_8uoEunuLIEQ1VPIZHFpht1vT0_rW4YrYGc8osJZpubAhXfyZe1G7U_ibpZj9tdrUE6SwgA_Ph0io4LRfbjuvpeM03NHuc1sTTqRVdkWiw47kmr9uSAK10ZmQEvE7zpbpkEJM2slchjdYq6hziM3L5l8vB-eEm_JVxsSHbGfdDM3kSfTw3oXlYkvxvLy_llSyyefuub4yOBrqNgzV1Gj_PDTmuRTMxobGo7vZaRdr2LgOXML58kpG6NTDLb3A4YzwVw9u32ErRh4Ab89vn90RsHlWnU928Oc)
+ -[]
  
 ********************************************************************************************************************************
 ### ***Firmware to pentest***
