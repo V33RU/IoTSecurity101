@@ -314,7 +314,6 @@
 
 - [Azeria Labs](https://azeria-labs.com/)
 - [ARM EXPLOITATION FOR IoT](https://www.exploit-db.com/docs/english/43906-arm-exploitation-for-iot.pdf)
-- [Static Binary analysis ARMV7](https://github.com/CJHackerz/easy_iotsec-arm)
 - [Damn Vulnerable ARM Router (DVAR)](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
 - [EXPLOIT.EDUCATION](https://exploit.education/)
 
