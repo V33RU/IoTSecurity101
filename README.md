@@ -263,7 +263,7 @@
   - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
   - [BLE Characteristics](https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
   
- ******************************************************************************************************************************** 
+  
  ### Reconnaissance (Active and Passive) with HCI Tools
  
    - [btproxy](https://github.com/conorpp/btproxy)
@@ -275,7 +275,7 @@
    - [gattacker](https://github.com/securing/gattacker)
    - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
     
- ********************************************************************************************************************************
+ 
  ### Hardware
   
    - [NRFCONNECT - 52840](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
@@ -285,7 +285,6 @@
    - [Ubertooth](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One)
    - [Sena 100](http://www.senanetworks.com/ud100-g03.html)
 
-********************************************************************************************************************************    
 ### ***BLE Pentesting Tutorials***
 
   - [Bluetooth vs BLE Basics](https://github.com/V33RU/BLE-NullBlr)
