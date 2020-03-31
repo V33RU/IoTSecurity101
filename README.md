@@ -156,6 +156,7 @@
 - [Ubutnu Best Host Linux for IoT's - Use LTS](https://www.ubuntu.com/)
 - [Internet of Things - Penetration Testing OS](https://github.com/IoT-PTv)
 - [Dragon OS - DEBIAN LINUX WITH PREINSTALLED OPEN SOURCE SDR SOFTWARE](https://www.rtl-sdr.com/dragonos-debian-linux-with-preinstalled-open-source-sdr-software/)
+- [EmbedOS - Embedded security testing virtual machine](https://github.com/scriptingxss/EmbedOS)
 
 ********************************************************************************************************************************
 ### ***Exploitation Tools***
