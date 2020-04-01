@@ -136,6 +136,7 @@
 
 - [Reflecting upon OWASP TOP-10 IoT Vulnerabilities](https://embedi.org/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
 - [OWASP IoT Top 10 2018 Mapping Project](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/)
+- [Firmware Pentest Guide](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
 
 ********************************************************************************************************************************
 ### ***IoT Gateway Software***
