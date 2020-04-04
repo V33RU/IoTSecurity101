@@ -173,7 +173,7 @@
 
 - [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [GDB](https://www.youtube.com/watch?v=fgMl0Uqiey8)
-- [Radare2](https://radare.gitbooks.io/radare2book/content/)
+- [Radare2](https://radare.gitbooks.io/radare2book/content/) | [cutter](https://cutter.re/)
 - [Ghidra](https://ghidra-sre.org/)
 
 ********************************************************************************************************************************
