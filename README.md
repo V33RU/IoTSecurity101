@@ -32,9 +32,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ********************************************************************************************************************************
-### ***Telegram groups for IoT Security***
+### *** Chat groups for IoT Security***
 
 - <https://t.me/iotsecurity1011>
+- <https://www.reddit.com/r/IoTSecurity101/>
 - <https://t.me/hardwareHackingBrasil>
 - <https://t.me/joinchat/JAMxOg5YzdkGjcF3HmNgQw>
 
