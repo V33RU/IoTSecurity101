@@ -421,6 +421,6 @@
 -  [A-a-ron Guzman](https://twitter.com/scriptingxss)
 -  [Arun Mane](https://twitter.com/rootkill3r)
 -  [Yashin Mehaboobe](https://twitter.com/YashinMehaboobe)
--  [Arun Magesh]
+-  [Arun Magesh](https://www.linkedin.com/in/marunmagesh)
 
 
