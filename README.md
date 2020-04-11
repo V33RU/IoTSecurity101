@@ -7,8 +7,8 @@
   > 1. Network 
   > 2. Web (Front & Backend and Web services)
   > 3. Mobile App (Android & iOS)
-  > 4. Wireless Connectivity 
-  > 5. Firmware Pentesting (Hardware or IoT device OS)
+  > 4. Wireless Connectivity (Zigbee , WiFi , Bluetooth , etc) 
+  > 5. Firmware Pentesting (OS of IoT Devices)
   > 6. Hardware Level Approach
   > 7. Storage Medium
   > 8. I/O Ports
@@ -27,11 +27,6 @@
 9. [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 10. [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
 
-********************************************************************************************************************************
-## Contents
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ********************************************************************************************************************************
 ### ***Chat groups for IoT Security***
@@ -43,7 +38,7 @@
 - https://discord.gg/EH9dxT9
 
 ********************************************************************************************************************************
-### ***Books***
+### ***Books For IoT Pentesting***
 
 - [Android Hacker's Handbook](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
 - [Hacking the Xbox](https://www.nostarch.com/xboxfree)
@@ -384,12 +379,12 @@
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)\
    
 ********************************************************************************************************************************   
-### ***SideChannel Attacks***
+### ***SideChannel Attacks
 
    - [All Attacks](https://yifan.lu/)
    
 ********************************************************************************************************************************   
-### ***Awesome IoT Pentesting Guides***
+### ***Awesome IoT Pentesting Guides
 
   - [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/)
   - [Car Hacking Practical Guide 101](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
@@ -398,7 +393,7 @@
   
  
 ******************************************************************************************************************************** 
-## ***Vulnerable IoT and Hardware Applications***
+## ***Vulnerable IoT and Hardware Applications
 
   - IoT : https://github.com/Vulcainreo/DVID
 
@@ -413,3 +408,11 @@
   - SS7 Network: https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network
 
  -  VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
+
+
+*******************************************************************************************************************************
+## ***follow the people
+
+1. Aseem Jakhar
+2. Arun Magesh
+3. 
