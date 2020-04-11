@@ -89,7 +89,7 @@
 ********************************************************************************************************************************
 ### ***Awesome CheatSheets***
 
-- [Hardware Hacking](https://github.com/arunmagesh/hw_hacking_cheatsheet)
+-: [Hardware Hacking](https://github.com/arunmagesh/hw_hacking_cheatsheet)
 - [Nmap](https://github.com/gnebbia/nmap_tutorial)
 
 ********************************************************************************************************************************
