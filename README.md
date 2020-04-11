@@ -89,7 +89,7 @@
 25. https://blog.ice9.us/
 26. https://labs.f-secure.com/
 27. https://mg.lol/blog/
-
+28. https://cjhackerz.net/
 ********************************************************************************************************************************
 ### ***Awesome CheatSheets***
 
