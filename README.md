@@ -32,7 +32,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ********************************************************************************************************************************
-### *** Chat groups for IoT Security***
+### ***Chat groups for IoT Security***
 
 - <https://t.me/iotsecurity1011>
 - <https://www.reddit.com/r/IoTSecurity101/>
