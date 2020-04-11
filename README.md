@@ -4,12 +4,14 @@
 ********************************************************************************************************************************
 ## **Approach Methodology** 
 
-  1. Network 
-  2. Web (Front & Backend and Web services)
-  3. Mobile App(Android & iOS)
-  4. Wireless Connectivity 
-  5. Firmware Pentesting(Hardware or IoT device OS)
-  6. Hardware Level Approach 
+  > 1. Network 
+  > 2. Web (Front & Backend and Web services)
+  > 3. Mobile App (Android & iOS)
+  > 4. Wireless Connectivity 
+  > 5. Firmware Pentesting (Hardware or IoT device OS)
+  > 6. Hardware Level Approach
+  > 7. Storage Medium
+  > 8. I/O Ports
   
 ********************************************************************************************************************************
 ### ***To seen Hacked devices***
