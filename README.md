@@ -379,12 +379,12 @@
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)\
    
 ********************************************************************************************************************************   
-### ***SideChannel Attacks
+### ***SideChannel Attacks***
 
    - [All Attacks](https://yifan.lu/)
    
 ********************************************************************************************************************************   
-### ***Awesome IoT Pentesting Guides
+### ***Awesome IoT Pentesting Guides***
 
   - [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/)
   - [Car Hacking Practical Guide 101](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
@@ -393,7 +393,7 @@
   
  
 ******************************************************************************************************************************** 
-## ***Vulnerable IoT and Hardware Applications
+## ***Vulnerable IoT and Hardware Applications***
 
   - IoT : https://github.com/Vulcainreo/DVID
 
@@ -411,8 +411,13 @@
 
 
 *******************************************************************************************************************************
-## ***follow the people
+## ***follow the people***
 
-1. Aseem Jakhar
-2. Arun Magesh
-3. 
+1. [Jilles](https://twitter.com/jilles_com)
+2. [Aseem Jakhar](https://twitter.com/aseemjakhar)
+3. [Arun Magesh]
+4. [A-a-ron Guzman](https://twitter.com/scriptingxss)
+5. [Arun Mane](https://twitter.com/rootkill3r)
+6. [Yashin Mehaboobe](https://twitter.com/YashinMehaboobe)
+7. [Cybergibbons](https://twitter.com/cybergibbons)
+8. [Ilya Shaposhnikov](https://twitter.com/drakylar)
