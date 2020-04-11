@@ -297,9 +297,13 @@
 ********************************************************************************************************************************
 ### ***Mobile security (Android & iOS)***
 
- - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
- - [Android Pentest Video Course](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
+ - [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
+ - [Android Application pentesting book](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
+ - [Android Pentest Video Course-TutorialsPoint](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
+ - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
+ - [Android Tamer - Android Tamer is a Virtual / Live Platform for Android Security professionals](https://androidtamer.com/)
+ 
  
 *******************************************************************************************************************************
 ### ***Online Assemblers***
