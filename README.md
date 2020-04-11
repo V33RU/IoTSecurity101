@@ -333,6 +333,7 @@
  - [Fuzzing Embedded Linux Devices](https://www.novetta.com/2018/07/fuzzing-embedded-linux-devices/?__cf_chl_captcha_tk__=f07f3f76e61b43f9ae6340e94cf4adeaec87977e-1585030089-0-AYkRNbh1wpUia0P5wBgrRfhf92Uy6Pl2mEEBOXi2FUvxROOJ9obK4ZIS78Y4iCRrMdi3umwQrJEyF0u3EPwHPu3_22f5PwOvVDFC0QwFPyw7LkY5bLuansI_8uoEunuLIEQ1VPIZHFpht1vT0_rW4YrYGc8osJZpubAhXfyZe1G7U_ibpZj9tdrUE6SwgA_Ph0io4LRfbjuvpeM03NHuc1sTTqRVdkWiw47kmr9uSAK10ZmQEvE7zpbpkEJM2slchjdYq6hziM3L5l8vB-eEm_JVxsSHbGfdDM3kSfTw3oXlYkvxvLy_llSyyefuub4yOBrqNgzV1Gj_PDTmuRTMxobGo7vZaRdr2LgOXML58kpG6NTDLb3A4YzwVw9u32ErRh4Ab89vn90RsHlWnU928Oc)
  - [Emulating ARM Router Firmware](https://azeria-labs.com/emulating-arm-firmware/)
  - [Reversing Firmware With Radare](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
+ - [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic)
  
 ********************************************************************************************************************************
 ### ***Firmware samples to pentest***
@@ -389,10 +390,13 @@
    - [All Attacks](https://yifan.lu/)
    
 ********************************************************************************************************************************   
-### ***Pentesting Guides***
+### ***Awesome IoT Pentesting Guides***
 
   - [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/)
   - [Car Hacking Practical Guide 101](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
+  - [OWASP Firmware Security Testing Methodology
+](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
+  
  
 ******************************************************************************************************************************** 
 ## ***Vulnerable IoT and Hardware Applications***
