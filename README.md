@@ -4,14 +4,14 @@
 ********************************************************************************************************************************
 ## Approach Methodology
 
-  ##### ***1. Network 
-  ##### 2. Web (Front & Backend and Web services)
-  ##### ***3. Mobile App (Android & iOS)
-#####   4. Wireless Connectivity (Zigbee , WiFi , Bluetooth , etc) 
- #####  ***5. Firmware Pentesting (OS of IoT Devices)
-#####   6. Hardware Hacking & Fault Injections & SCA Attacks
- #####  ***7. Storage Medium
-#####   8. I/O Ports***
+#####  1. Network 
+#####  2. Web (Front & Backend and Web services
+#####  3. Mobile App (Android & iOS)
+#####  4. Wireless Connectivity (Zigbee , WiFi , Bluetooth , etc)
+#####  5. Firmware Pentesting (OS of IoT Devices)
+#####  6. Hardware Hacking & Fault Injections & SCA Attacks
+#####  7. Storage Medium
+#####  8. I/O Ports
   
 ********************************************************************************************************************************
 ### ***To seen Hacked devices***
