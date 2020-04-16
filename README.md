@@ -366,7 +366,7 @@
    -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
    -  [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
    -  [REVERSE ENGINEERING ARCHITECTURE AND PINOUT OF CUSTOM ASICS](https://sec-consult.com/en/blog/2019/02/reverse-engineering-architecture-pinout-plc/)
-
+   -  [ChipWhisperer - Hardware attacks](http://wiki.newae.com/Main_Page)
 ********************************************************************************************************************************
 ### ***UART***
 
