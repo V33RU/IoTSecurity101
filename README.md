@@ -51,6 +51,7 @@
 - [Firmware](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 - [Hardware Hacking Handbook](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s)
 - [inside radio attack and defense](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
+- [Pentest Hardware](https://github.com/unprovable/PentestHardware/)
 
 ********************************************************************************************************************************
 ### ***Blogs for iotpentest***
@@ -83,6 +84,9 @@
 26. https://labs.f-secure.com/
 27. https://mg.lol/blog/
 28. https://cjhackerz.net/
+29. https://github.com/sponsors/bunnie/
+
+
 ********************************************************************************************************************************
 ### ***Awesome CheatSheets***
 
@@ -419,8 +423,12 @@
 ## ***follow the people***
 
 -  [Jilles](https://twitter.com/jilles_com)
+-  [Joe Fitz](https://twitter.com/securelyfitz)
 -  [Aseem Jakhar](https://twitter.com/aseemjakhar)
 -  [Cybergibbons](https://twitter.com/cybergibbons)
+-  [Jasper](https://twitter.com/jzvw)
+-  [Dave Jones](https://twitter.com/eevblog)
+-  [bunnie](https://twitter.com/bunniestudios)
 -  [Ilya Shaposhnikov](https://twitter.com/drakylar)
 -  [Mark C.](https://twitter.com/LargeCardinal)
 -  [A-a-ron Guzman](https://twitter.com/scriptingxss)
