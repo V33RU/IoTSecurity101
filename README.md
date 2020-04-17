@@ -48,7 +48,7 @@
 - [Hardware Hacking: Have Fun while Voiding your Warranty](https://www.elsevier.com/books/hardware-hacking/grand/978-1-932266-83-2)
 - [Linksys WRT54G Ultimate Hacking](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
 - [Linux Binary Analysis](https://www.packtpub.com/networking-and-servers/learning-linux-binary-analysis)
-- [Firmware](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
+- [The Firmware Handbook](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 - [Hardware Hacking Handbook](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s)
 - [inside radio attack and defense](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
 - [Pentest Hardware](https://github.com/unprovable/PentestHardware/)
