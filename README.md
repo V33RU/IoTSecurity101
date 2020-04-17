@@ -41,7 +41,7 @@
 ### ***Books For IoT Pentesting***
 
 - [Android Hacker's Handbook](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
-- [Hacking the Xbox](https://www.nostarch.com/xboxfree)
+- [Hacking the Xbox](https://www.nostarch.com/xboxfree) - Openbook
 - [Car hacker's handbook](http://opengarages.org/handbook)
 - [IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
 - [Abusing the Internet of Things](https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36)
@@ -51,9 +51,9 @@
 - [The Firmware Handbook](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 - [Hardware Hacking Handbook](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s)
 - [inside radio attack and defense](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
-- [Pentest Hardware](https://github.com/unprovable/PentestHardware/)
+- [Pentest Hardware](https://github.com/unprovable/PentestHardware/) - Openbook
 - [The Art of Pcb Reverse Engineering](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
-- [Internet of Things Security Encyclopedia](https://iot-security.wiki/)
+- [Internet of Things Security Encyclopedia](https://iot-security.wiki/) - Openbook
 
 ********************************************************************************************************************************
 ### ***Blogs for iotpentest***
