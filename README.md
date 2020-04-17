@@ -53,6 +53,7 @@
 - [inside radio attack and defense](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
 - [Pentest Hardware](https://github.com/unprovable/PentestHardware/)
 - [The Art of Pcb Reverse Engineering](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
+- [Internet of Things Security Encyclopedia](https://iot-security.wiki/)
 
 ********************************************************************************************************************************
 ### ***Blogs for iotpentest***
