@@ -26,6 +26,7 @@
 8. [Smart Lock](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
 9. [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 10. [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
+11. [Dropcam hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
 
 
 ********************************************************************************************************************************
