@@ -224,6 +224,7 @@
 ********************************************************************************************************************************
 ### ***Radio IoT Protocols Overview***
 
+- [SDR Notes](https://github.com/notpike/SDR-Notes)
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
 - [Signal Processing]()
 - [Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
