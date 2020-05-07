@@ -388,7 +388,7 @@
 ### ***JTAG***
 
 
-   - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
+   - [JTAG Explained (finally!)](https://blog.senr.io/blog/jtag-explained)
    - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)\
    
 ********************************************************************************************************************************   
