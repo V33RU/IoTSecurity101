@@ -161,15 +161,21 @@
 - [Internet of Things - Penetration Testing OS](https://github.com/IoT-PTv)
 - [Dragon OS - DEBIAN LINUX WITH PREINSTALLED OPEN SOURCE SDR SOFTWARE](https://www.rtl-sdr.com/dragonos-debian-linux-with-preinstalled-open-source-sdr-software/)
 - [EmbedOS - Embedded security testing virtual machine](https://github.com/scriptingxss/EmbedOS)
+- [Skywave Linux- Software Defined Radio for Global Online Listening](https://skywavelinux.com/)
+- [A Small, Scalable Open Source RTOS for IoT Embedded Devices](https://www.zephyrproject.org/)
+
 
 ********************************************************************************************************************************
 ### Exploitation Tools
 
 - [Expliot - IoT Exploitation framework - by Aseemjakhar](https://gitlab.com/expliot_framework/expliot)
-- [A Small, Scalable Open Source RTOS for IoT Embedded Devices](https://www.zephyrproject.org/)
-- [Skywave Linux- Software Defined Radio for Global Online Listening](https://skywavelinux.com/)
 - [Routersploit (Exploitation Framework for Embedded Devices)](https://github.com/threat9/routersploit)
 - [IoTSecFuzz (comprehensive testing for IoT device)](https://gitlab.com/invuls/iot-projects/iotsecfuzz)
+- [https://github.com/ElevenPaths/HomePWN](https://github.com/ElevenPaths/HomePWN)
+- [killerbee - Zigbee exploitation](https://github.com/riverloopsec/killerbee)
+- [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
+- [HAL – The Hardware Analyzer](https://github.com/emsec/hal)
+- [FwAnalyzer (Firmware Analyzer)](https://github.com/cruise-automation/fwanalyzer)
 
 ********************************************************************************************************************************
 ### Reverse Engineering Tools
