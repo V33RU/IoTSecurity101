@@ -108,25 +108,26 @@
 ********************************************************************************************************************************
 ### CTF For IoT's And Embeddded
 
-1. https://github.com/hackgnar/ble_ctf
-2. https://www.microcorruption.com/
-3. https://github.com/Riscure/Rhme-2016
-4. https://github.com/Riscure/Rhme-2017
-5. https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
-6. https://github.com/scriptingxss/IoTGoat
+- https://github.com/hackgnar/ble_ctf
+- https://www.microcorruption.com/
+- https://github.com/Riscure/Rhme-2016
+- https://github.com/Riscure/Rhme-2017
+- https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
+- https://github.com/scriptingxss/IoTGoat
 
 ********************************************************************************************************************************
 ### YouTube Channels for IoT Pentesting
 
-1. [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-2. [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
-3. [EEVBlog](https://www.youtube.com/user/EEVblog)
-4. [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
-5. [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
-6. [iotpentest [Mr-IoT]](https://www.youtube.com/channel/UCe2mJv2FPRFhYJ7dvNdYR4Q)
-7. [Besim ALTINOK - IoT - Hardware - Wireless](https://www.youtube.com/channel/UCnIV7A3kDL4JXJEljpW6TRQ/playlists)
-8. [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
-9. [Cyber Gibbons](https://www.youtube.com/channel/UC_IYERSoSwdR7AA5P41mYTA)
+- [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
+- [EEVBlog](https://www.youtube.com/user/EEVblog)
+- [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
+- [Craig Smith](https://www.youtube.com/channel/UCxC8G4Oeed4N0-GVeDdFoSA)
+- [iotpentest [Mr-IoT]](https://www.youtube.com/channel/UCe2mJv2FPRFhYJ7dvNdYR4Q)
+- [Besim ALTINOK - IoT - Hardware - Wireless](https://www.youtube.com/channel/UCnIV7A3kDL4JXJEljpW6TRQ/playlists)
+- [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
+- [Cyber Gibbons](https://www.youtube.com/channel/UC_IYERSoSwdR7AA5P41mYTA)
+10. [Scanline](https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ)
 
 ********************************************************************************************************************************
 ### Vehicle Security Resources
