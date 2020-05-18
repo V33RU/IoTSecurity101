@@ -55,6 +55,7 @@
 - [Pentest Hardware](https://github.com/unprovable/PentestHardware/) - Openbook
 - [The Art of Pcb Reverse Engineering](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
 - [Internet of Things Security Encyclopedia](https://iot-security.wiki/) - Openbook
+- [Applied Cyber Security and the Smart Grid-ICS](https://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/)
 
 ********************************************************************************************************************************
 ### Blogs for iotpentest
