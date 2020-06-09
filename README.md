@@ -128,7 +128,7 @@
 - [Besim ALTINOK - IoT - Hardware - Wireless](https://www.youtube.com/channel/UCnIV7A3kDL4JXJEljpW6TRQ/playlists)
 - [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 - [Cyber Gibbons](https://www.youtube.com/channel/UC_IYERSoSwdR7AA5P41mYTA)
-10. [Scanline](https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ)
+- [Scanline](https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ)
 
 ********************************************************************************************************************************
 ### Vehicle Security Resources
