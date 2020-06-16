@@ -173,7 +173,7 @@
 - [Expliot - IoT Exploitation framework - by Aseemjakhar](https://gitlab.com/expliot_framework/expliot)
 - [Routersploit (Exploitation Framework for Embedded Devices)](https://github.com/threat9/routersploit)
 - [IoTSecFuzz (comprehensive testing for IoT device)](https://gitlab.com/invuls/iot-projects/iotsecfuzz)
-- [https://github.com/ElevenPaths/HomePWN](https://github.com/ElevenPaths/HomePWN)
+- [HomePwn - Swiss Army Knife for Pentesting of IoT Devices](https://github.com/ElevenPaths/HomePWN)
 - [killerbee - Zigbee exploitation](https://github.com/riverloopsec/killerbee)
 - [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
 - [HAL – The Hardware Analyzer](https://github.com/emsec/hal)
