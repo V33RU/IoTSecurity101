@@ -36,7 +36,7 @@
 - <https://www.reddit.com/r/IoTSecurity101/>
 - <https://t.me/hardwareHackingBrasil>
 - <https://t.me/joinchat/JAMxOg5YzdkGjcF3HmNgQw>
-- https://discord.gg/EH9dxT9
+- <https://discord.gg/EH9dxT9>
 
 ********************************************************************************************************************************
 ### Books For IoT Pentesting
