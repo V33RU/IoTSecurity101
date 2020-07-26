@@ -149,11 +149,6 @@
 - [Webthings by Mozilla - RaspberryPi](https://iot.mozilla.org/docs/gateway-getting-started-guide.html)
 
 ********************************************************************************************************************************
-### Labs for Practice
-
-- [IoT Goat](https://github.com/scriptingxss/IoTGoat)
-
-********************************************************************************************************************************
 ### IoT Pentesting OSes
 
 - [Sigint OS- LTE IMSI Catcher](https://www.sigintos.com/downloads/)
@@ -418,6 +413,8 @@
 ******************************************************************************************************************************** 
 ## Vulnerable IoT and Hardware Applications
 
+  - IoT Goat : https://github.com/scriptingxss/IoTGoat
+
   - IoT : https://github.com/Vulcainreo/DVID
 
   - Safe : https://insinuator.net/2016/01/damn-vulnerable-safe/
@@ -430,8 +427,8 @@
 
   - SS7 Network: https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network
 
- -  VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
-
+  -  VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
+ 
 
 *******************************************************************************************************************************
 ## follow the people
