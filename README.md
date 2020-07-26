@@ -178,6 +178,8 @@
 - [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
 - [HAL – The Hardware Analyzer](https://github.com/emsec/hal)
 - [FwAnalyzer (Firmware Analyzer)](https://github.com/cruise-automation/fwanalyzer)
+- [ISF(Industrial Security Exploitation Framework](https://github.com/w3h/isf)
+- [PENIOT: Penetration Testing Tool for IoT](https://github.com/yakuza8/peniot)
 
 ********************************************************************************************************************************
 ### Reverse Engineering Tools
