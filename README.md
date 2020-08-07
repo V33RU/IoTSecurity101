@@ -307,7 +307,8 @@
   - [Bluetooth Smartlocks](https://www.getkisi.com/blog/smart-locks-hacked-bluetooth-ble)
   - [I hacked MiBand 3](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
   - [GATTacking Bluetooth Smart Devices](https://securing.pl/en/gattacking-bluetooth-smart-devices-introducing-a-new-ble-proxy-tool/index.html)
-  
+  - [blueooth beacon vulnerability](https://www.beaconzone.co.uk/blog/category/security/)
+  - [Sweyntooth Vulnerabilties](https://asset-group.github.io/disclosures/sweyntooth/)
 
 ********************************************************************************************************************************
 ### Mobile security (Android & iOS)
