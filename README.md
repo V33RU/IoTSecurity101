@@ -401,6 +401,8 @@
 ### SideChannel Attacks
 
    - [All Attacks](https://yifan.lu/)
+   - [AttacksonImplementationsCourseBook](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
+   - [fuzzing, binary analysis, IoT security, and general exploitation](https://github.com/0xricksanchez/paper_collection)
    
 ********************************************************************************************************************************   
 ### Awesome IoT Pentesting Guides
