@@ -56,6 +56,7 @@
 - [The Art of Pcb Reverse Engineering](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
 - [Internet of Things Security Encyclopedia](https://iot-security.wiki/) - Openbook
 - [Applied Cyber Security and the Smart Grid-ICS](https://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/)
+- [Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H)
 
 ********************************************************************************************************************************
 ### Blogs for iotpentest
