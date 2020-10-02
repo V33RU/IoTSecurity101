@@ -349,6 +349,7 @@
  - [Emulating ARM Router Firmware](https://azeria-labs.com/emulating-arm-firmware/)
  - [Reversing Firmware With Radare](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
  - [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic)
+ - [Qiling & Binary Emulation for automatic unpacking](https://kernemporium.github.io/articles/en/auto_unpacking/m.html)
  
 ********************************************************************************************************************************
 ### Firmware samples to pentest
