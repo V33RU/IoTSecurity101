@@ -5,7 +5,7 @@
 ## Approach Methodology
 
 #####  1. Network 
-#####  2. Web (Front & Backend and Web services
+#####  2. Web (Front & Backend and Web services)
 #####  3. Mobile App (Android & iOS)
 #####  4. Wireless Connectivity (Zigbee , WiFi , Bluetooth , etc)
 #####  5. Firmware Pentesting (OS of IoT Devices)
