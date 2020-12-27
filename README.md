@@ -14,6 +14,8 @@
  - ***6. Hardware Hacking & Fault Injections & SCA Attacks***
  - ***7. Storage Medium***
  - ***8. I/O Ports***
+ 
+ ![](https://github.com/V33RU/IoTSecurity101/blob/master/IoT.png)
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
