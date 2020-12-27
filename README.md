@@ -1,5 +1,3 @@
-# IoT Pentesting 101 && IoT Security 101	
-
 ![](https://github.com/V33RU/IoTSecurity101/blob/master/logo.png)
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
