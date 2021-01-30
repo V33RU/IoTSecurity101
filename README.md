@@ -356,6 +356,8 @@
  - [Reversing Firmware With Radare](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
  - [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic)
  - [Qiling & Binary Emulation for automatic unpacking](https://kernemporium.github.io/articles/en/auto_unpacking/m.html)
+ - [Reverse engineering with #Ghidra: Breaking an embedded firmware encryption scheme](https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing)
+ - [Simulating and hunting firmware vulnerabilities with Qiling](https://blog.vincss.net/2020/12/pt007-simulating-and-hunting-firmware-vulnerabilities-with-Qiling.html?m=1&s=09)
  
 ********************************************************************************************************************************
 ### Firmware samples to pentest
@@ -363,12 +365,11 @@
  - [Download From here by firmware.center](https://firmware.center/)
 
 ********************************************************************************************************************************
-### IoT hardware Overview
+### IoT hardware Overview and Hacking
 
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
  
-********************************************************************************************************************************
-### Hardware Gadgets to pentest
+#### Hardware Gadgets to pentest
 
   - [Bus Pirate](https://www.sparkfun.com/products/12942)
   - [EEPROM reader/SOIC Cable](https://www.sparkfun.com/products/13153)
@@ -382,16 +383,15 @@
   - [Attify Badge - UART, JTAG, SPI, I2C (w/ headers)](https://www.attify-store.com/products/attify-badge-assess-security-of-iot-devices)
   
   
-********************************************************************************************************************************
-### Attacking Hardware Interfaces
+#### Attacking Hardware Interfaces
 
    -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
    -  [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
    -  [REVERSE ENGINEERING ARCHITECTURE AND PINOUT OF CUSTOM ASICS](https://sec-consult.com/en/blog/2019/02/reverse-engineering-architecture-pinout-plc/)
    -  [ChipWhisperer - Hardware attacks](http://wiki.newae.com/Main_Page)
    
-********************************************************************************************************************************
-### UART
+
+#### UART
 
    - [Identifying UART interface](https://www.mikroe.com/blog/uart-serial-communication)
    - [onewire-over-uart](https://github.com/dword1511/onewire-over-uart)
@@ -401,8 +401,7 @@
    - [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
 
 
-********************************************************************************************************************************
-### JTAG
+#### JTAG
 
    - [JTAG Explained (finally!)](https://blog.senr.io/blog/jtag-explained)
 
