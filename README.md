@@ -246,13 +246,15 @@
 - [Replay Attacks](https://www.rtl-sdr.com/tutorial-replay-attacks-with-an-rtl-sdr-raspberry-pi-and-rpitx/)
 
 ********************************************************************************************************************************
-### Base transceiver station (BTS
+### Cellular Hacking & GSM & BTS
 
+#### BTS
+
+- [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/README.md)
 - [what is base tranceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
-- [How to Build Your Own Rogue GSM BTS](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
+- [How to Build Your Own Rogue GSM BTS](https://l33t.gg/how-to-build-a-rogue-gsm-bts/)
 
-********************************************************************************************************************************
-### GSM & SS7 Pentesting
+#### GSM & SS7 Pentesting
 
 - [Introduction to GSM Security](http://www.pentestingexperts.com/introduction-to-gsm-security/)
 - [GSM Security 2 ](https://www.ehacking.net/2011/02/gsm-security-2.html)
