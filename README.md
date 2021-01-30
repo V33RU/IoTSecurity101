@@ -398,19 +398,28 @@
    - [Accessing sensor via UART](http://home.wlu.edu/~levys/courses/csci250s2017/SensorsSignalsSerialSockets.pdf)
    - [Using UART to connect to a chinese IP cam](https://www.davidsopas.com/using-uart-to-connect-to-a-chinese-ip-cam/)
    - [A journey into IoT – Hardware hacking: UART](https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/)
+   - [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
+
 
 ********************************************************************************************************************************
 ### JTAG
 
    - [JTAG Explained (finally!)](https://blog.senr.io/blog/jtag-explained)
-   - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
+
    
 ********************************************************************************************************************************   
-### SideChannel Attacks
+### SideChannel Attacks & Glitching attacks
 
-   - [All Attacks](https://yifan.lu/)
-   - [AttacksonImplementationsCourseBook](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
+   - [Side channel attacks](https://yifan.lu/)
+   - [Attacks on Implementations of Secure Systems](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
    - [fuzzing, binary analysis, IoT security, and general exploitation](https://github.com/0xricksanchez/paper_collection)
+   - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
+   - [Voltage Glitching Attack]()
+   - [Espressif ESP32: Bypassing Encrypted Secure Boot(CVE-2020-13629)](https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)
+   - [Voltage Glitching Attack using SySS iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw&feature=youtu.be&ab_channel=SySSPentestTV)
+   - [Samy Kamkar - FPGA Glitching & Side Channel Attacks](https://www.youtube.com/watch?v=6Pf3pY3GxBM&ab_channel=LiveOverflow)
+   - [Breaking AES with ChipWhisperer - Piece of scake (Side Channel Analysis 100)](https://www.youtube.com/watch?v=FktI4qSjzaE&ab_channel=LiveOverflow)
+   - [https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
    
 ********************************************************************************************************************************   
 ### Awesome IoT Pentesting Guides
