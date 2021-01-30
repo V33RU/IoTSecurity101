@@ -209,43 +209,52 @@
 - [The Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
 - [A Guide to MQTT by Hacking a Doorbell to send Push Notifications](https://youtu.be/J_BAXVSVPVI)
 - [Are smart homes vulnerable to hacking](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
+- [Deep Learning UDF for KSQL / ksqlDB for Streaming Anomaly Detection of MQTT IoT Sensor Data](https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot)
+- [Authenticating & Authorizing Devices using MQTT with Auth0](https://auth0.com/docs/integrations/authenticate-devices-using-mqtt)
+- [Development information for the MQTT with hardware](https://www.hackster.io/search?i=projects&q=Mqtt)
+- [Understanding the MQTT Protocol Packet Structure](http://www.steves-internet-guide.com/mqtt-protocol-messages-overview/)
+- [R7-2019-18: Multiple Hickory Smart Lock Vulnerabilities](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
+- [IoT Live Demo: 100.000 Connected Cars With Kubernetes, Kafka, MQTT, TensorFlow](https://dzone.com/articles/iot-live-demo-100000-connected-cars-with-kubernete)
+
 
 #### Softwares
-- [Mosquitto](https://mosquitto.org/)
+- [Mosquitto-An open source MQTT broker](https://mosquitto.org/)
 - [HiveMQ](https://www.hivemq.com/)
 - [MQTT Explorer](http://mqtt-explorer.com/)
+- [MQTT proxy - IoXY](https://blog.nviso.eu/2020/07/06/introducing-ioxy-an-open-source-mqtt-intercepting-proxy/)
+- [MQTT Broker Security - 101](https://payatu.com/blog/dattatray/iot-security-%E2%80%93-part-12-mqtt-broker-security---101)
+- [Welcome to MQTT-PWN!](https://mqtt-pwn.readthedocs.io/en/latest/)
 
 #### CoAP
 
 - [Introduction](http://coap.technology/)
 - [CoAP client Tools](http://coap.technology/tools.html)
 - [CoAP Pentest Tools](https://bitbucket.org/aseemjakhar/expliot_framework)
-- [Nmap](https://nmap.org/nsedoc/lib/coap.html)
+- [Nmap - NSE for coap](https://nmap.org/nsedoc/lib/coap.html)
 
 ********************************************************************************************************************************
-### Automobile
+### Automobile and Car Hacking stuff 
 
-  CanBus
+#### CANBUS
 - [Introduction and protocol Overview](https://www.youtube.com/watch?v=FqLDpHsxvf8)	
 - [PENTESTING VEHICLES WITH CANTOOLZ](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf)
 - [Building a Car Hacking Development Workbench: Part1](https://blog.rapid7.com/2017/07/11/building-a-car-hacking-development-workbench-part-1/)
 - [CANToolz - Black-box CAN network analysis framework](https://github.com/CANToolz/CANToolz)
 - [PLAYING WITH CAN BUS](https://blog.danman.eu/playing-with-can-bus/)
 
+
 ********************************************************************************************************************************
 ### Radio IoT Protocols Overview
 
-- [SDR Notes](https://github.com/notpike/SDR-Notes)
+- [SDR Notes - R A D I O ★ H A C K E R ★ Q U I C K ★ S T A R T ★ G U I D E](https://github.com/notpike/SDR-Notes)
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
-- [Signal Processing]()
-- [Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
-- [Gnuradio](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC#Tutorial:_GNU_Radio_Companion)
-- [Creating a flow graph](https://blog.didierstevens.com/2017/09/19/quickpost-creating-a-simple-flow-graph-with-gnu-radio-companion/)
-- [Analysing radio signals](https://www.rtl-sdr.com/analyzing-433-mhz-transmitters-rtl-sdr/)
+- [Introduction to Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
+- [Introduction Gnuradio companion](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC#Tutorial:_GNU_Radio_Companion)
+- [Creating a flow graph in gunradiocompanion](https://blog.didierstevens.com/2017/09/19/quickpost-creating-a-simple-flow-graph-with-gnu-radio-companion/)
+- [Analysing radio signals 433Mhz ](https://www.rtl-sdr.com/analyzing-433-mhz-transmitters-rtl-sdr/)
 - [Recording specific radio signal](https://www.rtl-sdr.com/freqwatch-rtl-sdr-frequency-scanner-recorder/)
-- [Replay Attacks](https://www.rtl-sdr.com/tutorial-replay-attacks-with-an-rtl-sdr-raspberry-pi-and-rpitx/)
+- [Replay Attacks with raspberrypi -rpitx](https://www.rtl-sdr.com/tutorial-replay-attacks-with-an-rtl-sdr-raspberry-pi-and-rpitx/)
 
-********************************************************************************************************************************
 ### Cellular Hacking & GSM & BTS
 
 #### BTS
@@ -296,7 +305,7 @@
    - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
     
  
- #### Hardware
+ #### Hardware for bluetooth hacking
   
    - [NRFCONNECT - 52840](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
    - [EDIMAX](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
