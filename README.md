@@ -393,17 +393,19 @@
   
 #### Attacking Hardware Interfaces
 
-   -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
+   -	 [Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
    -  [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
    -  [REVERSE ENGINEERING ARCHITECTURE AND PINOUT OF CUSTOM ASICS](https://sec-consult.com/en/blog/2019/02/reverse-engineering-architecture-pinout-plc/)
    -  [ChipWhisperer - Hardware attacks](http://wiki.newae.com/Main_Page)
    
 
-#### SPI
+#### SPI (Flash ROMs)
+
    - [Reading FlashROMS](https://www.youtube.com/watch?v=LxWkA1Uz2aA&ab_channel=Defenceindepth)
    - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
-
-#### UART
+   - [How to Flash Chip of a Router With a Programmer | TP-Link Router Repair & MAC address change](https://www.youtube.com/watch?v=fbt4OJXJdOc&ab_channel=ElectricalProjects%5BCreativeLab%5D)
+   
+#### UART (4 PINS - SHELL ACCESS TO PCB)
 
    - [Identifying UART interface](https://www.mikroe.com/blog/uart-serial-communication)
    - [onewire-over-uart](https://github.com/dword1511/onewire-over-uart)
@@ -412,16 +414,13 @@
    - [A journey into IoT – Hardware hacking: UART](https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/)
    - [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
    - [UART Connections and Dynamic analysis on Linksys e1000](https://www.youtube.com/watch?v=ix6rSV2Dj44&ab_channel=Defenceindepth)
- 
 
 
-#### JTAG
+#### JTAG (ALOT TO UNDERSTAND)
 
    - [JTAG Explained (finally!)](https://blog.senr.io/blog/jtag-explained)
 
-   
-********************************************************************************************************************************   
-### SideChannel Attacks & Glitching attacks
+#### SideChannel Attacks & Glitching attacks
 
    - [Side channel attacks](https://yifan.lu/)
    - [Attacks on Implementations of Secure Systems](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
@@ -460,7 +459,7 @@
 
   - SS7 Network: https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network
 
-  -  VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
+  - VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
  
 
 *******************************************************************************************************************************
