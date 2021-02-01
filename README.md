@@ -356,7 +356,6 @@
 
  - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
- - [Dumping Firmware using Buspirate](http://iotpentest.com/tag/pulling-firmware/)
  - [Reversing ESP8266 Firmware](https://boredpentester.com/reversing-esp8266-firmware-part-1/)
  - [Emulating Embedded Linux Devices with QEMU](https://www.novetta.com/2018/02/emulating-embedded-linux-devices-with-qemu/?__cf_chl_captcha_tk__=2167fb6cf097848dbf0dea8e4ecccc66f2a55e55-1585030085-0-AVfO7wG_mHgvnIgeIl-aiKLNW1IMb5IMLyqLOSOLydnZFzhyAyySWgfKvjvllAtYtmpbJjnaTlwyaWiO2kHXH4APqLuott0R7UReYCTZ3u--g4AJBK4eONEL2bTJcAHg3fzmXhrC-3iAqccNQC4jx1RWEz60y_MKFq63NVeoE1pC0EBYWkk7VqDWusBFbgpj6zRNv0ifKLc3oLYJck-oG13jeSbPISVLMCn6bCHVLaTp2gW7qG6GRELIWgdyfP9viyMDSAww3u-R1NmUgRQzctXIYMWH1MdL5p8lqbSpCa160cW3JaZ16IxT7iP1HkCBurx7rCOVP3DAcI8zrc19V9mi-jU9nXIW0Xf9eIpqlUP-R_txfNw4vF10PwIGKmg0Cpl2IDuY1ty3J8koQkdvxfE)
  - [Emulating Embedded Linux Systems with QEMU](https://www.novetta.com/2018/02/emulating-embedded-linux-systems-with-qemu/?__cf_chl_captcha_tk__=9dd83a08cffb28fae75286f63f399c34eec56852-1585030087-0-AblGAUd4LCDVbghNgQyfL5hgPXNC8pUcLIAbPUpx2tBOb_L4gVVc1sZ7Ivg0g--06WpkdpeV-kylZu3T_Yqgr7GdFpc2cKzxATdc_bsEV7uu1ljIctFloHTW_B1vvjFAe3QXdex4kkn2D4HuQiw9WLszvO2Ff8SvvfEpHoBumOavj-c2iXcEb2dDFMoK3_HB_3-y7q_BEAX3xqDCjqz7TpcoIWt-wTSQwRfx-VuBfO87hrTsX43yzq6BNjCE9s15ZQmPp_NouYIHNMnx3augAfkwZBSUA0r43GbA--3jLmJsTe_qvcn7gMz_HAR-GpnA_Usn_cr94VqtyNpl0vEsC1OMf48oBMMoFQJA6Jjn1hGPv5hV4M4aBtJrTnFoRP2YGwxAyNTM3Df9qw1iyBB8r58)
@@ -400,6 +399,10 @@
    -  [ChipWhisperer - Hardware attacks](http://wiki.newae.com/Main_Page)
    
 
+#### SPI
+   - [Reading FlashROMS](https://www.youtube.com/watch?v=LxWkA1Uz2aA&ab_channel=Defenceindepth)
+   - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
+
 #### UART
 
    - [Identifying UART interface](https://www.mikroe.com/blog/uart-serial-communication)
@@ -408,6 +411,8 @@
    - [Using UART to connect to a chinese IP cam](https://www.davidsopas.com/using-uart-to-connect-to-a-chinese-ip-cam/)
    - [A journey into IoT – Hardware hacking: UART](https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/)
    - [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
+   - [UART Connections and Dynamic analysis on Linksys e1000](https://www.youtube.com/watch?v=ix6rSV2Dj44&ab_channel=Defenceindepth)
+ 
 
 
 #### JTAG
