@@ -15,7 +15,12 @@
  - ***7. Storage Medium***
  - ***8. I/O Ports***
  
- ![](https://github.com/V33RU/IoTSecurity101/blob/master/IoT.png)
+ 
+ ## Contents 
+ 
+ #### IoT Security groups
+ 
+   - [IoT Security Chat groups](#Chat groups for IoT Security)
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
@@ -470,6 +475,11 @@
  
 
 *******************************************************************************************************************************
+### Additional Resources:
+ - []()
+
+
+******************************************************************************************************************************** 
 ## follow the people
 
 -  [Jilles](https://twitter.com/jilles_com)
