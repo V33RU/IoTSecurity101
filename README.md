@@ -30,6 +30,12 @@
    - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
    - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
  
+ - Network
+ - Web
+ - Mobile app
+ - wireless protocols
+ - firmware
+ - Firmware
  - Hardware
    - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
    - [IoT Hardware hacking Intro]
@@ -39,6 +45,8 @@
  	- [UART](#UART)
 	- [JTAG](#JTAG)
    - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-&-Glitching-attacks)
+ - Storage Medium
+ - I/O Ports
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
