@@ -373,6 +373,11 @@
  - [Download From here by firmware.center](https://firmware.center/)
 
 ********************************************************************************************************************************
+### Storage Medium 
+ - [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
+ - [EMMC DATA RECOVERY FROM DAMAGED SMARTPHONE](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
+
+********************************************************************************************************************************
 ### IoT hardware Overview and Hacking
 
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)	
