@@ -78,36 +78,37 @@
 ********************************************************************************************************************************
 ### Blogs for iotpentest
 
-1. https://payatu.com/blog/
-2. http://jcjc-dev.com/
-3. https://w00tsec.blogspot.in/
-4. http://www.devttys0.com/
-5. https://www.rtl-sdr.com/
-6. https://keenlab.tencent.com/en/
-7. https://courk.cc/
-8. https://iotsecuritywiki.com/
-9. https://cybergibbons.com/
-10. http://firmware.re/
-11. https://iotmyway.wordpress.com/
-12. http://blog.k3170makan.com/
-13. https://blog.tclaverie.eu/
-14. http://blog.besimaltinok.com/category/iot-pentest/
-15. https://ctrlu.net/
-16. http://iotpentest.com/
-17. https://blog.attify.com
-18. https://duo.com/decipher/
-19. http://www.sp3ctr3.me
-20. http://blog.0x42424242.in/
-21. https://dantheiotman.com/
-22. https://blog.danman.eu/
-23. https://quentinkaiser.be/
-24. https://blog.quarkslab.com
-25. https://blog.ice9.us/
-26. https://labs.f-secure.com/
-27. https://mg.lol/blog/
-28. https://cjhackerz.net/
-29. https://github.com/sponsors/bunnie/
-
+https://payatu.com/blog/
+http://jcjc-dev.com/
+https://w00tsec.blogspot.in/
+http://www.devttys0.com/
+https://wrongbaud.github.io/
+https://embeddedbits.org/
+https://www.rtl-sdr.com/
+https://keenlab.tencent.com/en/
+https://courk.cc/
+https://iotsecuritywiki.com/
+https://cybergibbons.com/
+http://firmware.re/
+http://blog.k3170makan.com/
+https://blog.tclaverie.eu/
+http://blog.besimaltinok.com/category/iot-pentest/
+https://ctrlu.net/
+http://iotpentest.com/
+https://blog.attify.com
+https://duo.com/decipher/
+http://www.sp3ctr3.me
+http://blog.0x42424242.in/
+https://dantheiotman.com/
+https://blog.danman.eu/
+https://quentinkaiser.be/
+https://blog.quarkslab.com
+https://blog.ice9.us/
+https://labs.f-secure.com/
+https://mg.lol/blog/
+https://cjhackerz.net/
+https://github.com/sponsors/bunnie/
+https://iotmyway.wordpress.com/
 
 ********************************************************************************************************************************
 ### Awesome CheatSheets
