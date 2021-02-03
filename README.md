@@ -29,6 +29,16 @@
    - [Exploitation Tools](#Exploitation-Tools)
    - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
    - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
+ 
+ - Hardware
+   - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
+   - [IoT Hardware hacking Intro]
+   - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
+   - [Hardware interfaces](#Attacking-Hardware-Interfaces)
+      -[SPI](#SPI-(Flash-ROMs))
+ 	    -[UART](#UART (4 PINS - SHELL ACCESS TO PCB))
+	     -[JTAG](#JTAG (ALOT TO UNDERSTAND))
+   - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-&-Glitching-attacks)
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
