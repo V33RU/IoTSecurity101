@@ -35,9 +35,9 @@
    - [IoT Hardware hacking Intro]
    - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
    - [Hardware interfaces](#Attacking-Hardware-Interfaces)
-      -[SPI](#SPI-(Flash-ROMs))
- 	    -[UART](#UART (4 PINS - SHELL ACCESS TO PCB))
-	     -[JTAG](#JTAG (ALOT TO UNDERSTAND))
+   	-[SPI](#SPI-(Flash-ROMs))
+ 	-[UART](#UART (4 PINS - SHELL ACCESS TO PCB))
+	-[JTAG](#JTAG (ALOT TO UNDERSTAND))
    - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-&-Glitching-attacks)
   
 ********************************************************************************************************************************
