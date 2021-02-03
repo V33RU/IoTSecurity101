@@ -20,11 +20,11 @@
  
  - IoT Security info
    - [IoT Security Chat groups](#Chat-groups-for-IoT-Security)
-   - [Books](Books-For-IoT-Pentesting)
+   - [Books](#Books-For-IoT-Pentesting)
    - [Blogs](#Blogs-for-iotpentest)
    - [Cheatsheets](#Awesome-CheatSheets)
    - [Search Engines](#Search-Engines-for-IoT-Openly-devices)
-   - [CTF](#CTF-For-IoT's-And-Embeddded)
+   - [CTF](#CTF-For-IoT-And-Embeddded)
    - [Youtube](#YouTube-Channels-for-IoT-Pentesting)
    - [Exploitation Tools](#Exploitation-Tools)
    - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
@@ -125,7 +125,7 @@
 - [ONYPHE](https://www.onyphe.io/)
 
 ********************************************************************************************************************************
-### CTF For IoT's And Embeddded
+### CTF For IoT And Embeddded
 
 - https://github.com/hackgnar/ble_ctf
 - https://www.microcorruption.com/
