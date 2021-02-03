@@ -18,9 +18,17 @@
  
  ## Contents 
  
- #### IoT Security groups
- 
+ - IoT Security info
    - [IoT Security Chat groups](#Chat-groups-for-IoT-Security)
+   - [Books](Books-For-IoT-Pentesting)
+   - [Blogs](#Blogs-for-iotpentest)
+   - [Cheatsheets](#Awesome-CheatSheets)
+   - [Search Engines](#Search-Engines-for-IoT-Openly-devices)
+   - [CTF](#CTF-For-IoT's-And-Embeddded)
+   - [Youtube](#YouTube-Channels-for-IoT-Pentesting)
+   - [Exploitation Tools](#Exploitation-Tools)
+   - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
+   - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
