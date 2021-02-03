@@ -35,9 +35,9 @@
    - [IoT Hardware hacking Intro]
    - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
    - [Hardware interfaces](#Attacking-Hardware-Interfaces)
-   	- [SPI](#SPI-(Flash-ROMs))
- 	- [UART](#UART (4 PINS - SHELL ACCESS TO PCB))
-	- [JTAG](#JTAG (ALOT TO UNDERSTAND))
+   	- [SPI](#SPI)
+ 	- [UART](#UART)
+	- [JTAG](#JTAG)
    - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-&-Glitching-attacks)
   
 ********************************************************************************************************************************
@@ -430,13 +430,13 @@ https://iotmyway.wordpress.com/
    -  [ChipWhisperer - Hardware attacks](http://wiki.newae.com/Main_Page)
    
 
-#### SPI (Flash ROMs)
+#### SPI
 
    - [Reading FlashROMS](https://www.youtube.com/watch?v=LxWkA1Uz2aA&ab_channel=Defenceindepth)
    - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
    - [How to Flash Chip of a Router With a Programmer | TP-Link Router Repair & MAC address change](https://www.youtube.com/watch?v=fbt4OJXJdOc&ab_channel=ElectricalProjects%5BCreativeLab%5D)
    
-#### UART (4 PINS - SHELL ACCESS TO PCB)
+#### UART
 
    - [Identifying UART interface](https://www.mikroe.com/blog/uart-serial-communication)
    - [onewire-over-uart](https://github.com/dword1511/onewire-over-uart)
@@ -447,7 +447,7 @@ https://iotmyway.wordpress.com/
    - [UART Connections and Dynamic analysis on Linksys e1000](https://www.youtube.com/watch?v=ix6rSV2Dj44&ab_channel=Defenceindepth)
 
 
-#### JTAG (ALOT TO UNDERSTAND)
+#### JTAG
 
    - [JTAG Explained (finally!)](https://blog.senr.io/blog/jtag-explained)
 
