@@ -34,7 +34,7 @@
  - Web
  - Mobile app
  - wireless protocols
- 	- [Bluetooth](#BLE-Intro-and-SW-&-HW-Tools-to-pentest)
+ 	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
  - firmware
  - Firmware
  - Hardware
@@ -277,9 +277,9 @@
 
 
 ********************************************************************************************************************************
-### Radio IoT Protocols Overview
+### R A D I O ★ H A C K E R ★ Q U I C K ★ S T A R T ★ G U I D E
 
-- [SDR Notes - R A D I O ★ H A C K E R ★ Q U I C K ★ S T A R T ★ G U I D E](https://github.com/notpike/SDR-Notes)
+- [SDR Notes - Radio IoT Protocols Overview](https://github.com/notpike/SDR-Notes)
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
 - [Introduction to Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
 - [Introduction Gnuradio companion](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC#Tutorial:_GNU_Radio_Companion)
@@ -319,7 +319,7 @@
 - [ZigBee & Z-Wave Security Brief](http://www.riverloopsecurity.com/blog/2018/05/zigbee-zwave-part1/)
 
 ********************************************************************************************************************************
-### BLE Intro and SW-&-HW Tools to pentest
+### BLE Intro and SW-HW Tools to pentest
 
 - [Step By Step guide to BLE Understanding and Exploiting](https://github.com/V33RU/BLE-NullBlr)
 - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
