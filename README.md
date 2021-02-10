@@ -319,7 +319,7 @@
 - [ZigBee & Z-Wave Security Brief](http://www.riverloopsecurity.com/blog/2018/05/zigbee-zwave-part1/)
 
 ********************************************************************************************************************************
-### BLE Intro and SW & HW Tools to pentest
+### BLE Intro and SW-&-HW Tools to pentest
 
 - [Step By Step guide to BLE Understanding and Exploiting](https://github.com/V33RU/BLE-NullBlr)
 - [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
