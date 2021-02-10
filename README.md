@@ -34,7 +34,7 @@
  - Web
  - Mobile app
  - Wireless Protocols
- 	- [RADIO HACKER START](#R A D I O-★-H A C K E R-★-Q U I C K-★-S T A R T-★-G U I D E)
+ 	- [RADIO HACKING STARTING GUIDE](#RADIO-HACKER-QUICK-START-GUIDE)
 	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
 	-
  - firmware
@@ -279,7 +279,7 @@
 
 
 ********************************************************************************************************************************
-### R A D I O ★ H A C K E R ★ Q U I C K ★ S T A R T ★ G U I D E
+### RADIO HACKER QUICK START GUIDE
 
 - [SDR Notes - Radio IoT Protocols Overview](https://github.com/notpike/SDR-Notes)
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
