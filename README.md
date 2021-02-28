@@ -219,6 +219,7 @@
 - [FwAnalyzer (Firmware Analyzer)](https://github.com/cruise-automation/fwanalyzer)
 - [ISF(Industrial Security Exploitation Framework](https://github.com/w3h/isf)
 - [PENIOT: Penetration Testing Tool for IoT](https://github.com/yakuza8/peniot)
+- [MQTT-PWN](https://github.com/akamai-threat-research/mqtt-pwn)
 
 ********************************************************************************************************************************
 ### Reverse Engineering Tools
