@@ -18,7 +18,7 @@
  
  ## Contents 
  
- - IoT Security info
+ - IoT Security information
    - [IoT Security Chat groups](#Chat-groups-for-IoT-Security)
    - [Books](#Books-For-IoT-Pentesting)
    - [Blogs](#Blogs-for-iotpentest)
