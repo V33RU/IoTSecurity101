@@ -367,6 +367,7 @@
   - [GATTacking Bluetooth Smart Devices](https://securing.pl/en/gattacking-bluetooth-smart-devices-introducing-a-new-ble-proxy-tool/index.html)
   - [blueooth beacon vulnerability](https://www.beaconzone.co.uk/blog/category/security/)
   - [Sweyntooth Vulnerabilties](https://asset-group.github.io/disclosures/sweyntooth/)
+  - [AIRDROP_LEAK - sniffs BLE traffic and displays status messages from Apple devices](https://github.com/hexway/apple_bleee)
 
 ********************************************************************************************************************************
 ### Mobile security (Android & iOS)
