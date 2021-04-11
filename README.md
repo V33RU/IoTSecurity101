@@ -137,6 +137,7 @@
 - https://github.com/sponsors/bunnie/
 - https://iotmyway.wordpress.com/
 - https://www.synacktiv.com/publications.html
+- http://blog.cr4.sh/
 
 ********************************************************************************************************************************
 ### Awesome CheatSheets
