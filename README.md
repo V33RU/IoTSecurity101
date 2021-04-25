@@ -361,6 +361,7 @@
 #### BLE Pentesting Tutorials
 
   - [Bluetooth vs BLE Basics](https://github.com/V33RU/BLE-NullBlr)
+  - [Finding bugs in Bluetooth](https://bluetooth.lol/)
   - [Intel Edison as Bluetooth LE — Exploit box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
   - [How I Reverse Engineered and Exploited a Smart Massager](https://medium.com/@arunmag/how-i-reverse-engineered-and-exploited-a-smart-massager-ee7c9f21bf33)
   - [My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE](https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2)
