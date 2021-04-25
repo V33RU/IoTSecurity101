@@ -509,6 +509,7 @@
   - [Car Hacking Practical Guide 101](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
   - [OWASP Firmware Security Testing Methodology
 ](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
+  - [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
   
  
 ******************************************************************************************************************************** 
@@ -530,11 +531,6 @@
 
   - VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
  
-
-*******************************************************************************************************************************
-### Additional Resources:
- - []()
-
 
 ******************************************************************************************************************************** 
 ## follow the people
