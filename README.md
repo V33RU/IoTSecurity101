@@ -29,11 +29,15 @@
    - [Exploitation Tools](#Exploitation-Tools)
    - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
    - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
-   - [IoT Labs](Vulnerable-IoT-and-Hardware-Applications)
+   - [IoT Labs](#Vulnerable-IoT-and-Hardware-Applications)
  
  - Network
  - Web
+  	- [MQTT](#MQTT)
+	- [CoAP](#CoAP)
+	
  - Mobile app
+ 
  - Wireless Protocols
  	- [RADIO HACKING STARTING GUIDE](#RADIO-HACKER-QUICK-START-GUIDE)
 	- Cellular Hacking & GSM & BTS
@@ -41,11 +45,11 @@
 	- [GSM & SS7 Pentesting](GSM-SS7-Pentesting)
 	- [Zigbee](#Zigbee-ALL-Stuff)
 	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
-	
-	-
- - firmware
- - Firmware
- - Hardware
+	- 
+ - FIRMWARE
+ 	- [Reverse Engineering Tools](Reverse-Engineering-Tools)
+ 	- 
+ - HARDWARE
    - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
    - [IoT Hardware hacking Intro]
    - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
