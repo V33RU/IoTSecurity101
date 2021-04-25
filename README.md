@@ -38,6 +38,7 @@
 	- Cellular Hacking & GSM & BTS
 	- [BTS](#BTS)
 	- [GSM & SS7 Pentesting](GSM & SS7 Pentesting)
+	- [Zigbee](### Zigbee ALL Stuff)
 	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
 	
 	-
@@ -322,12 +323,31 @@
 - [Breaking LTE on Layer Two](https://alter-attack.net/)
 
 ********************************************************************************************************************************
-### Zigbee & Zwave
+### Zigbee ALL Stuff
 
 - [Introduction and protocol Overview](http://www.informit.com/articles/article.aspx?p=1409785)
 - [Hacking Zigbee Devices with Attify Zigbee Framework](https://blog.attify.com/hack-iot-devices-zigbee-sniffing-exploitation/)
 - [Hands-on with RZUSBstick](https://uk.rs-online.com/web/p/radio-frequency-development-kits/6962415/) 
 - [ZigBee & Z-Wave Security Brief](http://www.riverloopsecurity.com/blog/2018/05/zigbee-zwave-part1/)
+- [Hacking ZigBee Networks](https://resources.infosecinstitute.com/topic/hacking-zigbee-networks/)
+- [Zigator: Analyzing the Security of Zigbee-Enabled Smart Homes](https://mews.sv.cmu.edu/papers/wisec-20.pdf)
+- [Security Analysis of Zigbee Networks with Zigator and GNU Radio](https://mews.sv.cmu.edu/research/zigator/testbed-grcon2020-slides.pdf)
+- [Low-Cost ZigBee Selective Jamming](https://www.bastibl.net/reactive-zigbee-jamming/)
+
+#### SW TOOLS
+- [zigbear](https://github.com/philippnormann/zigbear)
+- [ZigDiggity](https://github.com/BishopFox/zigdiggity)
+- [Zigator](https://github.com/akestoridis/zigator)
+- [Z3sec](https://github.com/IoTsec/Z3sec)
+
+
+#### Hardware Tools for Zigbee
+- [APIMOTE IEEE 802.15.4/ZIGBEE SNIFFING HARDWARE](https://www.riverloopsecurity.com/projects/apimote/)
+- [RaspBee-The Raspberry Pi Zigbee gateway](https://phoscon.de/en/raspbee/)
+- [USRP SDR 2](https://www.ettus.com/products/)
+- [ATUSB IEEE 802.15.4 USB Adapter](http://shop.sysmocom.de/products/atusb)
+- [nRF52840-Dongle](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
+- []()
 
 ********************************************************************************************************************************
 ### BLE Intro and SW-HW Tools to pentest
