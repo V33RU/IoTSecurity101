@@ -29,6 +29,7 @@
    - [Exploitation Tools](#Exploitation-Tools)
    - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
    - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
+   - [IoT Labs](Vulnerable-IoT-and-Hardware-Applications)
  
  - Network
  - Web
@@ -308,7 +309,7 @@
 - [what is base tranceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
 - [How to Build Your Own Rogue GSM BTS](https://l33t.gg/how-to-build-a-rogue-gsm-bts/)
 
-#### GSM & SS7 Pentesting
+#### GSM SS7 Pentesting
 
 - [Introduction to GSM Security](http://www.pentestingexperts.com/introduction-to-gsm-security/)
 - [GSM Security 2 ](https://www.ehacking.net/2011/02/gsm-security-2.html)
