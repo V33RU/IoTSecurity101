@@ -200,7 +200,6 @@
 
 - [Reflecting upon OWASP TOP-10 IoT Vulnerabilities](https://embedi.org/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
 - [OWASP IoT Top 10 2018 Mapping Project](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/)
-- [Firmware Pentest Guide](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
 - [Hardware toolkits for IoT security analysis](https://defcon-nn.ru/0x0B/Hardware%20toolkits%20for%20IoT%20security%20analysis.pdf)
 
 ********************************************************************************************************************************
@@ -516,7 +515,8 @@
   - [OWASP Firmware Security Testing Methodology
 ](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
   - [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
-  
+  - [Firmware Pentest Guide](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
+
  
 ******************************************************************************************************************************** 
 ## Vulnerable IoT and Hardware Applications
