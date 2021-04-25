@@ -278,16 +278,6 @@
 - [CoAP Pentest Tools](https://bitbucket.org/aseemjakhar/expliot_framework)
 - [Nmap - NSE for coap](https://nmap.org/nsedoc/lib/coap.html)
 
-********************************************************************************************************************************
-### Automobile ★ and ★ Car ★ Hacking ★ stuff 
-
-#### ★ CANBUS
-- [Introduction and protocol Overview](https://www.youtube.com/watch?v=FqLDpHsxvf8)	
-- [PENTESTING VEHICLES WITH CANTOOLZ](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf)
-- [Building a Car Hacking Development Workbench: Part1](https://blog.rapid7.com/2017/07/11/building-a-car-hacking-development-workbench-part-1/)
-- [CANToolz - Black-box CAN network analysis framework](https://github.com/CANToolz/CANToolz)
-- [PLAYING WITH CAN BUS](https://blog.danman.eu/playing-with-can-bus/)
-
 
 ********************************************************************************************************************************
 ### RADIO HACKER QUICK START GUIDE
