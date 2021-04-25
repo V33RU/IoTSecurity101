@@ -16,7 +16,7 @@
  - ***8. I/O Ports***
  
  
- ## Contents 
+## Contents 
  
  - IoT Security information
    - [IoT Security Chat groups](#Chat-groups-for-IoT-Security)
@@ -30,36 +30,42 @@
    - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
    - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
    - [IoT Labs](#Vulnerable-IoT-and-Hardware-Applications)
- 
+   - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
+   
  - Network
- - Web
-  	- [MQTT](#MQTT)
+ - Web IoT Message Protocols
+ 	- [MQTT](#MQTT)
 	- [CoAP](#CoAP)
 	
  - Mobile app
- 
+ 	- [Mobile security (Android & iOS)](#Mobile-security-(Android-&-iOS))
+	
  - Wireless Protocols
  	- [RADIO HACKING STARTING GUIDE](#RADIO-HACKER-QUICK-START-GUIDE)
-	- Cellular Hacking & GSM & BTS
 	- [BTS](#BTS)
-	- [GSM & SS7 Pentesting](GSM-SS7-Pentesting)
+	- [GSM & SS7 Pentesting](#GSM-SS7-Pentesting)
 	- [Zigbee](#Zigbee-ALL-Stuff)
 	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
-	- 
- - FIRMWARE
- 	- [Reverse Engineering Tools](Reverse-Engineering-Tools)
- 	- 
- - HARDWARE
-   - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
-   - [IoT Hardware hacking Intro]
-   - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
-   - [Hardware interfaces](#Attacking-Hardware-Interfaces)
+
+ - Firmware
+ 	- [Reverse Engineering Tools](#Reverse-Engineering-Tools)
+	- [Online Assemblers](#Online-Assemblers)
+	- [ARM](#ARM)
+	- [Pentesting Firmwares and emulating and analyzing](#Pentesting-Firmwares-and-emulating-and-analyzing)
+	- [Firmware samples to pentest](#Firmware-samples-to-pentest)
+	
+	
+ - Hardware
+    - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
+    - [IoT Hardware hacking Intro]
+    - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
+    - [Hardware interfaces](#Attacking-Hardware-Interfaces)
    	- [SPI](#SPI)
  	- [UART](#UART)
 	- [JTAG](#JTAG)
-   - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-&-Glitching-attacks)
- - Storage Medium
- - I/O Ports
+    - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-&-Glitching-attacks)
+	
+ - [Storage Medium](#Storage-Medium)
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
