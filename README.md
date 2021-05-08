@@ -63,7 +63,7 @@
    	- [SPI](#SPI)
  	- [UART](#UART)
 	- [JTAG](#JTAG)
-    - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-&-Glitching-attacks)
+    - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-and-Glitching-attacks)
 	
  - [Storage Medium](#Storage-Medium)
   
@@ -495,7 +495,7 @@
    - [JTAG Explained (finally!)](https://blog.senr.io/blog/jtag-explained)
    - [Buspirate JTAG Connections - Openocd](https://research.kudelskisecurity.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/#:~:text=The%20Bus%20Pirate%20is%20an,protocols%20like%20I%C2%B2C%20and%20SPI.)
 
-#### SideChannel Attacks & Glitching attacks
+#### SideChannel Attacks and Glitching attacks
 
    - [Side channel attacks](https://yifan.lu/)
    - [Attacks on Implementations of Secure Systems](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
