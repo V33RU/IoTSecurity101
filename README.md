@@ -87,11 +87,13 @@
 ********************************************************************************************************************************
 ### Chat groups for IoT Security
 
-- <https://t.me/iotsecurity1011>
-- <https://www.reddit.com/r/IoTSecurity101/>
-- <https://t.me/hardwareHackingBrasil>
-- <https://t.me/joinchat/JAMxOg5YzdkGjcF3HmNgQw>
-- <https://discord.gg/EH9dxT9>
+- IoTSecurity101 Telegram - <https://t.me/iotsecurity1011>
+- IoTSecurity101 Reddit   - <https://www.reddit.com/r/IoTSecurity101/>
+- IoTSecurity101 Discord  -  <https://discord.gg/EH9dxT9>
+- hardware hacking Telegram - <https://t.me/hardwareHackingBrasil>
+- NForceIT Telegram 	-  <https://t.me/joinchat/JAMxOg5YzdkGjcF3HmNgQw>
+- RFID Discord group  - <https://discord.gg/Z43TrcVyPr>
+- ICS Discord group   - <https://discord.com/invite/CmDDsFK>
 
 ********************************************************************************************************************************
 ### Books For IoT Pentesting
