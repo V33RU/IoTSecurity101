@@ -469,6 +469,7 @@
   
 #### Attacking Hardware Interfaces
 
+   - [An Introduction to Hardware Hacking](https://securityboulevard.com/2020/09/an-introduction-to-hardware-hacking/)
    - [Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
    - [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
    - [REVERSE ENGINEERING ARCHITECTURE AND PINOUT OF CUSTOM ASICS](https://sec-consult.com/en/blog/2019/02/reverse-engineering-architecture-pinout-plc/)
@@ -491,7 +492,7 @@
    - [A journey into IoT – Hardware hacking: UART](https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/)
    - [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
    - [UART Connections and Dynamic analysis on Linksys e1000](https://www.youtube.com/watch?v=ix6rSV2Dj44&ab_channel=Defenceindepth)
-
+   - [Accessing and Dumping Firmware Through UART](https://securityboulevard.com/2020/12/accessing-and-dumping-firmware-through-uart/)
 
 #### JTAG
 
@@ -558,5 +559,3 @@
 -  [Arun Mane](https://twitter.com/rootkill3r)
 -  [Yashin Mehaboobe](https://twitter.com/YashinMehaboobe)
 -  [Arun Magesh](https://www.linkedin.com/in/marunmagesh)
-
-
