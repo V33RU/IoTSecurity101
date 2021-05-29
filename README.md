@@ -442,6 +442,14 @@
  - [Download From here by firmware.center](https://firmware.center/)
 
 ********************************************************************************************************************************
+### Bootloader
+#### Dev
+ - [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+
+
+********************************************************************************************************************************
+
+
 ### Storage Medium 
  - [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
  - [EMMC DATA RECOVERY FROM DAMAGED SMARTPHONE](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
