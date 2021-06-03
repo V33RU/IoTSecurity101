@@ -517,7 +517,8 @@
    - [Voltage Glitching Attack]()
    - [Espressif ESP32: Bypassing Encrypted Secure Boot(CVE-2020-13629)](https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)
    - [Voltage Glitching Attack using SySS iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw&feature=youtu.be&ab_channel=SySSPentestTV)
-   - [Samy Kamkar - FPGA Glitching & Side Channel Attacks](https://www.youtube.com/watch?v=6Pf3pY3GxBM&ab_channel=LiveOverflow)
+   - [Samy Kamkar - FPGA Glitching & Side Channel Attacks](https://www.youtube.com/watch?v=oGndiX5tvEk)
+   - [Hardware Power Glitch Attack (Fault Injection) - rhme2 Fiesta (FI 100)](https://www.youtube.com/watch?v=6Pf3pY3GxBM&ab_channel=LiveOverflow)
    - [Breaking AES with ChipWhisperer - Piece of scake (Side Channel Analysis 100)](https://www.youtube.com/watch?v=FktI4qSjzaE&ab_channel=LiveOverflow)
    - [https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
    
