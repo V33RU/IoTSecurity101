@@ -42,8 +42,7 @@
 	
  - Wireless Protocols
  	- [RADIO HACKING STARTING GUIDE](#RADIO-HACKER-QUICK-START-GUIDE)
-	- [BTS](#BTS)
-	- [GSM & SS7 Pentesting](#GSM-SS7-Pentesting)
+ 	- [Cellular Hacking & GSM & BTS](Cellular-Hacking-GSM-BTS)
 	- [Zigbee](#Zigbee-ALL-Stuff)
 	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
 
@@ -303,7 +302,7 @@
 - [Recording specific radio signal](https://www.rtl-sdr.com/freqwatch-rtl-sdr-frequency-scanner-recorder/)
 - [Replay Attacks with raspberrypi -rpitx](https://www.rtl-sdr.com/tutorial-replay-attacks-with-an-rtl-sdr-raspberry-pi-and-rpitx/)
 
-### Cellular Hacking & GSM & BTS
+### Cellular Hacking GSM BTS
 
 #### BTS
 
