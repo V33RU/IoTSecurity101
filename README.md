@@ -120,6 +120,7 @@
 ### Blogs for iotpentest
 
 - https://payatu.com/blog/
+- https://raelize.com/blog/
 - http://jcjc-dev.com/
 - https://w00tsec.blogspot.in/
 - http://www.devttys0.com/
