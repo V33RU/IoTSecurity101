@@ -194,6 +194,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 - [Cyber Gibbons](https://www.youtube.com/channel/UC_IYERSoSwdR7AA5P41mYTA)
 - [Scanline](https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ)
+- [Aaron Christophel](https://www.youtube.com/c/12002230/videos)
 
 ********************************************************************************************************************************
 ### Vehicle Security Resources
