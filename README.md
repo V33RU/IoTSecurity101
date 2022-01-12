@@ -91,6 +91,7 @@
 - IoTSecurity101 Reddit   - <https://www.reddit.com/r/IoTSecurity101/>
 - IoTSecurity101 Discord  -  <https://discord.gg/EH9dxT9>
 - hardware hacking Telegram - <https://t.me/hardwareHackingBrasil>
+- NForceIT(IoTSecurity) - <https://t.me/iotsecuritygroup>
 - RFID Discord group  - <https://discord.gg/Z43TrcVyPr>
 - ICS Discord group   - <https://discord.com/invite/CmDDsFK>
 
