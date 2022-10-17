@@ -502,7 +502,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 
 #### SPI
 
-   - [Reading FlashROMS - Youtube](https://www.youtube.com/results?search_query=%22Reading+FlashROMS%22)
+   - [Reading FlashROMS - Youtube](https://www.youtube.com/results?search_query=reading+chip+flash+rom)
    - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
    - [How to Flash Chip of a Router With a Programmer | TP-Link Router Repair & MAC address change](https://www.youtube.com/watch?v=fbt4OJXJdOc&ab_channel=ElectricalProjects%5BCreativeLab%5D)
    - [Extracting Flash Memory over SPI](https://akimbocore.com/article/extracting-flash-memory-over-spi/)
