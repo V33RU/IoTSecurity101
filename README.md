@@ -170,7 +170,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Nmap](https://github.com/gnebbia/nmap_tutorial)
 
 ********************************************************************************************************************************
-### Search Engines for IoT Openly devices
+### Search Engines for Exposed IoT devices worldwide
 
 - [Shodan](https://www.shodan.io/)
 - [FOFA](https://fofa.so/?locale=en)
