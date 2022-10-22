@@ -568,6 +568,14 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - SS7 Network: https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network
 
   - VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
+  
+  - Hardware Hacking 101 : https://github.com/rdomanski/hardware_hacking
+  
+  - RHME-2015 : https://github.com/Riscure/RHme-2015
+  
+  - RHME-2016 : https://github.com/Riscure/Rhme-2016
+  
+  - RHME-2017 : https://github.com/Riscure/Rhme-2017
  
 
 ******************************************************************************************************************************** 
