@@ -525,19 +525,24 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [JTAG Explained (finally!)](https://blog.senr.io/blog/jtag-explained)
    - [Buspirate JTAG Connections - Openocd](https://research.kudelskisecurity.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/#:~:text=The%20Bus%20Pirate%20is%20an,protocols%20like%20I%C2%B2C%20and%20SPI.)
 
-#### SideChannel Attacks and Glitching attacks
+#### SideChannel Attacks
 
    - [Side channel attacks](https://yifan.lu/)
    - [Attacks on Implementations of Secure Systems](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
    - [fuzzing, binary analysis, IoT security, and general exploitation](https://github.com/0xricksanchez/paper_collection)
-   - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
-   - [Voltage Glitching Attack]()
    - [Espressif ESP32: Bypassing Encrypted Secure Boot(CVE-2020-13629)](https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)
+   - [Breaking AES with ChipWhisperer - Piece of scake (Side Channel Analysis 100)](https://www.youtube.com/watch?v=FktI4qSjzaE&ab_channel=LiveOverflow)
+   - [https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
+
+#### Glitching attacks
+
+   - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
+   - [Tutorial CW305-4 Voltage Glitching with Crowbars](https://wiki.newae.com/index.php?title=Tutorial_CW305-4_Voltage_Glitching_with_Crowbars&mobileaction=toggle_view_mobile)
    - [Voltage Glitching Attack using SySS iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw&feature=youtu.be&ab_channel=SySSPentestTV)
    - [Samy Kamkar - FPGA Glitching & Side Channel Attacks](https://www.youtube.com/watch?v=oGndiX5tvEk)
    - [Hardware Power Glitch Attack (Fault Injection) - rhme2 Fiesta (FI 100)](https://www.youtube.com/watch?v=6Pf3pY3GxBM&ab_channel=LiveOverflow)
-   - [Breaking AES with ChipWhisperer - Piece of scake (Side Channel Analysis 100)](https://www.youtube.com/watch?v=FktI4qSjzaE&ab_channel=LiveOverflow)
-   - [https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
+   - [Keys in flash - Glitching AES keys from an Arduino / ATmega with a camera flash](https://srfilipek.medium.com/keys-in-a-flash-3e984d0de54b)
+   - [Implementing Practical Electrical Glitching Attacks](blackhat.com/docs/eu-15/materials/eu-15-Giller-Implementing-Electrical-Glitching-Attacks.pdf)
    
 ********************************************************************************************************************************   
 ### Awesome IoT Pentesting Guides
