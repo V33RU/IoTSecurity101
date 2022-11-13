@@ -164,6 +164,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - http://blog.cr4.sh/
 - https://ktln2.org/
 - https://naehrdine.blogspot.com/
+- https://limitedresults.com/
 
 ********************************************************************************************************************************
 ### Awesome CheatSheets
@@ -362,7 +363,6 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [USRP SDR 2](https://www.ettus.com/products/)
 - [ATUSB IEEE 802.15.4 USB Adapter](http://shop.sysmocom.de/products/atusb)
 - [nRF52840-Dongle](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
-- []()
 
 ********************************************************************************************************************************
 ### BLE Intro and SW-HW Tools to pentest
@@ -459,10 +459,16 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Download From here by firmware.center](https://firmware.center/)
 
 ********************************************************************************************************************************
-### Bootloader
+### Secureboot
 #### Dev
  - [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 
+#### Hacking
+ - [Pwn the ESP32 Secure Boot](https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/)
+ - [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
+ - [Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM](https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html) / [another-link](https://www.cnx-software.com/2016/10/06/hacking-arm-trustzone-secure-boot-on-amlogic-s905-soc/)
+ - [Defeating Secure Boot with Symlink Attacks](https://www.anvilsecure.com/blog/defeating-secure-boot-with-symlink-attacks.html)
+ - [PS4 Aux Hax 5 & PSVR Secure Boot Hacking with Keys by Fail0verflow!](https://www.psxhax.com/threads/ps4-aux-hax-5-psvr-secure-boot-hacking-with-keys-by-fail0verflow.12820/)
 
 ********************************************************************************************************************************
 
