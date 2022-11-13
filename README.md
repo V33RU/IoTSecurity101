@@ -165,6 +165,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - https://ktln2.org/
 - https://naehrdine.blogspot.com/
 - https://limitedresults.com/
+- https://fail0verflow.com/blog/
 
 ********************************************************************************************************************************
 ### Awesome CheatSheets
