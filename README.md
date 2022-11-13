@@ -118,6 +118,7 @@ by Jack Ganssle ](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/d
 - [Inside Radio: An Attack and Defense Guide by Authors: Yang, Qing, Huang, Lin](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false) -2018
 - [Pentest Hardware](https://github.com/unprovable/PentestHardware/) - Openbook -2018
 - [Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition 5th Edition by by Daniel Regalado , Shon Harris , Allen Harper , Chris Eagle , Jonathan Ness , Branko Spasojevic , Ryan Linn , Stephen Sims](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H) - 2018
+- [Practical Hardware Pentesting](https://www.packtpub.com/product/practical-hardware-pentesting/9781789619133?_ga=2.224205017.333884789.1668314814-101815837.1668314814) - 2021
 - [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks Front Cover Jasper van Woudenberg, Colin O'Flynn](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s) - 2021
 - [Practical IoT Hacking-The Definitive Guide to Attacking the Internet of Things
 by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods](https://nostarch.com/practical-iot-hacking) - 2021
