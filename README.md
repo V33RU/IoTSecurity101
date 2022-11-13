@@ -392,6 +392,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [ESP32 - Development and learning Bluetooth](https://www.espressif.com/en/products/hardware/esp32/overview)
    - [Ubertooth](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One)
    - [Sena 100](http://www.senanetworks.com/ud100-g03.html)
+   - [ESP-WROVER-KIT-VB](https://www.digikey.in/en/products/detail/espressif-systems/ESP-WROVER-KIT-VB/8544301)
 
 #### BLE Pentesting Tutorials
 
@@ -406,6 +407,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [blueooth beacon vulnerability](https://www.beaconzone.co.uk/blog/category/security/)
   - [Sweyntooth Vulnerabilties](https://asset-group.github.io/disclosures/sweyntooth/)
   - [AIRDROP_LEAK - sniffs BLE traffic and displays status messages from Apple devices](https://github.com/hexway/apple_bleee)
+  - [BRAKTOOTH: Causing Havoc on Bluetooth Link Manager](https://asset-group.github.io/disclosures/braktooth/)
 
 ********************************************************************************************************************************
 ### Mobile security (Android & iOS)
