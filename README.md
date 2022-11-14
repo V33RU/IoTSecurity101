@@ -564,6 +564,17 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
   - [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
   - [Firmware Pentest Guide](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
+  
+********************************************************************************************************************************
+### Fuzzing Things
+  - [OWASP Fuzzing Info](https://owasp.org/www-community/Fuzzing)
+  - [Fuzzing_ICS_protocols](https://1modm.github.io/Fuzzing_ICS_protocols.html)
+  - [Fuzzowski - the Network Protocol Fuzzer that we will want to use](https://hakin9.org/fuzzowski-the-network-protocol-fuzzer-that-we-will-want-to-use/)
+  - [Fuzz Testing of Application Reliability](https://pages.cs.wisc.edu/~bart/fuzz/)
+  - [FIRM-AFL](https://www.usenix.org/conference/usenixsecurity19/presentation/zheng)
+  - [Snipuzz](https://arxiv.org/pdf/2105.05445.pdf)
+  - [fuzzing-iot-devices] - [part1](https://blog.attify.com/fuzzing-iot-devices-part-1/) / [part2](https://blog.attify.com/fuzzing-iot-binaries-with-afl-part-ii/)
+  
 
  
 ******************************************************************************************************************************** 
