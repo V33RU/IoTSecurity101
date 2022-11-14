@@ -36,6 +36,8 @@
    - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
    - [IoT Labs](#Vulnerable-IoT-and-Hardware-Applications)
    - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
+   - [Fuzzing Things](#Fuzzing-Things)
+
    
  - Network
  - Web IoT Message Protocols
@@ -57,7 +59,7 @@
 	- [ARM](#ARM)
 	- [Pentesting Firmwares and emulating and analyzing](#Pentesting-Firmwares-and-emulating-and-analyzing)
 	- [Firmware samples to pentest](#Firmware-samples-to-pentest)
-	- [Bootloader](#Bootloader)
+	- [Secureboot](#Secureboot)
 	
 	
  - Hardware
@@ -573,7 +575,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [Fuzz Testing of Application Reliability](https://pages.cs.wisc.edu/~bart/fuzz/)
   - [FIRM-AFL](https://www.usenix.org/conference/usenixsecurity19/presentation/zheng)
   - [Snipuzz](https://arxiv.org/pdf/2105.05445.pdf)
-  - [fuzzing-iot-devices] - [part1](https://blog.attify.com/fuzzing-iot-devices-part-1/) / [part2](https://blog.attify.com/fuzzing-iot-binaries-with-afl-part-ii/)
+  - [fuzzing-iot-binaries] - [part1](https://blog.attify.com/fuzzing-iot-devices-part-1/) / [part2](https://blog.attify.com/fuzzing-iot-binaries-with-afl-part-ii/)
   
 
  
