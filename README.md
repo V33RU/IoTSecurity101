@@ -233,7 +233,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Instatn-gnuradio OS - For Radio Signals Testing](https://github.com/bastibl/instant-gnuradio)
 - [AttifyOS - IoT Pentest OS - by Aditya Gupta](https://github.com/adi0x90/attifyos)
 - [Ubutnu Best Host Linux for IoT's - Use LTS](https://www.ubuntu.com/)
-- [Internet of Things - Penetration Testing OS](https://github.com/IoT-PTv)
+- [Internet of Things - Penetration Testing OS v1](https://github.com/IoT-PTv)
 - [Dragon OS - DEBIAN LINUX WITH PREINSTALLED OPEN SOURCE SDR SOFTWARE](https://www.rtl-sdr.com/dragonos-debian-linux-with-preinstalled-open-source-sdr-software/)
 - [EmbedOS - Embedded security testing virtual machine](https://github.com/scriptingxss/EmbedOS)
 - [Skywave Linux- Software Defined Radio for Global Online Listening](https://skywavelinux.com/)
