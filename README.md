@@ -197,6 +197,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### YouTube Channels for IoT Pentesting
 
+- [Joe Grand](https://www.youtube.com/@JoeGrand) 
 - [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [Binary Adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
 - [EEVBlog](https://www.youtube.com/user/EEVblog)
