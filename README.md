@@ -463,6 +463,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Download From here by firmware.center](https://firmware.center/)
 
 ********************************************************************************************************************************
+
 ### Secureboot
 #### Dev
  - [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
@@ -476,7 +477,6 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 
 ********************************************************************************************************************************
 
-
 ### Storage Medium 
  - [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
  - [EMMC DATA RECOVERY FROM DAMAGED SMARTPHONE](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
@@ -484,6 +484,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Unleash your smart-home devices: Vacuum Cleaning Robot Hacking](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking#t=1810)
 
 ********************************************************************************************************************************
+
 ### IoT hardware Overview and Hacking
 
  - [IoT Hardware Guide](https://www.postscapes.com/internet-of-things-hardware/)
