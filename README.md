@@ -482,6 +482,9 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [EMMC DATA RECOVERY FROM DAMAGED SMARTPHONE](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
  - [Another bunch of Atricles for EMMC](https://hackaday.com/tag/emmc/)
  - [Unleash your smart-home devices: Vacuum Cleaning Robot Hacking](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking#t=1810)
+ - [Hands-On IoT Hacking: Rapid7 at DEF CON 30 IoT Village, Part 1](https://www.rapid7.com/blog/post/2022/10/18/hands-on-iot-hacking-rapid7-at-def-con-30-iot-village-part-1/)
+ - 
+
 
 ********************************************************************************************************************************
 
@@ -521,6 +524,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
    - [How to Flash Chip of a Router With a Programmer | TP-Link Router Repair & MAC address change](https://www.youtube.com/watch?v=fbt4OJXJdOc&ab_channel=ElectricalProjects%5BCreativeLab%5D)
    - [Extracting Flash Memory over SPI](https://akimbocore.com/article/extracting-flash-memory-over-spi/)
+   - [Extracting Firmware from Embedded Devices (SPI NOR Flash)](https://www.youtube.com/watch?v=nruUuDalNR0&ab_channel=FlashbackTeam)
    - [SPI-Blogs](https://www.google.com/search?q=%22spi+dump%22&source=hp&ei=5jv9YaW6JNvl2roPgbGqMA&iflsig=AHkkrS4AAAAAYf1J9qNY6Snarz3dsHr9KXF1YSY6AKVL&ved=0ahUKEwilxY3apOb1AhXbslYBHYGYCgYQ4dUDCAg&uact=5&oq=%22spi+dump%22&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeUABYAGC-A2gAcAB4AIABYIgBYJIBATGYAQCgAQKgAQE&sclient=gws-wiz)
    
 #### UART
@@ -533,7 +537,6 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
    - [UART Connections and Dynamic analysis on Linksys e1000](https://www.youtube.com/watch?v=ix6rSV2Dj44&ab_channel=Defenceindepth)
    - [Accessing and Dumping Firmware Through UART](https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart)
-   - []()
 
 #### JTAG
 
