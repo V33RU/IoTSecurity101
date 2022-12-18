@@ -68,8 +68,8 @@
    	- [SPI](#SPI)
  	- [UART](#UART)
 	- [JTAG](#JTAG)
-    	- [SideChannel Attacks & Glitching attacks](#sidechannel-attacks)
-    	- [Glitching Attacks](#glitching-attacks)
+	- [SideChannel Attacks & Glitching attacks](#sidechannel-attacks)
+	- [Glitching Attacks](#glitching-attacks)
 	
  - [Storage Medium](#Storage-Medium)
   
