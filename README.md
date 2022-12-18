@@ -38,7 +38,6 @@
    - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
    - [Fuzzing Things](#Fuzzing-Things)
 
-   
  - Network
  - Web IoT Message Protocols
  	- [MQTT](#MQTT)
@@ -60,8 +59,7 @@
 	- [Pentesting Firmwares and emulating and analyzing](#Pentesting-Firmwares-and-emulating-and-analyzing)
 	- [Firmware samples to pentest](#Firmware-samples-to-pentest)
 	- [Secureboot](#Secureboot)
-	
-	
+
  - Hardware
     - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
     - [IoT Hardware hacking Intro]
@@ -70,7 +68,8 @@
    	- [SPI](#SPI)
  	- [UART](#UART)
 	- [JTAG](#JTAG)
-    - [SideChannel Attacks & Glitching attacks](#SideChannel-Attacks-and-Glitching-attacks)
+    	- [SideChannel Attacks & Glitching attacks](#sidechannel-attacks)
+    	- [Glitching Attacks](#glitching-attacks)
 	
  - [Storage Medium](#Storage-Medium)
   
