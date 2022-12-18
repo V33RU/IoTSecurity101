@@ -71,7 +71,8 @@
 	- [SideChannel Attacks & Glitching attacks](#sidechannel-attacks)
 	- [Glitching Attacks](#glitching-attacks)
 	
- - [Storage Medium](#Storage-Medium)
+ - [Storage Medium]
+ 	- EMMC Hacking (#EMMC-HACKING)
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
@@ -476,7 +477,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 
 ********************************************************************************************************************************
 
-### Storage Medium 
+### EMMC HACKING
  - [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
  - [EMMC DATA RECOVERY FROM DAMAGED SMARTPHONE](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
  - [Another bunch of Atricles for EMMC](https://hackaday.com/tag/emmc/)
