@@ -28,7 +28,7 @@
    - [Books](#Books-For-IoT-Pentesting)
    - [Blogs](#Blogs-for-iotpentest)
    - [Cheatsheets](#Awesome-CheatSheets)
-   - [Search Engines](#Search-Engines-for-IoT-Openly-devices)
+   - [Search Engines](#search-engines-for-exposed-iot-devices-worldwide)
    - [CTF](#CTF-For-IoT-And-Embeddded)
    - [Youtube](#YouTube-Channels-for-IoT-Pentesting)
    - [Exploitation Tools](#Exploitation-Tools)
