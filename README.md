@@ -72,7 +72,7 @@
 	- [Glitching Attacks](#glitching-attacks)
 	
  - [Storage Medium]
- 	- EMMC Hacking (#EMMC-HACKING)
+ 	- EMMC Hacking (#emmc-hacking)
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
