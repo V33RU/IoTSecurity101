@@ -71,8 +71,12 @@
 	- [SideChannel Attacks & Glitching attacks](#sidechannel-attacks)
 	- [Glitching Attacks](#glitching-attacks)
 	
- - [Storage Medium]
+ - Storage Medium
  	- [EMMC Hacking](#emmc-hacking)
+
+ - Other Interesting Areas
+ 	- ICS
+	- Automotive
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
@@ -583,8 +587,19 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [Snipuzz : Black-box Fuzzing of IoT Firmware via Message Snippet Inference](https://arxiv.org/pdf/2105.05445.pdf)
   - [fuzzing-iot-binaries] - [part1](https://blog.attify.com/fuzzing-iot-devices-part-1/) / [part2](https://blog.attify.com/fuzzing-iot-binaries-with-afl-part-ii/)
   
+  
+  
+********************************************************************************************************************************
+### ICS
+  
+  - [ICS-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Industrial%20Control%20Systems.md)
 
  
+******************************************************************************************************************************** 
+### Automotive
+  - [Automotive-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Automotive-Security.md)
+  
+
 ******************************************************************************************************************************** 
 ## Vulnerable IoT and Hardware Applications
 
