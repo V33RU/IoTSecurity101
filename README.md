@@ -37,6 +37,7 @@
    - [IoT Labs](#Vulnerable-IoT-and-Hardware-Applications)
    - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
    - [Fuzzing Things](#Fuzzing-Things)
+   - [IoT Lab Setup guide for corporate/individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
 
  - Network
  - Web IoT Message Protocols
