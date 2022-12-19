@@ -75,8 +75,8 @@
  	- [EMMC Hacking](#emmc-hacking)
 
  - Other Interesting Areas
- 	- ICS
-	- Automotive
+ 	- [ICS-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Industrial%20Control%20Systems.md)
+	- [Automotive-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Automotive-Security.md)
   
 ********************************************************************************************************************************
 ### To seen Hacked devices
