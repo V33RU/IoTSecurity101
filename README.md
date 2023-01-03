@@ -7,7 +7,7 @@
 - You are welcome to fork and [contribute](https://github.com/V33RU/IoTSecurity101/blob/master/contributors.md#contributors)
 
  - Other Interesting Areas
- 	- [ICS-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Industrial%20Control%20Systems.md)
+ 	- [ICS-Security](https://github.com/V33RU/IoTSecurity101/blob/master/ICS/Industrial%20Control%20Systems.md)
 	- [Automotive-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Automotive-Security.md)
 
 ********************************************************************************************************************************
