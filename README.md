@@ -644,6 +644,6 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 -  [Ilya Shaposhnikov](https://twitter.com/drakylar)
 -  [Mark C.](https://twitter.com/LargeCardinal)
 -  [A-a-ron Guzman](https://twitter.com/scriptingxss)
--  [Arun Mane](https://twitter.com/rootkill3r)
 -  [Yashin Mehaboobe](https://twitter.com/YashinMehaboobe)
 -  [Arun Magesh](https://www.linkedin.com/in/marunmagesh)
+-  [Mr-IoT](https://twitter.com/v33riot)
