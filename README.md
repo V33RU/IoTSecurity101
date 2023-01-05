@@ -647,3 +647,4 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 -  [Yashin Mehaboobe](https://twitter.com/YashinMehaboobe)
 -  [Arun Magesh](https://www.linkedin.com/in/marunmagesh)
 -  [Mr-IoT](https://twitter.com/v33riot)
+-  [QKaiser](https://twitter.com/qkaiser)
