@@ -554,6 +554,8 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [Buspirate JTAG Connections - Openocd](https://research.kudelskisecurity.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/#:~:text=The%20Bus%20Pirate%20is%20an,protocols%20like%20I%C2%B2C%20and%20SPI.)
    - [Extracting Firmware from External Memory via JTAG](https://www.youtube.com/watch?v=IadnBUJAvks&ab_channel=JoeGrand)
    - [Analyzing JTAG](https://nse.digital/pages/guides/hardware/jtag.html)
+   - [The hitchhacker’s guide to iPhone Lightning & JTAG hacking](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/stacksmashing%20-%20The%20hitchhackers%20guide%20to%20iPhone%20Lightning%20%20%20JTAG%20hacking.pdf)
+
 
 #### SideChannel Attacks
 
