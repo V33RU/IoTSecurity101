@@ -549,8 +549,11 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 
 #### JTAG
 
-   - [JTAG Explained (finally!)](https://blog.senr.io/blog/jtag-explained)
+   - [HARDWARE HACKING 101: INTRODUCTION TO JTAG](https://www.riverloopsecurity.com/blog/2021/05/hw-101-jtag/)
+   - [How To Find The JTAG Interface - Hardware Hacking Tutorial](https://www.youtube.com/watch?v=_FSM_10JXsM&ab_channel=MakeMeHack)
    - [Buspirate JTAG Connections - Openocd](https://research.kudelskisecurity.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/#:~:text=The%20Bus%20Pirate%20is%20an,protocols%20like%20I%C2%B2C%20and%20SPI.)
+   - [Extracting Firmware from External Memory via JTAG](https://www.youtube.com/watch?v=IadnBUJAvks&ab_channel=JoeGrand)
+   - [Analyzing JTAG](https://nse.digital/pages/guides/hardware/jtag.html)
 
 #### SideChannel Attacks
 
