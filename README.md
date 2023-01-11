@@ -98,7 +98,7 @@
 - [Printer Hacking live sessions - gamozolabs](https://www.youtube.com/playlist?list=PLSkhUfcCXvqHS4Bqz804OAZqND6bk7OG6)
 
 ********************************************************************************************************************************
-- [IoT-Vuln-with CVE and PoC pf tenda and dlink](https://github.com/z1r00/IOT_Vul)
+- [IoT-Vuln-with CVE and PoC of tenda and dlink](https://github.com/z1r00/IOT_Vul)
 
 ********************************************************************************************************************************
 ### Chat groups for IoT Security
