@@ -321,6 +321,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### RADIO HACKER QUICK START GUIDE
 
+- [Complete course in Software Defined Radio (SDR) by Michael Ossmann](https://greatscottgadgets.com/sdr/)
 - [SDR Notes - Radio IoT Protocols Overview](https://github.com/notpike/SDR-Notes)
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
 - [Introduction to Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
