@@ -134,6 +134,7 @@ by Jack Ganssle ](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/d
 - [Practical IoT Hacking-The Definitive Guide to Attacking the Internet of Things
 by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods](https://nostarch.com/practical-iot-hacking) - 2021
 - [Internet of Things Security Encyclopedia](https://iot-security.wiki/) - Openbook
+- [PatrIoT: practical and agile threat research for IoT by Emre Süren](https://link.springer.com/article/10.1007/s10207-022-00633-3) - 2022
 - [Practical Hardware Pentesting - Second Edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322) - 2023
 
 ********************************************************************************************************************************
