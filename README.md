@@ -136,6 +136,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Internet of Things Security Encyclopedia](https://iot-security.wiki/) - Openbook
 - [PatrIoT: practical and agile threat research for IoT by Emre Süren](https://link.springer.com/article/10.1007/s10207-022-00633-3) - 2022
 - [Practical Hardware Pentesting - Second Edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322) - 2023
+- [Blue Fox: Arm Assembly Internals & Reverse Engineering](https://www.wiley.com/en-gb/Blue+Fox%3A+Arm+Assembly+Internals+%26+Reverse+Engineering-p-9781119745303) - 2023
 
 ********************************************************************************************************************************
 ### Blogs for iotpentest
