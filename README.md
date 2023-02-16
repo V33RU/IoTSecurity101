@@ -475,9 +475,9 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Download From here by firmware.center](https://firmware.center/)
 
 ********************************************************************************************************************************
-### Zip Slip
-#### Hacking
+### Symlinks Attacks
  - [Zip Slip Vulnerability](https://security.snyk.io/research/zip-slip-vulnerability)
+ 
 ********************************************************************************************************************************
 ### Secureboot
 #### Dev
