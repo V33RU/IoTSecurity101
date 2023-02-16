@@ -475,7 +475,10 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Download From here by firmware.center](https://firmware.center/)
 
 ********************************************************************************************************************************
-
+### Zip Slip
+#### Hacking
+ - [Zip Slip Vulnerability](https://security.snyk.io/research/zip-slip-vulnerability)
+********************************************************************************************************************************
 ### Secureboot
 #### Dev
  - [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
