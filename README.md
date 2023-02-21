@@ -453,8 +453,22 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### Pentesting Firmwares and emulating and analyzing
 
+##### Firmware Analysis Tools
  - [EMBA-An analyzer for embedded Linux firmware](https://p4cx.medium.com/emba-b370ce503602)
- - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
+ - [FACT-Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core)
+ - [Binwalk](https://github.com/ReFirmLabs/binwalk)
+ - [Qiling](https://github.com/qilingframework/qiling)
+ - [fwanalyzer](https://github.com/cruise-automation/fwanalyzer)
+ - [ByteSweep](https://gitlab.com/bytesweep/bytesweep)
+ - [Firmwalker](https://github.com/craigz28/firmwalker)
+ - [Checksec.sh](https://github.com/slimm609/checksec.sh)
+ - [QEMU](https://www.qemu.org/)
+ - [Firmadyne](https://github.com/firmadyne/firmadyne)
+ - [Firmware Modification Kit](https://code.google.com/archive/p/firmware-mod-kit/)
+
+ 
+##### Resources
+- [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
  - [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS)
  - [OWASP Firmware Security Testing Methodology](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
