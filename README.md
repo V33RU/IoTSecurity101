@@ -469,6 +469,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  
 ##### Resources
 - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
+ - [Reversing 101](https://0xinfection.github.io/reversing/)
  - [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS)
  - [OWASP Firmware Security Testing Methodology](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
  - [Firmware emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
