@@ -56,6 +56,7 @@
  	- [Cellular Hacking GSM BTS](#cellular-hacking-gsm-bts)
 	- [Zigbee](#Zigbee-ALL-Stuff)
 	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
+	- [DECT]()
 
  - Firmware
  	- [Reverse Engineering Tools](#Reverse-Engineering-Tools)
@@ -424,6 +425,18 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [Sweyntooth Vulnerabilties](https://asset-group.github.io/disclosures/sweyntooth/)
   - [AIRDROP_LEAK - sniffs BLE traffic and displays status messages from Apple devices](https://github.com/hexway/apple_bleee)
   - [BRAKTOOTH: Causing Havoc on Bluetooth Link Manager](https://asset-group.github.io/disclosures/braktooth/)
+  
+********************************************************************************************************************************
+### DECT (Digital Enhanced Cordless Telecommunications)
+  - [Real Time Interception And Monitoring Of A DECT Cordless Telephone](https://www.youtube.com/watch?v=MDF1eUvOte0&ab_channel=RobVK8FOES)
+  - [Eavesdropping On Unencrypted DECT Voice Traffic](https://www.youtube.com/watch?v=WBvYsXrs3DI&ab_channel=RobVK8FOES)
+  - [Decoding DECT Voice Traffic: In-depth Explanation](https://www.youtube.com/watch?v=oiMkirm_xfY&ab_channel=RobVK8FOES)
+  
+#### Software Tools && Hardware Tools 
+   ##### Software
+   
+   ##### Hardware
+
 
 ********************************************************************************************************************************
 ### Mobile security (Android & iOS)
