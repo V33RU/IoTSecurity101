@@ -80,6 +80,8 @@
  - Storage Medium
  	- [EMMC Hacking](#emmc-hacking)
 
+- [Payment Security](#Payment-Device-Security)
+	- [ATM Hacking](#ATM-Hacking)
 
   
 ********************************************************************************************************************************
@@ -531,6 +533,13 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Unleash your smart-home devices: Vacuum Cleaning Robot Hacking](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking#t=1810)
  - [Hands-On IoT Hacking: Rapid7 at DEF CON 30 IoT Village, Part 1](https://www.rapid7.com/blog/post/2022/10/18/hands-on-iot-hacking-rapid7-at-def-con-30-iot-village-part-1/)
 
+********************************************************************************************************************************
+### Payment Device Security
+
+#### ATM Hacking
+- [Introduction to ATM Penetration Testing](https://www.youtube.com/watch?v=Ff-0zXTYhuA)
+- [Pwning ATMs For Fun and Profit](https://www.youtube.com/watch?v=9cG-JL0LHYw)
+- [Jackpotting Automated Teller Machines Redux](https://www.youtube.com/watch?v=4StcW9OPpPc)
 
 ********************************************************************************************************************************
 
