@@ -394,12 +394,12 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [btproxy](https://github.com/conorpp/btproxy)
    - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
    - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
-   - [Cracking encryption](https://github.com/mikeryan/crackle)
+   - [crackle-Cracking encryption](https://github.com/mikeryan/crackle)
    - [bettercap](https://github.com/bettercap/bettercap)
    - [BtleJuice Bluetooth Smart Man-in-the-Middle framework](https://github.com/DigitalSecurity/btlejuice)
    - [gattacker](https://github.com/securing/gattacker)
    - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
-    
+   - [bluing-An intelligence gathering tool for hacking Bluetooth](https://github.com/fO-000/bluing)
  
  #### Hardware for bluetooth hacking
   
