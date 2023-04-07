@@ -80,7 +80,7 @@
  - Storage Medium
  	- [EMMC Hacking](#emmc-hacking)
 
-- [Payment Security](#Payment-Device-Security)
+-  Payment Security
 	- [ATM Hacking](#ATM-Hacking)
 
   
