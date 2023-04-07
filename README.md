@@ -539,7 +539,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 #### ATM Hacking
 - [Introduction to ATM Penetration Testing](https://www.youtube.com/watch?v=Ff-0zXTYhuA)
 - [Pwning ATMs For Fun and Profit](https://www.youtube.com/watch?v=9cG-JL0LHYw)
-- [Jackpotting Automated Teller Machines Redux](https://www.youtube.com/watch?v=4StcW9OPpPc)
+- [Jackpotting Automated Teller Machines Redux](https://www.youtube.com/watch?v=4StcW9OPpPc) By Barnaby Jack
 
 ********************************************************************************************************************************
 
