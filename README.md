@@ -98,7 +98,7 @@
 - [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 - [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
 - [Dropcam hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
-- [Printer Hacking live sessions - gamozolabs](https://www.youtube.com/playlist?list=PLSkhUfcCXvqHS4Bqz804OAZqND6bk7OG6)
+- [Printer Hacking live sessions - gamozolabs](https://www.youtube.com/watch?v=2LVtEoQA8Qo&ab_channel=gamozolabs)
 - [LED Light Hacking](https://youtu.be/Nnb2ct3hc68)
 
 ********************************************************************************************************************************
