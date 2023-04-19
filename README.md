@@ -144,6 +144,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### Blogs for iotpentest
 
+- https://jilles.com/
 - https://payatu.com/blog/
 - https://raelize.com/blog/
 - http://jcjc-dev.com/
