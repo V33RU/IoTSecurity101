@@ -358,6 +358,9 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Introduction to SS7 Signaling](https://www.patton.com/whitepapers/Intro_to_SS7_Tutorial.pdf)
 - [Breaking LTE on Layer Two](https://alter-attack.net/)
 
+#### Hardware Tools 
+- [Fake BTS Detector (SCL-8521)](https://www.shoghicom.com/fake-bts-detector.php)
+
 ********************************************************************************************************************************
 ### Zigbee ALL Stuff
 
@@ -370,7 +373,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Security Analysis of Zigbee Networks with Zigator and GNU Radio](https://mews.sv.cmu.edu/research/zigator/testbed-grcon2020-slides.pdf)
 - [Low-Cost ZigBee Selective Jamming](https://www.bastibl.net/reactive-zigbee-jamming/)
 
-#### SW TOOLS
+#### SW Tools
 - [zigbear](https://github.com/philippnormann/zigbear)
 - [ZigDiggity](https://github.com/BishopFox/zigdiggity)
 - [Zigator](https://github.com/akestoridis/zigator)
