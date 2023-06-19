@@ -409,6 +409,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [gattacker](https://github.com/securing/gattacker)
    - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
    - [bluing-An intelligence gathering tool for hacking Bluetooth](https://github.com/fO-000/bluing)
+   - [DEDSEC-Bluetooth-exploit](https://github.com/0xbitx/DEDSEC-Bluetooth-exploit)
  
  #### Hardware for bluetooth hacking
   
