@@ -185,6 +185,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - https://naehrdine.blogspot.com/
 - https://limitedresults.com/
 - https://fail0verflow.com/blog/
+- https://www.exploitsecurity.io/blog
 
 ********************************************************************************************************************************
 ### Awesome CheatSheets
@@ -598,6 +599,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
    - [UART Connections and Dynamic analysis on Linksys e1000](https://www.youtube.com/watch?v=ix6rSV2Dj44&ab_channel=Defenceindepth)
    - [Accessing and Dumping Firmware Through UART](https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart)
+   - [UART Exploiter](https://github.com/exploitsecurityio/uart-exploiter)
 
 #### JTAG
 
@@ -705,3 +707,4 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 -  [Arun Magesh](https://www.linkedin.com/in/marunmagesh)
 -  [Mr-IoT](https://twitter.com/v33riot)
 -  [QKaiser](https://twitter.com/qkaiser)
+-  [9lyph](https://twitter.com/9lyph)
