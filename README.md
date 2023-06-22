@@ -196,6 +196,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### Search Engines for Exposed IoT devices worldwide
 
+- [Criminal IP](https://www.criminalip.io/en)
 - [Shodan](https://www.shodan.io/)
 - [FOFA](https://fofa.so/?locale=en)
 - [Censys](https://censys.io/)
