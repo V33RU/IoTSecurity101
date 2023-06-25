@@ -42,6 +42,7 @@
    - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
    - [Fuzzing Things](#Fuzzing-Things)
    - [IoT Lab Setup guide for corporate/individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
+   - [FlipperZero]()
 
  - Network
  - Web IoT Message Protocols
@@ -649,7 +650,11 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [FIRM-AFL : High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation](https://www.usenix.org/conference/usenixsecurity19/presentation/zheng)
   - [Snipuzz : Black-box Fuzzing of IoT Firmware via Message Snippet Inference](https://arxiv.org/pdf/2105.05445.pdf)
   - [fuzzing-iot-binaries] - [part1](https://blog.attify.com/fuzzing-iot-devices-part-1/) / [part2](https://blog.attify.com/fuzzing-iot-binaries-with-afl-part-ii/)
-  
+
+
+********************************************************************************************************************************
+### FlipperZero
+#### Custom firmwares
   
   
 ********************************************************************************************************************************
