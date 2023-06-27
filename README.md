@@ -42,7 +42,7 @@
    - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
    - [Fuzzing Things](#Fuzzing-Things)
    - [IoT Lab Setup guide for corporate/individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
-   - [FlipperZero]()
+   - [FlipperZero](https://github.com/V33RU/IoTSecurity101#flipperzero)
 
  - Network
  - Web IoT Message Protocols
