@@ -531,6 +531,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Defeating Secure Boot with Symlink Attacks](https://www.anvilsecure.com/blog/defeating-secure-boot-with-symlink-attacks.html)
  - [PS4 Aux Hax 5 & PSVR Secure Boot Hacking with Keys by Fail0verflow!](https://www.psxhax.com/threads/ps4-aux-hax-5-psvr-secure-boot-hacking-with-keys-by-fail0verflow.12820/)
  - [ECLYPSIUM DISCOVERS MULTIPLE VULNERABILITIES AFFECTING 129 DELL MODELS VIA DELL REMOTE OS RECOVERY AND FIRMWARE UPDATE CAPABILITIES](https://eclypsium.com/2021/06/24/biosdisconnect/)
+ - [Technical Advisory – U-Boot – Unchecked Download Size and Direction in USB DFU (CVE-2022-2347)](https://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/)
 
 ********************************************************************************************************************************
 
@@ -654,8 +655,19 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 
 ********************************************************************************************************************************
 ### FlipperZero
+
 #### Custom firmwares
+  - Flipper Zero Unleashed Firmware : https://github.com/DarkFlippers/unleashed-firmware
+  - RogueMaster Flipper Zero Firmware : https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+  - 
+#### Interesting research 
+  - CVE-2022-40363 : [Exploiting Flipper Zero’s NFC file loader](https://vvx7.io/posts/2022/09/your-amiibos-haunted/)
+
+#### Flipperzero101
+  - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
   
+#### Cool Hacks
+  - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
   
 ********************************************************************************************************************************
 ### ICS
@@ -676,6 +688,8 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - IoT : https://github.com/Vulcainreo/DVID
 
   - Safe : https://insinuator.net/2016/01/damn-vulnerable-safe/
+
+  - IoT-vulhub : https://vulntotal-team.github.io/IoT-vulhub/#%E5%AE%89%E8%A3%85
 
   - Router : https://github.com/praetorian-code/DVRF
 
