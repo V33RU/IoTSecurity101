@@ -42,7 +42,7 @@
    - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
    - [Fuzzing Things](#Fuzzing-Things)
    - [IoT Lab Setup guide for corporate/individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
-   - [FlipperZero](https://github.com/V33RU/IoTSecurity101#flipperzero)
+   - [FlipperZero](#flipperzero)
 
  - Network
  - Web IoT Message Protocols
@@ -69,7 +69,6 @@
 
  - Hardware
     - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
-    - [FlipperZero](#flipperzero)
     - [IoT Hardware hacking Intro]
     - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
     - [Hardware interfaces](#Attacking-Hardware-Interfaces)
