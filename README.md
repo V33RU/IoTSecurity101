@@ -69,6 +69,7 @@
 
  - Hardware
     - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
+    - [FlipperZero](#flipperzero)
     - [IoT Hardware hacking Intro]
     - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
     - [Hardware interfaces](#Attacking-Hardware-Interfaces)
@@ -77,6 +78,7 @@
 	- [JTAG](#JTAG)
 	- [SideChannel Attacks & Glitching attacks](#sidechannel-attacks)
 	- [Glitching Attacks](#glitching-attacks)
+   
 	
  - Storage Medium
  	- [EMMC Hacking](#emmc-hacking)
