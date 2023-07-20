@@ -56,7 +56,7 @@ Note: Explore each link to dig more into your topic of intrest.
 
 #### Blogs
 
-- [CANisLabs](https://kentindell.github.io/)- [IoT Lab Setup guide for corporate/individual]()
+- [CANisLabs](https://kentindell.github.io/)-
 - [CANBusHack](https://canbushack.com/blog/)
 
 
