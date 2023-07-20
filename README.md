@@ -29,6 +29,7 @@
  
  - IoT Security information
    - [IoT Security Chat groups](#Chat-groups-for-IoT-Security)
+   - [IoT and Hardware Security Trainings](#IoT-and-Hardware-Security-Trainings)
    - [Books](#Books-For-IoT-Pentesting)
    - [Blogs](#Blogs-for-iotpentest)
    - [Cheatsheets](#Awesome-CheatSheets)
@@ -116,6 +117,9 @@
 - RFID Discord group  - <https://discord.gg/Z43TrcVyPr>
 - ICS Discord group   - <https://discord.com/invite/CmDDsFK>
 
+********************************************************************************************************************************
+### IoT and Hardware Security Trainings
+- [opensecuritytraining 2](https://p.ost2.fyi/courses)
 ********************************************************************************************************************************
 ### Books For IoT Pentesting
 
