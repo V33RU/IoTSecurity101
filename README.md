@@ -148,6 +148,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Practical Hardware Pentesting - Second Edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322) - 2023
 - [Blue Fox: Arm Assembly Internals & Reverse Engineering](https://www.wiley.com/en-gb/Blue+Fox%3A+Arm+Assembly+Internals+%26+Reverse+Engineering-p-9781119745303) - 2023
 - [Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976) - 2023
+- [Hardware Security Training, Hands-on!](https://link.springer.com/book/10.1007/978-3-031-31034-8) - 2023
 
 ********************************************************************************************************************************
 ### Blogs for iotpentest
