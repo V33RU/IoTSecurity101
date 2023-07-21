@@ -30,7 +30,7 @@
  - IoT Security information
    - [IoT Security Chat groups](#Chat-groups-for-IoT-Security)
    - [IoT and Hardware Security Trainings](#IoT-and-Hardware-Security-Trainings)
-   - [Books](#Books-For-IoT-Pentesting)
+   - [Books](#books-for-iot-pentesting)
    - [Blogs](#Blogs-for-iotpentest)
    - [Cheatsheets](#Awesome-CheatSheets)
    - [Search Engines](#search-engines-for-exposed-iot-devices-worldwide)
