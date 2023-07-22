@@ -28,27 +28,27 @@
 ## Contents 
  
  - IoT Security information
-   - [IoT Security Chat groups](#Chat-groups-for-IoT-Security)
-   - [IoT and Hardware Security Trainings](#IoT-and-Hardware-Security-Trainings)
+   - [IoT Security Chat groups](#chat-groups-for-iot-security)
+   - [IoT and Hardware Security Trainings](#iot-and-hardware-security-trainings)
    - [Books](#books-for-iot-pentesting)
-   - [Blogs](#Blogs-for-iotpentest)
-   - [Cheatsheets](#Awesome-CheatSheets)
+   - [Blogs](#blogs-for-iotpentest)
+   - [Cheatsheets](#awesome-cheatsheets)
    - [Search Engines](#search-engines-for-exposed-iot-devices-worldwide)
-   - [CTF](#CTF-For-IoT-And-Embeddded)
-   - [Youtube](#YouTube-Channels-for-IoT-Pentesting)
-   - [Exploitation Tools](#Exploitation-Tools)
-   - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
-   - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
-   - [IoT Labs](#Vulnerable-IoT-and-Hardware-Applications)
-   - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
-   - [Fuzzing Things](#Fuzzing-Things)
+   - [CTF](#ctf-for-iot-and-embeddded)
+   - [Youtube](#youtube-channels-for-iot-pentesting)
+   - [Exploitation Tools](#exploitation-tools)
+   - [IoT Pentesting OSes](#iot-pentesting-oses)
+   - [IoT Vulnerabilites Checking Guides](#iot-vulnerabilites-checking-guides)
+   - [IoT Labs](#vulnerable-iot-and-hardware-applications)
+   - [Awesome IoT Pentesting Guides](#awesome-iot-pentesting-guides)
+   - [Fuzzing Things](#fuzzing-things)
    - [IoT Lab Setup guide for corporate/individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
    - [FlipperZero](#flipperzero)
 
  - Network
  - Web IoT Message Protocols
- 	- [MQTT](#MQTT)
-	- [CoAP](#CoAP)
+ 	- [MQTT](#mqtt)
+	- [CoAP](#coap)
 	
  - Mobile app
  	- [Mobile security (Android & iOS)](#mobile-security-android--ios)
@@ -56,26 +56,26 @@
  - Wireless Protocols
  	- [RADIO HACKING STARTING GUIDE](#RADIO-HACKER-QUICK-START-GUIDE)
  	- [Cellular Hacking GSM BTS](#cellular-hacking-gsm-bts)
-	- [Zigbee](#Zigbee-ALL-Stuff)
-	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
+	- [Zigbee](#zigbee-aLL-stuff)
+	- [Bluetooth](#ble-intro-and-sw-hw-tools-to-pentest)
 	- [DECT](#dect-digital-enhanced-cordless-telecommunications)
 
  - Firmware
- 	- [Reverse Engineering Tools](#Reverse-Engineering-Tools)
-	- [Online Assemblers](#Online-Assemblers)
-	- [ARM](#ARM)
-	- [Pentesting Firmwares and emulating and analyzing](#Pentesting-Firmwares-and-emulating-and-analyzing)
-	- [Firmware samples to pentest](#Firmware-samples-to-pentest)
-	- [Secureboot](#Secureboot)
+ 	- [Reverse Engineering Tools](#reverse-engineering-tools)
+	- [Online Assemblers](#online-assemblers)
+	- [ARM](#arm)
+	- [Pentesting Firmwares and emulating and analyzing](#pentesting-firmwares-and-emulating-and-analyzing)
+	- [Firmware samples to pentest](#firmware-samples-to-pentest)
+	- [Secureboot](#secureboot)
 
  - Hardware
-    - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
+    - [IoT Hardware Intro](#iot-hardware-overview-and-hacking)
     - [IoT Hardware hacking Intro]
-    - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
-    - [Hardware interfaces](#Attacking-Hardware-Interfaces)
-   	- [SPI](#SPI)
- 	- [UART](#UART)
-	- [JTAG](#JTAG)
+    - [Required hardware to pentest IoT](#hardware-gadgets-to-pentest)
+    - [Hardware interfaces](#attacking-hardware-interfaces)
+   	- [SPI](#spi)
+ 	- [UART](#uart)
+	- [JTAG](#jtag)
 	- [SideChannel Attacks & Glitching attacks](#sidechannel-attacks)
 	- [Glitching Attacks](#glitching-attacks)
    
@@ -442,6 +442,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [Sweyntooth Vulnerabilties](https://asset-group.github.io/disclosures/sweyntooth/)
   - [AIRDROP_LEAK - sniffs BLE traffic and displays status messages from Apple devices](https://github.com/hexway/apple_bleee)
   - [BRAKTOOTH: Causing Havoc on Bluetooth Link Manager](https://asset-group.github.io/disclosures/braktooth/)
+  - [Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/)
   
 ********************************************************************************************************************************
 ### DECT (Digital Enhanced Cordless Telecommunications)
