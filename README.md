@@ -443,6 +443,8 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [AIRDROP_LEAK - sniffs BLE traffic and displays status messages from Apple devices](https://github.com/hexway/apple_bleee)
   - [BRAKTOOTH: Causing Havoc on Bluetooth Link Manager](https://asset-group.github.io/disclosures/braktooth/)
   - [Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/)
+  - [MojoBox - yet another not so smartlock](https://mandomat.github.io/2023-03-15-testing-mojobox-security/)
+  - [bluetooth-hacking](https://github.com/zedxpace/bluetooth-hacking-)
   
 ********************************************************************************************************************************
 ### DECT (Digital Enhanced Cordless Telecommunications)
