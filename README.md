@@ -212,12 +212,12 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### CTF For IoT And Embeddded
 
-- https://github.com/hackgnar/ble_ctf
-- https://www.microcorruption.com/
-- https://github.com/Riscure/Rhme-2016
-- https://github.com/Riscure/Rhme-2017
-- https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
-- https://github.com/scriptingxss/IoTGoat
+- [https://github.com/hackgnar/ble_ctf](https://github.com/hackgnar/ble_ctf)
+- [https://www.microcorruption.com/](https://microcorruption.com/)
+- [https://github.com/Riscure/Rhme-2016](https://github.com/Riscure/Rhme-2016)
+- [https://github.com/Riscure/Rhme-2017](https://github.com/Riscure/Rhme-2017)
+- [https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
+- [https://github.com/scriptingxss/IoTGoat](https://github.com/scriptingxss/IoTGoat)
 
 ********************************************************************************************************************************
 ### YouTube Channels for IoT Pentesting
