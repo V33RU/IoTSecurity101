@@ -674,6 +674,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 
 #### Flipperzero101
   - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
+  - [A collection of Awesome resources for the Flipper Zero device.](https://github.com/djsime1/awesome-flipperzero)
   
 #### Cool Hacks
   - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
