@@ -541,6 +541,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [PS4 Aux Hax 5 & PSVR Secure Boot Hacking with Keys by Fail0verflow!](https://www.psxhax.com/threads/ps4-aux-hax-5-psvr-secure-boot-hacking-with-keys-by-fail0verflow.12820/)
  - [ECLYPSIUM DISCOVERS MULTIPLE VULNERABILITIES AFFECTING 129 DELL MODELS VIA DELL REMOTE OS RECOVERY AND FIRMWARE UPDATE CAPABILITIES](https://eclypsium.com/2021/06/24/biosdisconnect/)
  - [Technical Advisory – U-Boot – Unchecked Download Size and Direction in USB DFU (CVE-2022-2347)](https://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/)
+ - [Breaking Secure Boot on the Silicon Labs Gecko platform](https://blog.quarkslab.com/breaking-secure-boot-on-the-silicon-labs-gecko-platform.html)
 
 ********************************************************************************************************************************
 
