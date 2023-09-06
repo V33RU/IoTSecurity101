@@ -88,34 +88,34 @@
 
   
 ********************************************************************************************************************************
-### To seen Hacked devices
+### To See Hacked Devices
 
-- https://blog.exploitee.rs/2018/10/
-- https://www.exploitee.rs/
-- https://forum.exploitee.rs/
+- [Exploitee.rs Blog](https://blog.exploitee.rs/2018/10/)
+- [Exploitee.rs Website](https://www.exploitee.rs/)
+- [Exploitee.rs Forum](https://forum.exploitee.rs/)
 - [Your Lenovo Watch X Is Watching You & Sharing What It Learns](https://www.checkmarx.com/blog/lenovo-watch-watching-you/)
 - [Your Smart Scale is Leaking More than Your Weight: Privacy Issues in IoT](https://www.checkmarx.com/blog/smart-scale-privacy-issues-iot/)
 - [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
-- [Besder-IPCamera analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
-- [Smart Lock](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
+- [Besder-IPCamera Analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
+- [Smart Lock Vulnerabilities](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
 - [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 - [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
-- [Dropcam hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
-- [Printer Hacking live sessions - gamozolabs](https://www.youtube.com/watch?v=2LVtEoQA8Qo&ab_channel=gamozolabs)
+- [Dropcam Hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
+- [Printer Hacking Live Sessions - Gamozo Labs](https://www.youtube.com/watch?v=2LVtEoQA8Qo&ab_channel=gamozolabs)
 - [LED Light Hacking](https://youtu.be/Nnb2ct3hc68)
 
 ********************************************************************************************************************************
 - [IoT-Vuln-with CVE and PoC of tenda and dlink](https://github.com/z1r00/IOT_Vul)
 
 ********************************************************************************************************************************
-### Chat groups for IoT Security
+### Chat Groups for IoT Security
 
-- IoTSecurity101 Telegram - <https://t.me/iotsecurity1011>
-- IoTSecurity101 Reddit   - <https://www.reddit.com/r/IoTSecurity101/>
-- IoTSecurity101 Discord  -  <https://discord.gg/EH9dxT9>
-- hardware hacking Telegram - <https://t.me/hardwareHackingBrasil>
-- RFID Discord group  - <https://discord.gg/Z43TrcVyPr>
-- ICS Discord group   - <https://discord.com/invite/CmDDsFK>
+- [IoTSecurity101 Telegram](https://t.me/iotsecurity1011)
+- [IoTSecurity101 Reddit](https://www.reddit.com/r/IoTSecurity101/)
+- [IoTSecurity101 Discord](https://discord.gg/EH9dxT9)
+- [Hardware Hacking Telegram](https://t.me/hardwareHackingBrasil)
+- [RFID Discord Group](https://discord.gg/Z43TrcVyPr)
+- [ICS Discord Group](https://discord.com/invite/CmDDsFK)
 
 ********************************************************************************************************************************
 ### IoT and Hardware Security Trainings
