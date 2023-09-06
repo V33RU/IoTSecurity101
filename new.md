@@ -1,123 +1,130 @@
-![IoT Security 101](https://github.com/V33RU/IoTSecurity101/blob/master/Logos/IoT101-2.jpg)
+<!-- Logo -->
+<p align="center">
+  <img src="https://github.com/V33RU/IoTSecurity101/blob/master/Logos/IoT101-2.jpg" alt="IoT Security 101 Logo">
+</p>
 
-![Awesome IoT Security](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+<!-- Awesome Badge -->
+<p align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome IoT Security Badge">
+</p>
 
-# IoT Security Resources
+<!-- Title -->
+<h1 align="center">IoT Security Resources</h1>
 
-A curated collection of resources for IoT Security. You are welcome to fork and [contribute](https://github.com/V33RU/IoTSecurity101/blob/master/contributors.md#contributors).
+<!-- Introduction -->
+<p align="center">A curated collection of resources for IoT Security. Feel free to fork and <a href="https://github.com/V33RU/IoTSecurity101/blob/master/contributors.md#contributors">contribute</a>.</p>
 
-## Approach Methodology
+<!-- Approach Methodology -->
+<h2>Approach Methodology</h2>
 
-1. Network
-2. Web (Front & Backend and Web services)
-3. Mobile App (Android & iOS)
-4. Wireless Connectivity (Zigbee, WiFi, Bluetooth, etc)
-5. Firmware Pentesting (OS of IoT Devices)
-6. Hardware Hacking & Fault Injections & SCA Attacks
-7. Storage Medium
-8. I/O Ports
+<ol>
+  <li>Network</li>
+  <li>Web (Front & Backend and Web services)</li>
+  <li>Mobile App (Android & iOS)</li>
+  <li>Wireless Connectivity (Zigbee, WiFi, Bluetooth, etc)</li>
+  <li>Firmware Pentesting (OS of IoT Devices)</li>
+  <li>Hardware Hacking & Fault Injections & SCA Attacks</li>
+  <li>Storage Medium</li>
+  <li>I/O Ports</li>
+</ol>
 
-## Contents
+<!-- Contents -->
+<h2>Contents</h2>
 
-### IoT Security Information
+<h3>IoT Security Information</h3>
 
-- [IoT Security Chat Groups](#chat-groups-for-iot-security)
-- [IoT and Hardware Security Trainings](#iot-and-hardware-security-trainings)
-- [Books for IoT Pentesting](#books-for-iot-pentesting)
-- [Blogs](#blogs-for-iotpentest)
-- [Awesome Cheat Sheets](#awesome-cheatsheets)
-- [Search Engines](#search-engines-for-exposed-iot-devices-worldwide)
-- [CTF](#ctf-for-iot-and-embedded)
-- [YouTube Channels](#youtube-channels-for-iot-pentesting)
-- [Exploitation Tools](#exploitation-tools)
-- [IoT Pentesting OSes](#iot-pentesting-oses)
-- [IoT Vulnerabilities Checking Guides](#iot-vulnerabilities-checking-guides)
-- [IoT Labs](#vulnerable-iot-and-hardware-applications)
-- [Awesome IoT Pentesting Guides](#awesome-iot-pentesting-guides)
-- [Fuzzing Things](#fuzzing-things)
-- [IoT Lab Setup Guide](https://github.com/IoT-PTv/IoT-Lab-Setup)
-- [FlipperZero](#flipperzero)
+<ul>
+  <li><a href="#chat-groups-for-iot-security">IoT Security Chat Groups</a></li>
+  <li><a href="#iot-and-hardware-security-trainings">IoT and Hardware Security Trainings</a></li>
+  <li><a href="#books-for-iot-pentesting">Books for IoT Pentesting</a></li>
+  <li><a href="#blogs-for-iotpentest">Blogs</a></li>
+  <li><a href="#awesome-cheatsheets">Awesome Cheat Sheets</a></li>
+  <li><a href="#search-engines-for-exposed-iot-devices-worldwide">Search Engines</a></li>
+  <li><a href="#ctf-for-iot-and-embedded">CTF</a></li>
+  <li><a href="#youtube-channels-for-iot-pentesting">YouTube Channels</a></li>
+  <li><a href="#exploitation-tools">Exploitation Tools</a></li>
+  <li><a href="#iot-pentesting-oses">IoT Pentesting OSes</a></li>
+  <li><a href="#iot-vulnerabilities-checking-guides">IoT Vulnerabilities Checking Guides</a></li>
+  <li><a href="#vulnerable-iot-and-hardware-applications">IoT Labs</a></li>
+  <li><a href="#awesome-iot-pentesting-guides">Awesome IoT Pentesting Guides</a></li>
+  <li><a href="#fuzzing-things">Fuzzing Things</a></li>
+  <li><a href="https://github.com/IoT-PTv/IoT-Lab-Setup">IoT Lab Setup guide for corporate/individual</a></li>
+  <li><a href="#flipperzero">FlipperZero</a></li>
+</ul>
 
-### Network
+<!-- Network -->
+<h3>Network</h3>
 
-### Web IoT Message Protocols
+<!-- Web IoT Message Protocols -->
+<h3>Web IoT Message Protocols</h3>
 
-- [MQTT](#mqtt)
-- [CoAP](#coap)
+<ul>
+  <li><a href="#mqtt">MQTT</a></li>
+  <li><a href="#coap">CoAP</a></li>
+</ul>
 
-### Mobile App
+<!-- Mobile app -->
+<h3>Mobile App</h3>
 
-- [Mobile Security (Android & iOS)](#mobile-security-android--ios)
+<ul>
+  <li><a href="#mobile-security-android--ios">Mobile Security (Android & iOS)</a></li>
+</ul>
 
-### Wireless Protocols
+<!-- Wireless Protocols -->
+<h3>Wireless Protocols</h3>
 
-- [Radio Hacking Starting Guide](#radio-hacker-quick-start-guide)
-- [Cellular Hacking GSM BTS](#cellular-hacking-gsm-bts)
-- [Zigbee](#zigbee-all-stuff)
-- [Bluetooth](#ble-intro-and-sw-hw-tools-to-pentest)
-- [DECT (Digital Enhanced Cordless Telecommunications)](#dect-digital-enhanced-cordless-telecommunications)
+<ul>
+  <li><a href="#radio-hacking-starting-guide">Radio Hacking Starting Guide</a></li>
+  <li><a href="#cellular-hacking-gsm-bts">Cellular Hacking GSM BTS</a></li>
+  <li><a href="#zigbee-all-stuff">Zigbee</a></li>
+  <li><a href="#ble-intro-and-sw-hw-tools-to-pentest">Bluetooth</a></li>
+  <li><a href="#dect-digital-enhanced-cordless-telecommunications">DECT</a></li>
+</ul>
 
-### Firmware
+<!-- Firmware -->
+<h3>Firmware</h3>
 
-- [Reverse Engineering Tools](#reverse-engineering-tools)
-- [Online Assemblers](#online-assemblers)
-- [ARM](#arm)
-- [Pentesting Firmwares and Emulating and Analyzing](#pentesting-firmwares-and-emulating-and-analyzing)
-- [Firmware Samples to Pentest](#firmware-samples-to-pentest)
-- [Secureboot](#secureboot)
+<ul>
+  <li><a href="#reverse-engineering-tools">Reverse Engineering Tools</a></li>
+  <li><a href="#online-assemblers">Online Assemblers</a></li>
+  <li><a href="#arm">ARM</a></li>
+  <li><a href="#pentesting-firmwares-and-emulating-and-analyzing">Pentesting Firmwares and Emulating and Analyzing</a></li>
+  <li><a href="#firmware-samples-to-pentest">Firmware Samples to Pentest</a></li>
+  <li><a href="#secureboot">Secureboot</a></li>
+</ul>
 
-### Hardware
+<!-- Hardware -->
+<h3>Hardware</h3>
 
-- [IoT Hardware Intro](#iot-hardware-overview-and-hacking)
-- [Required Hardware to Pentest IoT](#hardware-gadgets-to-pentest)
-- [Attacking Hardware Interfaces](#attacking-hardware-interfaces)
-  - [SPI](#spi)
-  - [UART](#uart)
-  - [JTAG](#jtag)
-  - [SideChannel Attacks & Glitching Attacks](#sidechannel-attacks)
-  - [Glitching Attacks](#glitching-attacks)
+<ul>
+  <li><a href="#iot-hardware-overview-and-hacking">IoT Hardware Intro</a></li>
+  <li><a href="#iot-hardware-hacking-intro">IoT Hardware Hacking Intro</a></li>
+  <li><a href="#hardware-gadgets-to-pentest">Required Hardware to Pentest IoT</a></li>
+  <li><a href="#attacking-hardware-interfaces">Hardware Interfaces</a></li>
+  <li><a href="#spi">SPI</a></li>
+  <li><a href="#uart">UART</a></li>
+  <li><a href="#jtag">JTAG</a></li>
+  <li><a href="#sidechannel-attacks-glitching-attacks">SideChannel Attacks & Glitching Attacks</a></li>
+  <li><a href="#glitching-attacks">Glitching Attacks</a></li>
+</ul>
 
-### Storage Medium
+<!-- Storage Medium -->
+<h3>Storage Medium</h3>
 
-- [EMMC Hacking](#emmc-hacking)
+<ul>
+  <li><a href="#emmc-hacking">EMMC Hacking</a></li>
+</ul>
 
-### Payment Security
+<!-- Payment Security -->
+<h3>Payment Security</h3>
 
-- [ATM Hacking](#atm-hacking)
+<ul>
+  <li><a href="#atm-hacking">ATM Hacking</a></li>
+</ul>
 
-### To See Hacked Devices
+<!-- To see Hacked devices -->
+<h3>To see Hacked devices</h3>
 
-- [Exploitee.rs Blog](https://blog.exploitee.rs/2018/10/)
-- [Exploitee.rs Website](https://www.exploitee.rs/)
-- [Exploitee.rs Forum](https://forum.exploitee.rs/)
-- [Your Lenovo Watch X Is Watching You & Sharing What It Learns](https://www.checkmarx.com/blog/lenovo-watch-watching-you/)
-- [Your Smart Scale is Leaking More than Your Weight: Privacy Issues in IoT](https://www.checkmarx.com/blog/smart-scale-privacy-issues-iot/)
-- [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
-- [Besder-IPCamera Analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
-- [Rapid7 Smart Lock Vulnerabilities](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
-- [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
-- [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
-- [Dropcam Hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
-- [Printer Hacking Live Sessions (YouTube)](https://www.youtube.com/watch?v=2LVtEoQA8Qo&ab_channel=gamozolabs)
-- [LED Light Hacking](https://youtu.be/Nnb2ct3hc68)
-- [IoT Vulnerabilities with CVE and PoC of Tenda and D-Link](https://github.com/z1r00/IOT_Vul)
-
-<details>
-<summary>Chat Groups for IoT Security</summary>
-
-- [IoTSecurity101 Telegram](https://t.me/iotsecurity1011)
-- [IoTSecurity101 Reddit](https://www.reddit.com/r/IoTSecurity101/)
-- [IoTSecurity101 Discord](https://discord.gg/EH9dxT9)
-- [Hardware Hacking Telegram](https://t.me/hardwareHackingBrasil)
-- [RFID Discord Group](https://discord.gg/Z43TrcVyPr)
-- [ICS Discord Group](https://discord.com/invite/CmDDsFK)
-</details>
-
-### IoT and Hardware Security Trainings
-
-- [Open Security Training 2](https://p.ost2.fyi/courses)
-
-<details>
-<summary>Books for IoT Pentesting</summary>
-
-- [The Firmware Handbook (Embedded Technology) 1st Edition by Jack Ganssle](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606
+<ul>
+  <li><a href="https://blog.exploitee.rs/2018/10/">Exploitee.rs Blog</a></li>
+  <
