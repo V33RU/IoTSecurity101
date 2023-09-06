@@ -120,29 +120,28 @@
 ********************************************************************************************************************************
 ### IoT and Hardware Security Trainings
 - [opensecuritytraining 2](https://p.ost2.fyi/courses)
+  
 ********************************************************************************************************************************
-### Books For IoT Pentesting
+### Books for IoT Pentesting
 
-- [The Firmware Handbook (Embedded Technology) 1st Edition
-by Jack Ganssle ](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X) - 2004
-- [Hardware Hacking: Have Fun while Voiding your Warranty 1st Edition  ](https://www.elsevier.com/books/hardware-hacking/grand/978-1-932266-83-2) - 2004
+- [The Firmware Handbook (Embedded Technology) 1st Edition by Jack Ganssle](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X) - 2004
+- [Hardware Hacking: Have Fun while Voiding your Warranty 1st Edition](https://www.elsevier.com/books/hardware-hacking/grand/978-1-932266-83-2) - 2004
 - [Linksys WRT54G Ultimate Hacking 1st Edition by Paul Asadoorian](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667) - 2007
-- [Applied Cyber Security and the Smart Grid: Implementing Security Controls into the Modern Power Infrastructure by Eric D. Knapp , Raj Samani](https://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/) -2013
-- [Hacking the Xbox-An Introduction to Reverse Engineering HACKING THE XBOX by Andrew “bunnie” Huang](https://www.nostarch.com/xboxfree) - Openbook - 2013
+- [Applied Cyber Security and the Smart Grid: Implementing Security Controls into the Modern Power Infrastructure by Eric D. Knapp , Raj Samani](https://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/) - 2013
+- [Hacking the Xbox - An Introduction to Reverse Engineering HACKING THE XBOX by Andrew “bunnie” Huang](https://www.nostarch.com/xboxfree) - Openbook - 2013
 - [Android Hacker's Handbook by Joshua J. Drake](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X) - 2014
-- [The Art of Pcb Reverse Engineering: Unravelling the Beauty of the Original Design ](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441) - 2015
+- [The Art of Pcb Reverse Engineering: Unravelling the Beauty of the Original Design](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441) - 2015
 - [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts 1st Edition, by Nitesh Dhanjani](https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36) - 2015
 - [Learning Linux Binary Analysis By Ryan "elfmaster" O'Neill](https://www.packtpub.com/networking-and-servers/learning-linux-binary-analysis) - 2016
 - [Car hacker's handbook by Craig Smith](http://opengarages.org/handbook) - 2016
 - [IoT Penetration Testing Cookbook By Aaron Guzman , Aditya Gupta](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook) - 2017
-- [Inside Radio: An Attack and Defense Guide by Authors: Yang, Qing, Huang, Lin](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false) -2018
-- [Pentest Hardware](https://github.com/unprovable/PentestHardware/) - Openbook -2018
-- [Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition 5th Edition by by Daniel Regalado , Shon Harris , Allen Harper , Chris Eagle , Jonathan Ness , Branko Spasojevic , Ryan Linn , Stephen Sims](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H) - 2018
+- [Inside Radio: An Attack and Defense Guide by Authors: Yang, Qing, Huang, Lin](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false) - 2018
+- [Pentest Hardware](https://github.com/unprovable/PentestHardware/) - Openbook - 2018
+- [Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition 5th Edition by Daniel Regalado , Shon Harris , Allen Harper , Chris Eagle , Jonathan Ness , Branko Spasojevic , Ryan Linn , Stephen Sims](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H) - 2018
 - [Practical Hardware Pentesting](https://www.packtpub.com/product/practical-hardware-pentesting/9781789619133?_ga=2.224205017.333884789.1668314814-101815837.1668314814) - 2021
 - [Manual PCB-RE: The Essentials](https://www.amazon.com/Manual-PCB-RE-Essentials-Keng-Tiong/dp/B0974Z3NDS)
 - [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks Front Cover Jasper van Woudenberg, Colin O'Flynn](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s) - 2021
-- [Practical IoT Hacking-The Definitive Guide to Attacking the Internet of Things
-by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods](https://nostarch.com/practical-iot-hacking) - 2021
+- [Practical IoT Hacking-The Definitive Guide to Attacking the Internet of Things by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods](https://nostarch.com/practical-iot-hacking) - 2021
 - [Internet of Things Security Encyclopedia](https://iot-security.wiki/) - Openbook
 - [PatrIoT: practical and agile threat research for IoT by Emre Süren](https://link.springer.com/article/10.1007/s10207-022-00633-3) - 2022
 - [Practical Hardware Pentesting - Second Edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322) - 2023
@@ -151,73 +150,110 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Hardware Security Training, Hands-on!](https://link.springer.com/book/10.1007/978-3-031-31034-8) - 2023
 
 ********************************************************************************************************************************
-### Blogs for iotpentest
+### Blogs for IoT Pentest
 
-- https://jilles.com/
-- https://payatu.com/blog/
-- https://raelize.com/blog/
-- http://jcjc-dev.com/
-- https://w00tsec.blogspot.in/
-- http://www.devttys0.com/
-- https://wrongbaud.github.io/
-- https://embeddedbits.org/
-- https://www.rtl-sdr.com/
-- https://keenlab.tencent.com/en/
-- https://courk.cc/
-- https://iotsecuritywiki.com/
-- https://cybergibbons.com/
-- http://firmware.re/
-- http://blog.k3170makan.com/
-- https://blog.tclaverie.eu/
-- http://blog.besimaltinok.com/category/iot-pentest/
-- https://ctrlu.net/
-- http://iotpentest.com/
-- https://blog.attify.com
-- https://duo.com/decipher/
-- http://www.sp3ctr3.me
-- http://blog.0x42424242.in/
-- https://dantheiotman.com/
-- https://blog.danman.eu/
-- https://quentinkaiser.be/
-- https://blog.quarkslab.com
-- https://blog.ice9.us/
-- https://labs.f-secure.com/ 
-- https://mg.lol/blog/
-- https://cjhackerz.net/
-- https://github.com/sponsors/bunnie/
-- https://iotmyway.wordpress.com/
-- https://www.synacktiv.com/publications.html
-- http://blog.cr4.sh/
-- https://ktln2.org/
-- https://naehrdine.blogspot.com/
-- https://limitedresults.com/
-- https://fail0verflow.com/blog/
-- https://www.exploitsecurity.io/blog
+- [Jilles.com](https://jilles.com/)
+- [Payatu Blog](https://payatu.com/blog/)
+- [Raelize Blog](https://raelize.com/blog/)
+- [JCJC Dev Blog](http://jcjc-dev.com/)
+- [W00tsec Blog](https://w00tsec.blogspot.in/)
+- [Devttys0 Blog](http://www.devttys0.com/)
+- [Wrongbaud Blog](https://wrongbaud.github.io/)
+- [Embedded Bits Blog](https://embeddedbits.org/)
+- [RTL-SDR Blog](https://www.rtl-sdr.com/)
+- [Keenlab Blog](https://keenlab.tencent.com/en/)
+- [Courk.cc](https://courk.cc/)
+- [IoT Security Wiki](https://iotsecuritywiki.com/)
+- [Cybergibbons Blog](https://cybergibbons.com/)
+- [Firmware.RE](http://firmware.re/)
+- [K3170makan Blog](http://blog.k3170makan.com/)
+- [Tclaverie Blog](https://blog.tclaverie.eu/)
+- [Besimaltinok Blog](http://blog.besimaltinok.com/category/iot-pentest/)
+- [Ctrlu Blog](https://ctrlu.net/)
+- [IoT Pentest Blog](http://iotpentest.com/)
+- [Attify Blog](https://blog.attify.com)
+- [Duo Decipher Blog](https://duo.com/decipher/)
+- [Sp3ctr3 Blog](http://www.sp3ctr3.me)
+- [0x42424242.in Blog](http://blog.0x42424242.in/)
+- [Dantheiotman Blog](https://dantheiotman.com/)
+- [Danman Blog](https://blog.danman.eu/)
+- [Quentinkaiser Blog](https://quentinkaiser.be/)
+- [Quarkslab Blog](https://blog.quarkslab.com)
+- [Ice9 Blog](https://blog.ice9.us/)
+- [F-Secure Labs Blog](https://labs.f-secure.com/)
+- [MG.lol Blog](https://mg.lol/blog/)
+- [CJHackerz Blog](https://cjhackerz.net/)
+- [Bunnie's Blog](https://github.com/sponsors/bunnie/)
+- [IoT My Way Blog](https://iotmyway.wordpress.com/)
+- [Synacktiv Publications](https://www.synacktiv.com/publications.html)
+- [Cr4.sh Blog](http://blog.cr4.sh/)
+- [Ktln2 Blog](https://ktln2.org/)
+- [Naehrdine Blog](https://naehrdine.blogspot.com/)
+- [Limited Results Blog](https://limitedresults.com/)
+- [Fail0verflow Blog](https://fail0verflow.com/blog/)
+- [Exploit Security Blog](https://www.exploitsecurity.io/blog)
+
 
 ********************************************************************************************************************************
 ### Awesome CheatSheets
 
-- [Hardware Hacking](https://github.com/arunmagesh/hw_hacking_cheatsheet)
+- [Hardware Hacking cheat sheet](https://github.com/arunmagesh/hw_hacking_cheatsheet)
 - [Nmap](https://github.com/gnebbia/nmap_tutorial)
 
 ********************************************************************************************************************************
-### Search Engines for Exposed IoT devices worldwide
+# Search Engines for Internet-Connected Devices
 
 - [Shodan](https://www.shodan.io/)
-- [FOFA](https://fofa.so/?locale=en)
 - [Censys](https://censys.io/)
-- [Zoomeye](https://www.zoomeye.org/about)
-- [ONYPHE](https://www.onyphe.io/)
+- [ZoomEye](https://www.zoomeye.org/)
+- [BinaryEdge](https://www.binaryedge.io/)
+- [Thingful](https://www.thingful.net/)
+- [Wigle](https://wigle.net/)
+- [Hunter.io](https://hunter.io/)
+- [BuiltWith](https://builtwith.com/)
+- [NetDB](https://github.com/stamparm/NetDB)
+- [Recon-ng](https://github.com/lanmaster53/recon-ng)
+- [PublicWWW](https://publicwww.com/)
 
 ********************************************************************************************************************************
 ### CTF For IoT And Embeddded
 
-- [https://github.com/hackgnar/ble_ctf](https://github.com/hackgnar/ble_ctf)
-- [https://www.microcorruption.com/](https://microcorruption.com/)
-- [https://github.com/Riscure/Rhme-2016](https://github.com/Riscure/Rhme-2016)
-- [https://github.com/Riscure/Rhme-2017](https://github.com/Riscure/Rhme-2017)
-- [https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
-- [https://github.com/scriptingxss/IoTGoat](https://github.com/scriptingxss/IoTGoat)
+# Awesome Hardware, IoT, Firmware, ARM, and Reverse Engineering CTFs and Platforms
+
+#### Hardware CTFs
+
+- [BLE CTF](https://github.com/hackgnar/ble_ctf) - A framework focused on Bluetooth Low Energy security.
+- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure's hardware security competition for 2016.
+- [Rhme-2017](https://github.com/Riscure/Rhme-2017) - Riscure's hardware security competition for 2017.
+
+#### IoT CTFs
+
+- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - Deliberately insecure firmware based on OpenWrt for IoT security training.
+- [IoT Village CTF](https://www.iotvillage.org/) - A Capture The Flag event specifically focused on IoT security.
+- [IoTSec CTF](https://ctf.iotsec.io/) - Offers IoT related challenges for continuous learning.
+
+#### Firmware CTFs
+
+- [Damn Vulnerable ARM Router](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html) - A deliberately vulnerable ARM router for exploitation practice.
+- [Firmware Security Training & CTF](https://github.com/0x6d696368/RouterAnalysisToolkit) - Firmware analysis tools and challenges by Router Analysis Toolkit.
+
+#### ARM CTFs
+
+- [ARM-X CTF](https://github.com/therealsaumil/armx) - A set of challenges focused on ARM exploitation.
+- [Azeria Labs ARM Challenges](https://azeria-labs.com/writing-arm-assembly-part-1/) - Offers ARM assembly challenges and tutorials.
+  
+#### Reverse Engineering CTFs
+
+- [Microcorruption](https://www.microcorruption.com/) - Embedded security CTF focusing on lock systems.
+- [Pwnable.kr](https://pwnable.kr/) - Offers various reverse engineering challenges.
+
+#### Platforms for Continuous Learning
+
+- [Hack The Box](https://www.hackthebox.eu/) - Platform offering a range of challenges, including hardware and reverse engineering.
+- [Root Me](https://www.root-me.org/) - Platform with various types of challenges including hardware and reverse engineering.
+- [CTFtime](https://ctftime.org/) - Lists various CTFs, including those in hardware, IoT, and firmware.
+
+
 
 ********************************************************************************************************************************
 ### YouTube Channels for IoT Pentesting
