@@ -216,46 +216,6 @@
 - [PublicWWW](https://publicwww.com/)
 
 ********************************************************************************************************************************
-### CTF For IoT And Embeddded
-
-#### Awesome Hardware, IoT, Firmware, ARM, and Reverse Engineering CTFs and Platforms
-
-#### Hardware CTFs
-
-- [BLE CTF](https://github.com/hackgnar/ble_ctf) - A framework focused on Bluetooth Low Energy security.
-- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure's hardware security competition for 2016.
-- [Rhme-2017](https://github.com/Riscure/Rhme-2017) - Riscure's hardware security competition for 2017.
-
-#### IoT CTFs
-
-- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - Deliberately insecure firmware based on OpenWrt for IoT security training.
-- [IoT Village CTF](https://www.iotvillage.org/) - A Capture The Flag event specifically focused on IoT security.
-- [IoTSec CTF](https://ctf.iotsec.io/) - Offers IoT related challenges for continuous learning.
-
-#### Firmware CTFs
-
-- [Damn Vulnerable ARM Router](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html) - A deliberately vulnerable ARM router for exploitation practice.
-- [Firmware Security Training & CTF](https://github.com/0x6d696368/RouterAnalysisToolkit) - Firmware analysis tools and challenges by Router Analysis Toolkit.
-
-#### ARM CTFs
-
-- [ARM-X CTF](https://github.com/therealsaumil/armx) - A set of challenges focused on ARM exploitation.
-- [Azeria Labs ARM Challenges](https://azeria-labs.com/writing-arm-assembly-part-1/) - Offers ARM assembly challenges and tutorials.
-  
-#### Reverse Engineering CTFs
-
-- [Microcorruption](https://www.microcorruption.com/) - Embedded security CTF focusing on lock systems.
-- [Pwnable.kr](https://pwnable.kr/) - Offers various reverse engineering challenges.
-
-#### Platforms for Continuous Learning
-
-- [Hack The Box](https://www.hackthebox.eu/) - Platform offering a range of challenges, including hardware and reverse engineering.
-- [Root Me](https://www.root-me.org/) - Platform with various types of challenges including hardware and reverse engineering.
-- [CTFtime](https://ctftime.org/) - Lists various CTFs, including those in hardware, IoT, and firmware.
-
-
-
-********************************************************************************************************************************
 ### YouTube Channels for IoT Pentesting
 
 - [Joe Grand](https://www.youtube.com/@JoeGrand) 
