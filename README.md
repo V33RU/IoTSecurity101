@@ -34,7 +34,7 @@
    - [Blogs](#blogs-for-iotpentest)
    - [Cheatsheets](#awesome-cheatsheets)
    - [Search Engines](#search-engines-for-exposed-iot-devices-worldwide)
-   - [CTF](#ctf-for-iot-and-embeddded)
+   - [CTF](#vulnerable-iot-and-hardware-applications)
    - [Youtube](#youtube-channels-for-iot-pentesting)
    - [Exploitation Tools](#exploitation-tools)
    - [IoT Pentesting OSes](#iot-pentesting-oses)
