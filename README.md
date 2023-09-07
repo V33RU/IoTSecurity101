@@ -730,8 +730,6 @@
 ******************************************************************************************************************************** 
 ### Vulnerable IoT and Hardware Applications
 
-  - IoT Goat : https://github.com/OWASP/IoTGoat
-
   - IoT : https://github.com/Vulcainreo/DVID
 
   - Safe : https://insinuator.net/2016/01/damn-vulnerable-safe/
