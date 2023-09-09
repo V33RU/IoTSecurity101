@@ -427,6 +427,7 @@
 #### BLE Pentesting Tutorials
 
   - [Bluetooth vs BLE Basics](https://github.com/V33RU/BLE-NullBlr)
+  - [examining-the-august-smart-lock](https://blog.quarkslab.com/examining-the-august-smart-lock.html)
   - [Finding bugs in Bluetooth](https://bluetooth.lol/)
   - [Intel Edison as Bluetooth LE — Exploit box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
   - [How I Reverse Engineered and Exploited a Smart Massager](https://medium.com/@arunmag/how-i-reverse-engineered-and-exploited-a-smart-massager-ee7c9f21bf33)
@@ -441,7 +442,7 @@
   - [Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/)
   - [MojoBox - yet another not so smartlock](https://mandomat.github.io/2023-03-15-testing-mojobox-security/)
   - [bluetooth-hacking](https://github.com/zedxpace/bluetooth-hacking-)
-  
+ 
 ********************************************************************************************************************************
 ### DECT (Digital Enhanced Cordless Telecommunications)
   - [Real Time Interception And Monitoring Of A DECT Cordless Telephone](https://www.youtube.com/watch?v=MDF1eUvOte0&ab_channel=RobVK8FOES)
