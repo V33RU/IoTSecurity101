@@ -165,7 +165,7 @@
 - [Blue Fox: Arm Assembly Internals & Reverse Engineering](https://www.wiley.com/en-gb/Blue+Fox%3A+Arm+Assembly+Internals+%26+Reverse+Engineering-p-9781119745303)
 - [Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976)
 - [Hardware Security Training, Hands-on!](https://link.springer.com/book/10.1007/978-3-031-31034-8)
-- [Manual PCB-RE: The Essentials](https://www.amazon.com/Manual
+- [Manual PCB-RE: The Essentials](https://www.amazon.com/Manual)
 
 
 ********************************************************************************************************************************
