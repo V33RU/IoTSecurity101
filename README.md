@@ -122,7 +122,7 @@
 - [opensecuritytraining 2](https://p.ost2.fyi/courses)
   
 ********************************************************************************************************************************
-### 📚 Books for IoT Penetration Testing Sorted by Year
+### 📚 Books for IoT Penetration Testing
 
 #### 2004
 - [The Firmware Handbook (Embedded Technology) 1st Edition by Jack Ganssle](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
