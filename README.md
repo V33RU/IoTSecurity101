@@ -669,6 +669,7 @@
   - [Awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
   
 ********************************************************************************************************************************
+
 ### Fuzzing Things
   - [OWASP Fuzzing Info](https://owasp.org/www-community/Fuzzing)
   - [Fuzzing_ICS_protocols](https://1modm.github.io/Fuzzing_ICS_protocols.html)
@@ -678,6 +679,10 @@
   - [Snipuzz : Black-box Fuzzing of IoT Firmware via Message Snippet Inference](https://arxiv.org/pdf/2105.05445.pdf)
   - [fuzzing-iot-binaries] - [part1](https://blog.attify.com/fuzzing-iot-devices-part-1/) / [part2](https://blog.attify.com/fuzzing-iot-binaries-with-afl-part-ii/)
   - [Modern Vulnerability Research Techniques on Embedded Systems](https://breaking-bits.gitbook.io/breaking-bits/vulnerability-discovery/reverse-engineering/modern-approaches-toward-embedded-research)
+  - [FuzzingPaper](https://github.com/wcventure/FuzzingPaper/tree/master/Paper)
+  - [Exercises to learn how to fuzz with American Fuzzy Lop](https://github.com/mykter/afl-training)
+  - [Broadcom and Cypress firmware emulation for fuzzing and further full-stack debugging](https://github.com/seemoo-lab/frankenstein)
+  - [Bluetooth experimentation framework for Broadcom and Cypress chips.](https://github.com/seemoo-lab/internalblue)
 
 
 ********************************************************************************************************************************
