@@ -190,7 +190,6 @@
 - [Besimaltinok Blog](http://blog.besimaltinok.com/category/iot-pentest/)
 - [Ctrlu Blog](https://ctrlu.net/)
 - [IoT Pentest Blog](http://iotpentest.com/)
-- [Attify Blog](https://blog.attify.com)
 - [Duo Decipher Blog](https://duo.com/decipher/)
 - [Sp3ctr3 Blog](http://www.sp3ctr3.me)
 - [0x42424242.in Blog](http://blog.0x42424242.in/)
@@ -211,6 +210,7 @@
 - [Limited Results Blog](https://limitedresults.com/)
 - [Fail0verflow Blog](https://fail0verflow.com/blog/)
 - [Exploit Security Blog](https://www.exploitsecurity.io/blog)
+- [Attify Blog](https://blog.attify.com)
 
 
 ********************************************************************************************************************************
@@ -272,7 +272,6 @@
 
 - [Sigint OS- LTE IMSI Catcher](https://www.sigintos.com/downloads/)
 - [Instatn-gnuradio OS - For Radio Signals Testing](https://github.com/bastibl/instant-gnuradio)
-- [AttifyOS - IoT Pentest OS - by Aditya Gupta](https://github.com/adi0x90/attifyos)
 - [Ubutnu Best Host Linux for IoT's - Use LTS](https://www.ubuntu.com/)
 - [Internet of Things - Penetration Testing OS v1](https://github.com/IoT-PTv)
 - [Dragon OS - DEBIAN LINUX WITH PREINSTALLED OPEN SOURCE SDR SOFTWARE](https://www.rtl-sdr.com/dragonos-debian-linux-with-preinstalled-open-source-sdr-software/)
@@ -280,6 +279,7 @@
 - [Skywave Linux- Software Defined Radio for Global Online Listening](https://skywavelinux.com/)
 - [A Small, Scalable Open Source RTOS for IoT Embedded Devices](https://www.zephyrproject.org/)
 - [ICS - Controlthings.io](https://www.controlthings.io/platform)
+- [AttifyOS - IoT Pentest OS - by Aditya Gupta](https://github.com/adi0x90/attifyos)
 
 ********************************************************************************************************************************
 ### Exploitation Tools
