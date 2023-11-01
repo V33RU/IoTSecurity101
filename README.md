@@ -702,6 +702,7 @@
   
 #### Cool Hacks
   - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
+  - [gaylord M FOCker - ready to pwn your MIFARE tags](https://luemmelsec.github.io/gaylord-M-FOCker-ready-to-pwn-your-MIFARE-tags/)
   
 ********************************************************************************************************************************
 ### ICS
