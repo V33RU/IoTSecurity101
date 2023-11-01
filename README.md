@@ -156,6 +156,7 @@
 - [Practical Hardware Pentesting](https://www.packtpub.com/product/practical-hardware-pentesting/9781789619133?_ga=2.224205017.333884789.1668314814-101815837.1668314814)
 - [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks Front Cover Jasper van Woudenberg, Colin O'Flynn](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s)
 - [Practical IoT Hacking-The Definitive Guide to Attacking the Internet of Things by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods](https://nostarch.com/practical-iot-hacking)
+- [Manual PCB-RE: The Essentials](https://www.amazon.in/Manual-PCB-RE-Essentials-Keng-Tiong/dp/B0974Z3NDS)
 
 #### 2022
 - [PatrIoT: practical and agile threat research for IoT by Emre Süren](https://link.springer.com/article/10.1007/s10207-022-00633-3)
@@ -165,7 +166,6 @@
 - [Blue Fox: Arm Assembly Internals & Reverse Engineering](https://www.wiley.com/en-gb/Blue+Fox%3A+Arm+Assembly+Internals+%26+Reverse+Engineering-p-9781119745303)
 - [Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976)
 - [Hardware Security Training, Hands-on!](https://link.springer.com/book/10.1007/978-3-031-31034-8)
-- [Manual PCB-RE: The Essentials](https://www.amazon.in/Manual-PCB-RE-Essentials-Keng-Tiong/dp/B0974Z3NDS)
 - [Automotive Cybersecurity Engineering Handbook: The automotive engineer's roadmap to cyber-resilient vehicles Series](https://www.amazon.in/Automotive-Cybersecurity-Engineering-Handbook-cyber-resilient/dp/1801076537)
 
 
