@@ -101,6 +101,7 @@
 - [Dropcam Hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
 - [Printer Hacking Live Sessions - Gamozo Labs](https://www.youtube.com/watch?v=2LVtEoQA8Qo&ab_channel=gamozolabs)
 - [LED Light Hacking](https://youtu.be/Nnb2ct3hc68)
+- [PS4 Jailbreak – the current status](https://wololo.net/ps4-jailbreak-ps4-cfw4dummies/)
 
 ********************************************************************************************************************************
 - [IoT-Vuln-with CVE and PoC of tenda and dlink](https://github.com/z1r00/IOT_Vul)
@@ -177,7 +178,7 @@
 - [Raelize Blog](https://raelize.com/blog/)
 - [JCJC Dev Blog](http://jcjc-dev.com/)
 - [W00tsec Blog](https://w00tsec.blogspot.in/)
-- [Devttys0 Blog](http://www.devttys0.com/)
+- [Devttys0 Blog](http://www.devttys0.com/) (Use Wayback Machine to check old blogs)
 - [Wrongbaud Blog](https://wrongbaud.github.io/)
 - [Embedded Bits Blog](https://embeddedbits.org/)
 - [RTL-SDR Blog](https://www.rtl-sdr.com/)
@@ -212,6 +213,7 @@
 - [Fail0verflow Blog](https://fail0verflow.com/blog/)
 - [Exploit Security Blog](https://www.exploitsecurity.io/blog)
 - [Attify Blog](https://blog.attify.com)
+- [wololo](https://wololo.net/)
 
 
 ********************************************************************************************************************************
