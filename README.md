@@ -448,6 +448,9 @@
 
 #### BLE Pentesting Tutorials
 
+  - [Blue2thprinting (blue-[tooth)-printing]: answering the question of 'WTF am I even looking at?!'](https://darkmentor.com/publication/2023-11-hardweario/)
+  - [Open Wounds: The last 5 years have left Bluetooth to bleed](https://darkmentor.com/publication/2023-10-hacklu/)
+  - [It Was Harder to Sniff Bluetooth Through My Mask During the Pandemic...](https://darkmentor.com/publication/2023-08-hitb/)
   - [Bluetooth vs BLE Basics](https://github.com/V33RU/BLE-NullBlr)
   - [examining-the-august-smart-lock](https://blog.quarkslab.com/examining-the-august-smart-lock.html)
   - [Finding bugs in Bluetooth](https://bluetooth.lol/)
