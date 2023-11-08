@@ -498,6 +498,7 @@
  - [ICS Village](https://www.icsvillage.com/)
  - [IoT Villages](https://www.iotvillage.org/index.html)
  - [RF hackers](https://rfhackers.com/)
+ - [Car Hacking Village](https://www.carhackingvillage.com/)
 
 *******************************************************************************************************************************
 ### Online Assemblers
