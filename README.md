@@ -43,6 +43,7 @@
   - [🐛 Fuzzing Things](#fuzzing-things)
   - [🏢 IoT Lab Setup guide for corporate/individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
   - [🔧 FlipperZero](#flipperzero)
+  - [🏘 Villages](#villages)
 
 - 🌐 Network
 - 🌐 Web IoT Message Protocols
@@ -489,8 +490,15 @@
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
  - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
  - [Android Tamer - Android Tamer is a Virtual / Live Platform for Android Security professionals](https://androidtamer.com/)
- 
- 
+
+********************************************************************************************************************************
+ ### Villages
+
+ - [Payment Villages](https://www.paymentvillage.org/home)
+ - [ICS Village](https://www.icsvillage.com/)
+ - [IoT Villages](https://www.iotvillage.org/index.html)
+ - [RF hackers](https://rfhackers.com/)
+
 *******************************************************************************************************************************
 ### Online Assemblers
 
@@ -523,7 +531,7 @@
 
  
 ##### Resources
-- [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
+ - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
  - [Reversing 101](https://0xinfection.github.io/reversing/)
  - [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS)
  - [OWASP Firmware Security Testing Methodology](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
