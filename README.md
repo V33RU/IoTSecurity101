@@ -626,12 +626,12 @@
 
 #### SPI
 
-   - [Reading FlashROMS - Youtube](https://www.youtube.com/results?search_query=reading+chip+flash+rom)
    - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
    - [How to Flash Chip of a Router With a Programmer | TP-Link Router Repair & MAC address change](https://www.youtube.com/watch?v=fbt4OJXJdOc&ab_channel=ElectricalProjects%5BCreativeLab%5D)
    - [Extracting Flash Memory over SPI](https://akimbocore.com/article/extracting-flash-memory-over-spi/)
    - [Extracting Firmware from Embedded Devices (SPI NOR Flash)](https://www.youtube.com/watch?v=nruUuDalNR0&ab_channel=FlashbackTeam)
    - [SPI-Blogs](https://www.google.com/search?q=%22spi+dump%22&source=hp&ei=5jv9YaW6JNvl2roPgbGqMA&iflsig=AHkkrS4AAAAAYf1J9qNY6Snarz3dsHr9KXF1YSY6AKVL&ved=0ahUKEwilxY3apOb1AhXbslYBHYGYCgYQ4dUDCAg&uact=5&oq=%22spi+dump%22&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeUABYAGC-A2gAcAB4AIABYIgBYJIBATGYAQCgAQKgAQE&sclient=gws-wiz)
+   - [Reading FlashROMS - Youtube](https://www.youtube.com/results?search_query=reading+chip+flash+rom)
    
 #### UART
 
@@ -673,6 +673,7 @@
    - [Hardware Power Glitch Attack (Fault Injection) - rhme2 Fiesta (FI 100)](https://www.youtube.com/watch?v=6Pf3pY3GxBM&ab_channel=LiveOverflow)
    - [Keys in flash - Glitching AES keys from an Arduino / ATmega with a camera flash](https://srfilipek.medium.com/keys-in-a-flash-3e984d0de54b)
    - [Implementing Practical Electrical Glitching Attacks](blackhat.com/docs/eu-15/materials/eu-15-Giller-Implementing-Electrical-Glitching-Attacks.pdf)
+   - [HOW TO VOLTAGE FAULT INJECTION](https://www.synacktiv.com/publications/how-to-voltage-fault-injection)
    
 ********************************************************************************************************************************   
 ### Awesome IoT Pentesting Guides
@@ -684,7 +685,6 @@
   - [Awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
   
 ********************************************************************************************************************************
-
 ### Fuzzing Things
   - [OWASP Fuzzing Info](https://owasp.org/www-community/Fuzzing)
   - [Fuzzing_ICS_protocols](https://1modm.github.io/Fuzzing_ICS_protocols.html)
