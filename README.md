@@ -580,6 +580,7 @@
 ### Storage Medium
 
 #### EMMC HACKING
+ - [eMMC Protocol](https://prodigytechno.com/emmc-protocol/)
  - [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
  - [EMMC DATA RECOVERY FROM DAMAGED SMARTPHONE](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
  - [Another bunch of Atricles for EMMC](https://hackaday.com/tag/emmc/)
