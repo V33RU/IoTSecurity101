@@ -700,6 +700,7 @@
   - [Exercises to learn how to fuzz with American Fuzzy Lop](https://github.com/mykter/afl-training)
   - [Broadcom and Cypress firmware emulation for fuzzing and further full-stack debugging](https://github.com/seemoo-lab/frankenstein)
   - [Bluetooth experimentation framework for Broadcom and Cypress chips.](https://github.com/seemoo-lab/internalblue)
+  - [Fuzzing Forum](https://github.com/google/fuzzing)
 
 
 ********************************************************************************************************************************
