@@ -15,8 +15,6 @@ This page contains stuff additional to IoTsecurity101 which are specific to auto
 Note: Explore each link to dig more into your topic of intrest.
 
 ********************************************************************************************************************************
-
-
 #### Approach Methodology
 
  - ***1. In-Vehicle Network***
@@ -34,16 +32,16 @@ Note: Explore each link to dig more into your topic of intrest.
    - [Exploitation Tools](#Exploitation-Tools)
 
 ********************************************************************************
- ## In-Vehicle Network communication Protocols
+### In-Vehicle Network communication Protocols
 - [CAN](https://en.wikipedia.org/wiki/CAN_bus)
 - [CAN-FD](https://en.wikipedia.org/wiki/CAN_FD)
 - [LIN](https://en.wikipedia.org/wiki/Local_Interconnect_Network)
 
 ********************************************************************************************************************************
 ### Automtoive Security Community
-
 - [ASRG](asrg,io)
 - [Auto-ISAC](https://automotiveisac.com/)
+
 ********************************************************************************************************************************
 ### Books/Channels-related-to-AutomotiveSecurity
 #### Books
@@ -55,7 +53,6 @@ Note: Explore each link to dig more into your topic of intrest.
 - [Car Hacking Village](https://www.youtube.com/@carhackingvillage)
 
 #### Blogs
-
 - [CANisLabs](https://kentindell.github.io/)-
 - [CANBusHack](https://canbushack.com/blog/)
 
@@ -63,7 +60,6 @@ Note: Explore each link to dig more into your topic of intrest.
 *************************************************************************************
 ### Exploitation-Tools
 #### Hardware
-
 - [Nano-CAN](https://github.com/mintynet/nano-can) - Goto CAN tool for beginers for hardware MITM.
 - [USBtin](http://www.fischl.de/usbtin/) - USB2CAN connector for data dumping on linux.
 - [USB2CAN](http://www.8devices.com/products/usb2can/) - CAN connector for data dumping on linux.
@@ -73,18 +69,16 @@ Note: Explore each link to dig more into your topic of intrest.
 - [OBD-KILL](https://store.intrepidcs.com/product/chv-badge-30) - fancy hacker version of CANPico
 - [ELM327](https://www.elmelectronics.com/obdic.html) - Workes(sometimes) in old vehicle's where there is OBD-II data inflow protection is enabled.
 
-
 #### Software
-
 - [can-utils](https://github.com/linux-can/can-utils) - Linus (SocketCAN) userspace utilities and tools for CAN bus.
 - [ICsim](https://github.com/zombieCraig/ICSim/) - CLI based Instrument Cluster emulator for learning.
 - [UDSim](https://github.com/zombieCraig/UDSim/) - GUI tool helps in learning also.
 - [CANalyse 2.0](https://github.com/canalyse/CANalyse-2.0) - Vehicle network analyser built on top of python-can library.
 - [CANToolz](https://github.com/eik00d/CANToolz) - it is a framework for analysing CAN bus networks.
 - [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) - it is a framework for analysing vehicle networks.
+- [A WEB Based OBDII Dongle Platform using the ESP32 WROVER Module](https://github.com/EQMOD/EQM_OBDWEB)
 
 #### Libraries
-
 - [python-can](https://pypi.org/project/python-can/) - python supprt for CAN developers and scripting.
 - [Scap CAN Layer](https://dissec.to/kb/chapters/can/can-scapy.html) - CAN integration in Scapy
 
