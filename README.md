@@ -376,6 +376,7 @@
 
 #### GSM SS7 Pentesting
 
+- [5Ghoul - 5G NR Attacks & 5G OTA Fuzzing](https://github.com/asset-group/5ghoul-5g-nr-attacks)
 - [Introduction to GSM Security](http://www.pentestingexperts.com/introduction-to-gsm-security/)
 - [GSM Security 2 ](https://www.ehacking.net/2011/02/gsm-security-2.html)
 - [vulnerabilities in GSM security with USRP B200](https://ieeexplore.ieee.org/document/7581461/)
