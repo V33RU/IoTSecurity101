@@ -67,6 +67,7 @@
   - [🔨 Pentesting Firmwares and emulating and analyzing](#pentesting-firmwares-and-emulating-and-analyzing)
   - [🔬 Firmware samples to pentest](#firmware-samples-to-pentest)
   - [🔒 Secureboot](#secureboot)
+  - [🔍 Binary-Analysis]
 
 - 🛠️ Hardware
   - [🔎 IoT Hardware Intro](#iot-hardware-overview-and-hacking)
@@ -555,6 +556,15 @@
 ### Firmware samples to pentest
 
  - [Download From here by firmware.center](https://firmware.center/)
+
+********************************************************************************************************************************
+### Binary Analysis
+ - [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
+ - [https://www.coalfire.com/the-coalfire-blog/reverse-engineering-and-patching-with-ghidra](https://flattsecurity.medium.com/finding-bugs-to-trigger-unauthenticated-command-injection-in-a-netgear-router-psv-2022-0044-2b394fb9edc)
+ - [Part two: Reverse engineering and patching with Ghidra](https://www.coalfire.com/the-coalfire-blog/reverse-engineering-and-patching-with-ghidra)
+ - [Automating binary vulnerability discovery with Ghidra and Semgrep](https://security.humanativaspa.it/automating-binary-vulnerability-discovery-with-ghidra-and-semgrep/)
+
+
 
 ********************************************************************************************************************************
 ### Symlinks Attacks
