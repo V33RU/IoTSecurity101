@@ -67,7 +67,7 @@
   - [🔨 Pentesting Firmwares and emulating and analyzing](#pentesting-firmwares-and-emulating-and-analyzing)
   - [🔬 Firmware samples to pentest](#firmware-samples-to-pentest)
   - [🔒 Secureboot](#secureboot)
-  - [🔍 Binary-Analysis]
+  - [🔍 Binary-Analysis](#binary-analysis)
 
 - 🛠️ Hardware
   - [🔎 IoT Hardware Intro](#iot-hardware-overview-and-hacking)
