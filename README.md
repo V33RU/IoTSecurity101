@@ -177,6 +177,7 @@
 ### Blogs for IoT Pentest
 
 - [Jilles.com](https://jilles.com/)
+- [Syss Tech Blog](https://blog.syss.com/)
 - [Payatu Blog](https://payatu.com/blog/)
 - [Raelize Blog](https://raelize.com/blog/)
 - [JCJC Dev Blog](http://jcjc-dev.com/)
