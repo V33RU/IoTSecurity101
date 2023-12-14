@@ -30,7 +30,7 @@
   - [👥 IoT Security Chat groups](#chat-groups-for-iot-security)
   - [🎓 IoT and Hardware Security Trainings](#iot-and-hardware-security-trainings)
   - [📚 Books](#books-for-iot-penetration-testing)
-  - [🖋️ Blogs](#blogs-for-iotpentest)
+  - [🖋️ Blogs](#blogs-for-iot-pentest)
   - [📋 Cheatsheets](#awesome-cheatsheets)
   - [🔍 Search Engines](#search-engines-for-exposed-iot-devices-worldwide)
   - [🚩 CTF](#vulnerable-iot-and-hardware-applications)
