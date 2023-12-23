@@ -29,6 +29,8 @@
 - 🛡️ IoT Security information
   - [👥 IoT Security Chat groups](#chat-groups-for-iot-security)
   - [🎓 IoT and Hardware Security Trainings](#iot-and-hardware-security-trainings)
+  - [🔍 Technical Research and Hacking](#technical-research-and-hacking)
+  - [💻 Proof of Concepts known Device Vulnerabilities](#proof-of-concepts-known-device-vulnerabilities)
   - [📚 Books](#books-for-iot-penetration-testing)
   - [🖋️ Blogs](#blogs-for-iot-pentest)
   - [📋 Cheatsheets](#awesome-cheatsheets)
@@ -88,24 +90,24 @@
 
   
 ********************************************************************************************************************************
-### To See Hacked Devices
+### Technical Research and Hacking
 
+- [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
+- [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
+- [Dropcam Hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
 - [Exploitee.rs Blog](https://blog.exploitee.rs/2018/10/)
-- [Exploitee.rs Website](https://www.exploitee.rs/)
-- [Exploitee.rs Forum](https://forum.exploitee.rs/)
+- [Printer Hacking Live Sessions - Gamozo Labs](https://www.youtube.com/watch?v=2LVtEoQA8Qo&ab_channel=gamozolabs)
+- [LED Light Hacking](https://youtu.be/Nnb2ct3hc68)
+- [PS4 Jailbreak – the current status](https://wololo.net/ps4-jailbreak-ps4-cfw4dummies/)
 - [Your Lenovo Watch X Is Watching You & Sharing What It Learns](https://www.checkmarx.com/blog/lenovo-watch-watching-you/)
 - [Your Smart Scale is Leaking More than Your Weight: Privacy Issues in IoT](https://www.checkmarx.com/blog/smart-scale-privacy-issues-iot/)
 - [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
 - [Besder-IPCamera Analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
 - [Smart Lock Vulnerabilities](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
-- [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
-- [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
-- [Dropcam Hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
-- [Printer Hacking Live Sessions - Gamozo Labs](https://www.youtube.com/watch?v=2LVtEoQA8Qo&ab_channel=gamozolabs)
-- [LED Light Hacking](https://youtu.be/Nnb2ct3hc68)
-- [PS4 Jailbreak – the current status](https://wololo.net/ps4-jailbreak-ps4-cfw4dummies/)
 
 ********************************************************************************************************************************
+### Proof of Concepts known Device Vulnerabilities
+
 - [IoT-Vuln-with CVE and PoC of tenda and dlink](https://github.com/z1r00/IOT_Vul)
 
 ********************************************************************************************************************************
