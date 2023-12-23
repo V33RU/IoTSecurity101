@@ -28,7 +28,7 @@
 
 ### 🛡️ IoT Security Information
 
-- [👥 Chat Groups for IoT Security](#chat-groups-for-iot-security)
+- [👥 Community and Discussion Platforms](#community-and-discussion-platforms)
 - [🎓 IoT and Hardware Security Trainings](#iot-and-hardware-security-trainings)
 - [🔍 Technical Research and Hacking](#technical-research-and-hacking)
 - [💻 Proof of Concepts: Known Device Vulnerabilities](#proof-of-concepts-known-device-vulnerabilities)
@@ -119,7 +119,7 @@
 - [IoT-Vuln-with CVE and PoC of tenda and dlink](https://github.com/z1r00/IOT_Vul)
 
 ********************************************************************************************************************************
-### Chat Groups for IoT Security
+### Community and Discussion Platforms
 
 - [IoTSecurity101 Telegram](https://t.me/iotsecurity1011)
 - [IoTSecurity101 Reddit](https://www.reddit.com/r/IoTSecurity101/)
