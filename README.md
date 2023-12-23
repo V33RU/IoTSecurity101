@@ -95,15 +95,13 @@
 - [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 - [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
 - [Dropcam Hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
-- [Exploitee.rs Blog](https://blog.exploitee.rs/2018/10/)
 - [Printer Hacking Live Sessions - Gamozo Labs](https://www.youtube.com/watch?v=2LVtEoQA8Qo&ab_channel=gamozolabs)
 - [LED Light Hacking](https://youtu.be/Nnb2ct3hc68)
 - [PS4 Jailbreak – the current status](https://wololo.net/ps4-jailbreak-ps4-cfw4dummies/)
 - [Your Lenovo Watch X Is Watching You & Sharing What It Learns](https://www.checkmarx.com/blog/lenovo-watch-watching-you/)
 - [Your Smart Scale is Leaking More than Your Weight: Privacy Issues in IoT](https://www.checkmarx.com/blog/smart-scale-privacy-issues-iot/)
-- [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
-- [Besder-IPCamera Analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
-- [Smart Lock Vulnerabilities](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
+- [Besder 6024PB-XMA501 IP camera security analysis](https://github.com/KostasEreksonas/Besder-6024PB-XMA501-ip-camera-security-investigation)
+- [Smart Lock Vulnerabilities](http://www.savoringgreens.com/index-3218.html)
 
 
 ********************************************************************************************************************************
