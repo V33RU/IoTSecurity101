@@ -105,6 +105,7 @@
 - [Besder-IPCamera Analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
 - [Smart Lock Vulnerabilities](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
 
+
 ********************************************************************************************************************************
 ### Proof of Concepts known Device Vulnerabilities
 
