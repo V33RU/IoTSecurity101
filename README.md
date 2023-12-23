@@ -49,7 +49,6 @@
 - [🏘 Villages](#villages)
 
 ## Specific Topics
-
 #### 🌐 Network
 
 #### 🌐 Web IoT Message Protocols
