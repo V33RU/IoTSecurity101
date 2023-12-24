@@ -642,17 +642,18 @@
    - [Breaking AES with ChipWhisperer - Piece of scake (Side Channel Analysis 100)](https://www.youtube.com/watch?v=FktI4qSjzaE&ab_channel=LiveOverflow)
    - [Researchers use Rowhammer bit flips to steal 2048-bit crypto key](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
 
-#### Glitching attacks
+#### Glitching and Fault Injection Resources
+##### Tutorials and Case Studies
+1. [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root) - Gaining root access to a Wink Hub through NAND glitching.
+2. [Tutorial CW305-4 Voltage Glitching with Crowbars](https://wiki.newae.com/index.php?title=Tutorial_CW305-4_Voltage_Glitching_with_Crowbars) - Detailed tutorial on voltage glitching using crowbars.
+3. [Voltage Glitching Attack using SySS iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw) - A demonstration of a voltage glitching attack by SySS PentestTV.
+4. [Samy Kamkar - FPGA Glitching & Side Channel Attacks](https://www.youtube.com/watch?v=oGndiX5tvEk) - Samy Kamkar's insights on FPGA glitching and side channel attacks.
+5. [Hardware Power Glitch Attack - rhme2 Fiesta (FI 100)](https://www.youtube.com/watch?v=6Pf3pY3GxBM) - A hardware power glitch attack demonstration by LiveOverflow.
+##### Specific Techniques and Experiments
+6. [Keys in flash - Glitching AES keys from an Arduino / ATmega](https://srfilipek.medium.com/keys-in-a-flash-3e984d0de54b) - Extracting AES keys from an Arduino using glitching.
+7. [Implementing Practical Electrical Glitching Attacks](blackhat.com/docs/eu-15/materials/eu-15-Giller-Implementing-Electrical-Glitching-Attacks.pdf) - Guide on implementing electrical glitching attacks.
+8. [How To Voltage Fault Injection](https://www.synacktiv.com/publications/how-to-voltage-fault-injection) - A comprehensive guide on voltage fault injection techniques.
 
-   - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
-   - [Tutorial CW305-4 Voltage Glitching with Crowbars](https://wiki.newae.com/index.php?title=Tutorial_CW305-4_Voltage_Glitching_with_Crowbars&mobileaction=toggle_view_mobile)
-   - [Voltage Glitching Attack using SySS iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw&feature=youtu.be&ab_channel=SySSPentestTV)
-   - [Samy Kamkar - FPGA Glitching & Side Channel Attacks](https://www.youtube.com/watch?v=oGndiX5tvEk)
-   - [Hardware Power Glitch Attack (Fault Injection) - rhme2 Fiesta (FI 100)](https://www.youtube.com/watch?v=6Pf3pY3GxBM&ab_channel=LiveOverflow)
-   - [Keys in flash - Glitching AES keys from an Arduino / ATmega with a camera flash](https://srfilipek.medium.com/keys-in-a-flash-3e984d0de54b)
-   - [Implementing Practical Electrical Glitching Attacks](blackhat.com/docs/eu-15/materials/eu-15-Giller-Implementing-Electrical-Glitching-Attacks.pdf)
-   - [HOW TO VOLTAGE FAULT INJECTION](https://www.synacktiv.com/publications/how-to-voltage-fault-injection)
-   
 ********************************************************************************************************************************   
 ### Awesome IoT Pentesting Guides
 
