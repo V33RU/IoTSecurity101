@@ -90,7 +90,7 @@
 
 #### 💾 Storage Medium
 
-- [📀 EMMC Hacking](#emmc-hacking)
+- [📀 EMMC ](#emmc-protocol-and-techniques)
 
 #### 💳 Payment Security
 
@@ -555,13 +555,17 @@
 
 ### Storage Medium
 
-#### EMMC HACKING
- - [eMMC Protocol](https://prodigytechno.com/emmc-protocol/)
- - [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
- - [EMMC DATA RECOVERY FROM DAMAGED SMARTPHONE](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
- - [Another bunch of Atricles for EMMC](https://hackaday.com/tag/emmc/)
- - [Unleash your smart-home devices: Vacuum Cleaning Robot Hacking](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking#t=1810)
- - [Hands-On IoT Hacking: Rapid7 at DEF CON 30 IoT Village, Part 1](https://www.rapid7.com/blog/post/2022/10/18/hands-on-iot-hacking-rapid7-at-def-con-30-iot-village-part-1/)
+#### EMMC Protocol and Techniques
+
+Explore the world of EMMC hacking with these curated resources. Whether you're new to hardware hacking or an experienced practitioner, these links provide valuable insights into EMMC protocol, data recovery, and practical hacking techniques.
+
+- [EMMC Protocol](https://prodigytechno.com/emmc-protocol/)
+- [Hardware Hacking 101: Identifying And Dumping EMMC Flash](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
+- [EMMC Data Recovery From Damaged Smartphone](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
+- [Another Bunch Of Articles For EMMC](https://hackaday.com/tag/emmc/)
+- [Unleash Your Smart-Home Devices: Vacuum Cleaning Robot Hacking](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking#t=1810)
+- [Hands-On IoT Hacking: Rapid7 At DEF CON 30 IoT Village, Part 1](https://www.rapid7.com/blog/post/2022/10/18/hands-on-iot-hacking-rapid7-at-def-con-30-iot-village-part-1/)
+
 
 ********************************************************************************************************************************
 ### Payment Device Security
