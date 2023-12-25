@@ -67,6 +67,7 @@
 - [🐝 Zigbee](#zigbee-aLL-stuff)
 - [🔵 Bluetooth](#ble-intro-and-sw-hw-tools-to-pentest)
 - [📞 DECT](#dect-digital-enhanced-cordless-telecommunications)
+- [📲 NFC](#nfc-rfid)
 
 #### 💽 Firmware
 
@@ -357,6 +358,10 @@
 
 #### Hardware Tools 
 - [Fake BTS Detector (SCL-8521)](https://www.shoghicom.com/fake-bts-detector.php)
+
+********************************************************************************************************************************
+### NFC-RFID
+- [List of RFID/NFC Security & Privacy talks](https://github.com/doegox/awesome-rfid-talks)
 
 ********************************************************************************************************************************
 ### Zigbee ALL Stuff
