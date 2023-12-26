@@ -87,6 +87,7 @@
 - [🔌 SPI](#spi)
 - [🔌 UART](#uart)
 - [🔌 JTAG](#jtag)
+- [🔌TPM](#tpm)
 - [🛠️ SideChannel Attacks & Glitching Attacks](#sidechannel-attacks)
 
 #### 💾 Storage Medium
@@ -643,7 +644,10 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
    - [Analyzing JTAG](https://nse.digital/pages/guides/hardware/jtag.html)
    - [The hitchhacker’s guide to iPhone Lightning & JTAG hacking](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/stacksmashing%20-%20The%20hitchhackers%20guide%20to%20iPhone%20Lightning%20%20%20JTAG%20hacking.pdf)
 
-
+#### TPM
+   - [Introduction to TPM (Trusted Platform Module)](https://sergioprado.blog/introduction-to-tpm-trusted-platform-module/)
+   - [Trusted platform module security defeated in 30 minutes, no soldering required](https://arstechnica.com/gadgets/2021/08/how-to-go-from-stolen-pc-to-network-intrusion-in-30-minutes/)
+   - 
 #### SideChannel Attacks
 
    - [Side channel attacks](https://yifan.lu/)
