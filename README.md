@@ -566,6 +566,7 @@
 Explore the world of EMMC hacking with these curated resources. Whether you're new to hardware hacking or an experienced practitioner, these links provide valuable insights into EMMC protocol, data recovery, and practical hacking techniques.
 
 - [EMMC Protocol](https://prodigytechno.com/emmc-protocol/)
+- [RPMB, a secret place inside the eMMC](https://sergioprado.blog/rpmb-a-secret-place-inside-the-emmc/)
 - [Hardware Hacking 101: Identifying And Dumping EMMC Flash](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
 - [EMMC Data Recovery From Damaged Smartphone](https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/)
 - [Another Bunch Of Articles For EMMC](https://hackaday.com/tag/emmc/)
