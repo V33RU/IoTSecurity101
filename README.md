@@ -672,6 +672,7 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
   - [OWASP Firmware Security Testing Methodology
 ](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
   - [Awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
+  - [awesome-embedded-fuzzing](https://github.com/andreia-oca/awesome-embedded-fuzzing)
   
 ********************************************************************************************************************************
 ### Fuzzing Things
