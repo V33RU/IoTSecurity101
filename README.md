@@ -724,20 +724,20 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 ********************************************************************************************************************************
 ### FlipperZero
 
-#### Custom firmwares
-  - Flipper Zero Unleashed Firmware : https://github.com/DarkFlippers/unleashed-firmware
-  - RogueMaster Flipper Zero Firmware : https://github.com/RogueMaster/flipperzero-firmware-wPlugins
-  - 
-#### Interesting research 
-  - CVE-2022-40363 : [Exploiting Flipper Zero’s NFC file loader](https://vvx7.io/posts/2022/09/your-amiibos-haunted/)
+#### Custom Firmwares for Flipper Zero
+- [Flipper Zero Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware)
+- [RogueMaster Flipper Zero Firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 
-#### Flipperzero101
-  - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
-  - [A collection of Awesome resources for the Flipper Zero device.](https://github.com/djsime1/awesome-flipperzero)
-  
-#### Cool Hacks
-  - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
-  - [gaylord M FOCker - ready to pwn your MIFARE tags](https://luemmelsec.github.io/gaylord-M-FOCker-ready-to-pwn-your-MIFARE-tags/)
+#### Interesting Research on Flipper Zero
+- CVE-2022-40363: [Exploiting Flipper Zero’s NFC file loader](https://vvx7.io/posts/2022/09/your-amiibos-haunted/)
+
+#### Flipper Zero 101: Guides and Resources
+- [Flipper Zero - Starter Guide (YouTube)](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
+- [Awesome Resources for Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
+
+#### Cool Hacks with Flipper Zero
+- [Gaylord M FOCker - Pwn MIFARE Tags](https://luemmelsec.github.io/gaylord-M-FOCker-ready-to-pwn-your-MIFARE-tags/)
+
   
 ********************************************************************************************************************************
 ### ICS
