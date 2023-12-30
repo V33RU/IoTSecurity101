@@ -69,26 +69,26 @@
 - [📞 DECT](#dect-digital-enhanced-cordless-telecommunications)
 - [📲 NFC](#nfc-rfid)
 
-#### 💽 Firmware
+#### 💽 **Firmware**
+- [🔍 **Reverse Engineering Tools**](#reverse-engineering-tools)
+- [💻 **Online Assemblers**](#online-assemblers)
+- [💪 **ARM**](#arm)
+- [🔨 **Pentesting Firmwares: Emulating and Analyzing**](#pentesting-firmwares-and-emulating-and-analyzing)
+- [🔬 **Firmware Samples to Pentest**](#firmware-samples-to-pentest)
+- [🔒 **Secureboot**](#secureboot)
+- [🔍 **Binary Analysis**](#binary-analysis)
 
-- [🔍 Reverse Engineering Tools](#reverse-engineering-tools)
-- [💻 Online Assemblers](#online-assemblers)
-- [💪 ARM](#arm)
-- [🔨 Pentesting Firmwares: Emulating and Analyzing](#pentesting-firmwares-and-emulating-and-analyzing)
-- [🔬 Firmware Samples to Pentest](#firmware-samples-to-pentest)
-- [🔒 Secureboot](#secureboot)
-- [🔍 Binary Analysis](#binary-analysis)
 
-#### 🛠️ Hardware
+#### 🛠️ **Hardware**
+- [🔎 **IoT Hardware Intro**](#iot-hardware-overview-and-hacking)
+- [🛠️ **Required Hardware to Pentest IoT**](#hardware-gadgets-to-pentest)
+- [🔌 **Hardware Interfaces**](#attacking-hardware-interfaces)
+  - [🔌 **SPI**](#spi)
+  - [🔌 **UART**](#uart)
+  - [🔌 **JTAG**](#jtag)
+  - [🔌 **TPM**](#tpm)
+- [🛠️ **Side Channel Attacks & Glitching Attacks**](#sidechannel-attacks)
 
-- [🔎 IoT Hardware Intro](#iot-hardware-overview-and-hacking)
-- [🛠️ Required Hardware to Pentest IoT](#hardware-gadgets-to-pentest)
-- [🔌 Hardware Interfaces](#attacking-hardware-interfaces)
-- [🔌 SPI](#spi)
-- [🔌 UART](#uart)
-- [🔌 JTAG](#jtag)
-- [🔌TPM](#tpm)
-- [🛠️ SideChannel Attacks & Glitching Attacks](#sidechannel-attacks)
 
 #### 💾 Storage Medium
 
