@@ -286,26 +286,38 @@
 - [IoT Protocols Overview](https://www.postscapes.com/internet-of-things-protocols/) 
 
 ********************************************************************************************************************************
-### IoT Web and message services 
+### IoT Web and Message Services 
 
 #### MQTT
 
+#### Introduction to MQTT
 - [Introduction](https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
+
+#### Security and Hacking with MQTT
 - [Hacking the IoT with MQTT](https://morphuslabs.com/hacking-the-iot-with-mqtt-8edaf0d07b9b)
-- [thoughts about using IoT MQTT for V2V and Connected Car from CES 2014](https://mobilebit.wordpress.com/tag/mqtt/)
-- [Nmap](https://nmap.org/nsedoc/lib/mqtt.html)
-- [The Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
-- [A Guide to MQTT by Hacking a Doorbell to send Push Notifications](https://youtu.be/J_BAXVSVPVI)
 - [Are smart homes vulnerable to hacking](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
-- [Deep Learning UDF for KSQL / ksqlDB for Streaming Anomaly Detection of MQTT IoT Sensor Data](https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot)
-- [Authenticating & Authorizing Devices using MQTT with Auth0](https://auth0.com/docs/integrations/authenticate-devices-using-mqtt)
-- [Development information for the MQTT with hardware](https://www.hackster.io/search?i=projects&q=Mqtt)
-- [Understanding the MQTT Protocol Packet Structure](http://www.steves-internet-guide.com/mqtt-protocol-messages-overview/)
 - [R7-2019-18: Multiple Hickory Smart Lock Vulnerabilities](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
+
+#### IoT and MQTT
+- [thoughts about using IoT MQTT for V2V and Connected Car from CES 2014](https://mobilebit.wordpress.com/tag/mqtt/)
+- [Development information for the MQTT with hardware](https://www.hackster.io/search?i=projects&q=Mqtt)
 - [IoT Live Demo: 100.000 Connected Cars With Kubernetes, Kafka, MQTT, TensorFlow](https://dzone.com/articles/iot-live-demo-100000-connected-cars-with-kubernete)
 
+#### Tools and Client Information
+- [Nmap](https://nmap.org/nsedoc/lib/mqtt.html)
+- [The Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
 
-#### Softwares
+#### Tutorials and Guides
+- [A Guide to MQTT by Hacking a Doorbell to send Push Notifications](https://youtu.be/J_BAXVSVPVI)
+- [Understanding the MQTT Protocol Packet Structure](http://www.steves-internet-guide.com/mqtt-protocol-messages-overview/)
+- [Authenticating & Authorizing Devices using MQTT with Auth0](https://auth0.com/docs/integrations/authenticate-devices-using-mqtt)
+
+#### Advanced Topics and Applications
+- [Deep Learning UDF for KSQL / ksqlDB for Streaming Anomaly Detection of MQTT IoT Sensor Data](https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot)
+
+
+
+#### MQTT-Softwares
 - [Mosquitto-An open source MQTT broker](https://mosquitto.org/)
 - [HiveMQ](https://www.hivemq.com/)
 - [MQTT Explorer](http://mqtt-explorer.com/)
