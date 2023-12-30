@@ -290,40 +290,53 @@
 
 #### MQTT
 
-#### Introduction to MQTT
-- [Introduction](https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
+##### *Introduction to MQTT*
+- [Introduction to MQTT](https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
 
-#### Security and Hacking with MQTT
+##### *Security and Hacking with MQTT*
+- [MQTT Broker Security - 101](https://payatu.com/blog/mqtt-broker-security/)
 - [Hacking the IoT with MQTT](https://morphuslabs.com/hacking-the-iot-with-mqtt-8edaf0d07b9b)
-- [Are smart homes vulnerable to hacking](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
-- [R7-2019-18: Multiple Hickory Smart Lock Vulnerabilities](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
+- [Are Smart Homes Vulnerable to Hacking?](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
+-[Servisnet Tessa - MQTT Credentials Dump (Unauthenticated) (Metasploit)](https://www.exploit-db.com/exploits/50713)
+- [Eclipse Mosquitto MQTT broker 2.0.9 - 'mosquitto' Unquoted Service Path](https://www.exploit-db.com/exploits/49673)
+- [IoT Security: RCE in MQTT Protocol](https://systemweakness.com/iot-security-rce-in-mqtt-protocol-929e533f12b4)
+- [Penetration testing of Sesame Smart door lock](https://www.diva-portal.org/smash/get/diva2:1750933/FULLTEXT01.pdf)
+- 
+##### *Known Vulnerabilities and CVE IDs of MQTT Protocol*
+- [CVE-2020-13849](https://nvd.nist.gov/vuln/detail/CVE-2020-13849): A vulnerability in MQTT protocol 3.1.1, allowing remote attackers to cause a denial of service. CVSS score: 7.5 (High).
+- [CVE-2023-3028](https://nvd.nist.gov/vuln/detail/CVE-2023-3028): Involves insufficient authentication in MQTT backend, leading to potential data access and manipulation. CVSS score: 9.8 (Critical).
+- [CVE-2021-0229](https://nvd.nist.gov/vuln/detail/CVE-2021-0229): Pertains to uncontrolled resource consumption in Juniper Networks Junos OS MQTT server. CVSS score: 5.3 (Medium).
+- [CVE-2019-5432](https://nvd.nist.gov/vuln/detail/CVE-2019-5432): A malformed MQTT Subscribe packet can crash MQTT Brokers. CVSS score: 7.5 (High).
 
-#### IoT and MQTT
-- [thoughts about using IoT MQTT for V2V and Connected Car from CES 2014](https://mobilebit.wordpress.com/tag/mqtt/)
-- [Development information for the MQTT with hardware](https://www.hackster.io/search?i=projects&q=Mqtt)
-- [IoT Live Demo: 100.000 Connected Cars With Kubernetes, Kafka, MQTT, TensorFlow](https://dzone.com/articles/iot-live-demo-100000-connected-cars-with-kubernete)
+##### *IoT and MQTT*
+- [Using IoT MQTT for V2V and Connected Car](https://mobilebit.wordpress.com/tag/mqtt/)
+- [MQTT with Hardware Development Information](https://www.hackster.io/search?i=projects&q=Mqtt)
+- [IoT Live Demo: 100,000 Connected Cars with Kubernetes, Kafka, MQTT, TensorFlow](https://dzone.com/articles/iot-live-demo-100000-connected-cars-with-kubernete)
 
-#### Tools and Client Information
-- [Nmap](https://nmap.org/nsedoc/lib/mqtt.html)
+##### *Tools and Client Information*
+- [Nmap MQTT Library](https://nmap.org/nsedoc/lib/mqtt.html)
 - [The Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
 
-#### Tutorials and Guides
-- [A Guide to MQTT by Hacking a Doorbell to send Push Notifications](https://youtu.be/J_BAXVSVPVI)
+##### *Tutorials and Guides*
+- [A Guide to MQTT by Hacking a Doorbell to Send Push Notifications (Video)](https://youtu.be/J_BAXVSVPVI)
 - [Understanding the MQTT Protocol Packet Structure](http://www.steves-internet-guide.com/mqtt-protocol-messages-overview/)
-- [Authenticating & Authorizing Devices using MQTT with Auth0](https://auth0.com/docs/integrations/authenticate-devices-using-mqtt)
+- [Authenticating & Authorizing Devices Using MQTT with Auth0](https://auth0.com/docs/integrations/authenticate-devices-using-mqtt)
 
-#### Advanced Topics and Applications
-- [Deep Learning UDF for KSQL / ksqlDB for Streaming Anomaly Detection of MQTT IoT Sensor Data](https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot)
+##### *Advanced Topics and Applications*
+- [Deep Learning UDF for MQTT IoT Sensor Data Anomaly Detection](https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot)
 
-
-
-#### MQTT-Softwares
-- [Mosquitto-An open source MQTT broker](https://mosquitto.org/)
+##### *MQTT Softwares*
+- [IoXY - MQTT Intercepting Proxy](https://blog.nviso.eu/2020/07/06/introducing-ioxy-an-open-source-mqtt-intercepting-proxy/)
+- [Mosquitto - An Open Source MQTT Broker](https://mosquitto.org/)
 - [HiveMQ](https://www.hivemq.com/)
 - [MQTT Explorer](http://mqtt-explorer.com/)
-- [MQTT proxy - IoXY](https://blog.nviso.eu/2020/07/06/introducing-ioxy-an-open-source-mqtt-intercepting-proxy/)
-- [MQTT Broker Security - 101](https://payatu.com/blog/dattatray/iot-security-%E2%80%93-part-12-mqtt-broker-security---101)
 - [Welcome to MQTT-PWN!](https://mqtt-pwn.readthedocs.io/en/latest/)
+
+##### *Additional Resources*
+- [WailingCrab Malware Evolves Using MQTT for Stealthier C2 Communication](https://securityonline.info/wailingcrab-malware-evolves-embracing-mqtt-for-stealthier-c2-communication)
+- [Alert: New WailingCrab Malware Loader](https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html)
+- [MQTT on Snapcraft](https://snapcraft.io/search?q=mqtt)
+
 
 #### CoAP
 
