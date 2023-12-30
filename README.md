@@ -415,56 +415,60 @@
 
 ********************************************************************************************************************************
 ### BLE Intro and SW-HW Tools to pentest
+##### *StepByStepGuideToBLEUnderstandingAndExploiting*
+- [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
+- [BLE-NullBlr: Step By Step guide to BLE Understanding and Exploiting](https://github.com/V33RU/BLE-NullBlr)
 
-- [Step By Step guide to BLE Understanding and Exploiting](https://github.com/V33RU/BLE-NullBlr)
-- [Traffic Engineering in a  Bluetooth Piconet](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
-- [BLE Characteristics](https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
-  
-  
- #### Bluetooth and BLE Pentest Tools
- 
-   - [btproxy](https://github.com/conorpp/btproxy)
-   - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
-   - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
-   - [crackle-Cracking encryption](https://github.com/mikeryan/crackle)
-   - [bettercap](https://github.com/bettercap/bettercap)
-   - [BtleJuice Bluetooth Smart Man-in-the-Middle framework](https://github.com/DigitalSecurity/btlejuice)
-   - [gattacker](https://github.com/securing/gattacker)
-   - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
-   - [bluing-An intelligence gathering tool for hacking Bluetooth](https://github.com/fO-000/bluing)
-   - [DEDSEC-Bluetooth-exploit](https://github.com/0xbitx/DEDSEC-Bluetooth-exploit)
- 
- #### Hardware for bluetooth hacking
-  
-   - [NRFCONNECT - 52840](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
-   - [EDIMAX](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
-   - [CSR 4.0](https://www.amazon.in/GENERIC-Ultra-Mini-Bluetooth-Dongle-Adapter/dp/B0117H7GZ6/ref=asc_df_B0117H7GZ6/?tag=googleshopdes-21&linkCode=df0&hvadid=396984700257&hvpos=1o1&hvnetw=g&hvrand=2179727910417729406&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061998&hvtargid=pla-343685677347&psc=1&ext_vrnc=hi)
-   - [ESP32 - Development and learning Bluetooth](https://www.espressif.com/en/products/hardware/esp32/overview)
-   - [Ubertooth](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One)
-   - [Sena 100](http://www.senanetworks.com/ud100-g03.html)
-   - [ESP-WROVER-KIT-VB](https://www.digikey.in/en/products/detail/espressif-systems/ESP-WROVER-KIT-VB/8544301)
+##### *TrafficEngineeringInABluetoothPiconet*
+- [Traffic Engineering in a Bluetooth Piconet (PDF)](http://www.diva-portal.org/smash/get/diva2:833159/FULLTEXT01.pdf)
 
-#### BLE Pentesting Tutorials
+##### *BLECharacteristics*
+- [BLE Characteristics: A Beginner's Tutorial](https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
 
-  - [Blue2thprinting (blue-[tooth)-printing]: answering the question of 'WTF am I even looking at?!'](https://darkmentor.com/publication/2023-11-hardweario/)
-  - [Open Wounds: The last 5 years have left Bluetooth to bleed](https://darkmentor.com/publication/2023-10-hacklu/)
-  - [It Was Harder to Sniff Bluetooth Through My Mask During the Pandemic...](https://darkmentor.com/publication/2023-08-hitb/)
-  - [Bluetooth vs BLE Basics](https://github.com/V33RU/BLE-NullBlr)
-  - [examining-the-august-smart-lock](https://blog.quarkslab.com/examining-the-august-smart-lock.html)
-  - [Finding bugs in Bluetooth](https://bluetooth.lol/)
-  - [Intel Edison as Bluetooth LE — Exploit box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
-  - [How I Reverse Engineered and Exploited a Smart Massager](https://medium.com/@arunmag/how-i-reverse-engineered-and-exploited-a-smart-massager-ee7c9f21bf33)
-  - [My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE](https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2)
-  - [Bluetooth Smartlocks](https://www.getkisi.com/blog/smart-locks-hacked-bluetooth-ble)
-  - [I hacked MiBand 3](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
-  - [GATTacking Bluetooth Smart Devices](https://securing.pl/en/gattacking-bluetooth-smart-devices-introducing-a-new-ble-proxy-tool/index.html)
-  - [blueooth beacon vulnerability](https://www.beaconzone.co.uk/blog/category/security/)
-  - [Sweyntooth Vulnerabilties](https://asset-group.github.io/disclosures/sweyntooth/)
-  - [AIRDROP_LEAK - sniffs BLE traffic and displays status messages from Apple devices](https://github.com/hexway/apple_bleee)
-  - [BRAKTOOTH: Causing Havoc on Bluetooth Link Manager](https://asset-group.github.io/disclosures/braktooth/)
-  - [Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/)
-  - [MojoBox - yet another not so smartlock](https://mandomat.github.io/2023-03-15-testing-mojobox-security/)
-  - [bluetooth-hacking](https://github.com/zedxpace/bluetooth-hacking-)
+##### *Bluetooth And BLEPentestTools*
+- [btproxy](https://github.com/conorpp/btproxy)
+- [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
+- [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
+- [crackle - Cracking encryption](https://github.com/mikeryan/crackle)
+- [bettercap](https://github.com/bettercap/bettercap)
+- [BtleJuice Bluetooth Smart Man-in-the-Middle framework](https://github.com/DigitalSecurity/btlejuice)
+- [gattacker](https://github.com/securing/gattacker)
+- [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
+- [bluing - An intelligence gathering tool for hacking Bluetooth](https://github.com/fO-000/bluing)
+- [DEDSEC-Bluetooth-exploit](https://github.com/0xbitx/DEDSEC-Bluetooth-exploit)
+- 
+
+##### *HardwareForBluetoothHacking*
+- [NRFCONNECT - 52840](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
+- [EDIMAX](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
+- [CSR 4.0](https://www.amazon.in/GENERIC-Ultra-Mini-Bluetooth-Dongle-Adapter/dp/B0117H7GZ6/ref=asc_df_B0117H7GZ6/)
+- [ESP32 - Development and learning Bluetooth](https://www.espressif.com/en/products/hardware/esp32/overview)
+- [Ubertooth](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One)
+- [Sena 100](http://www.senanetworks.com/ud100-g03.html)
+- [ESP-WROVER-KIT-VB](https://www.digikey.in/en/products/detail/espressif-systems/ESP-WROVER-KIT-VB/8544301)
+
+##### *Bluetooth Hacks*
+- [Blue2thprinting: Answering the Question of 'WTF am I even looking at?!'](https://darkmentor.com/publication/2023-11-hardweario/)
+- [Open Wounds: The Last 5 Years Have Left Bluetooth to Bleed](https://darkmentor.com/publication/2023-10-hacklu/)
+- [It Was Harder to Sniff Bluetooth Through My Mask During the Pandemic...](https://darkmentor.com/publication/2023-08-hitb/)
+- [Bluetooth vs BLE Basics](https://github.com/V33RU/BLE-NullBlr)
+- [Examining the August Smart Lock](https://blog.quarkslab.com/examining-the-august-smart-lock.html)
+- [Finding Bugs in Bluetooth](https://bluetooth.lol/)
+- [Intel Edison as Bluetooth LE — Exploit Box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
+- [How I Reverse Engineered and Exploited a Smart Massager](https://medium.com/@arunmag/how-i-reverse-engineered-and-exploited-a-smart-massager-ee7c9f21bf33)
+- [My Journey Towards Reverse Engineering a Smart Band — Bluetooth-LE RE](https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2)
+- [Bluetooth Smartlocks](https://www.getkisi.com/blog/smart-locks-hacked-bluetooth-ble)
+- [I Hacked MiBand 3](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
+- [GATTacking Bluetooth Smart Devices](https://securing.pl/en/gattacking-bluetooth-smart-devices-introducing-a-new-ble-proxy-tool/index.html)
+- [Bluetooth Beacon Vulnerability](https://www.beaconzone.co.uk/blog/category/security/)
+- [Sweyntooth Vulnerabilities](https://asset-group.github.io/disclosures/sweyntooth/)
+- [AIRDROP_LEAK - Sniffs BLE Traffic and Displays Status Messages from Apple Devices](https://github.com/hexway/apple_bleee)
+- [BRAKTOOTH: Causing Havoc on Bluetooth Link Manager](https://asset-group.github.io/disclosures/braktooth/)
+- [Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/)
+- [MojoBox - Yet Another Not So Smartlock](https://mandomat.github.io/2023-03-15-testing-mojobox-security/)
+- [Bluetooth-Hacking](https://github.com/zedxpace/bluetooth-hacking-)
+- [Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023]](https://github.com/francozappa/bluffs)
+
  
 ********************************************************************************************************************************
 ### DECT (Digital Enhanced Cordless Telecommunications)
