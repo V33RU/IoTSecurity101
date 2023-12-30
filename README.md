@@ -425,7 +425,7 @@
 ##### *BLECharacteristics*
 - [BLE Characteristics: A Beginner's Tutorial](https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
 
-##### *Bluetooth And BLEPentestTools*
+##### *Bluetooth And BLE PentestTools*
 - [btproxy](https://github.com/conorpp/btproxy)
 - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
 - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
@@ -436,7 +436,9 @@
 - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
 - [bluing - An intelligence gathering tool for hacking Bluetooth](https://github.com/fO-000/bluing)
 - [DEDSEC-Bluetooth-exploit](https://github.com/0xbitx/DEDSEC-Bluetooth-exploit)
-- 
+- [BrakTooth Proof of Concept-Blutooth Classic Attacks](https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks)
+- [sweyntooth_bluetooth_low_energy_attacks Public](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks)
+- [esp32_bluetooth_classic_sniffer Public](https://github.com/Matheus-Garbelini/esp32_bluetooth_classic_sniffer)
 
 ##### *HardwareForBluetoothHacking*
 - [NRFCONNECT - 52840](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
@@ -446,6 +448,7 @@
 - [Ubertooth](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One)
 - [Sena 100](http://www.senanetworks.com/ud100-g03.html)
 - [ESP-WROVER-KIT-VB](https://www.digikey.in/en/products/detail/espressif-systems/ESP-WROVER-KIT-VB/8544301)
+
 
 ##### *Bluetooth Hacks*
 - [Blue2thprinting: Answering the Question of 'WTF am I even looking at?!'](https://darkmentor.com/publication/2023-11-hardweario/)
