@@ -28,6 +28,7 @@
 
 ### 🛡️ IoT Security Information
 
+#### General Information and Resources
 - [👥 Community and Discussion Platforms](#community-and-discussion-platforms)
 - [🎓 IoT and Hardware Security Trainings](#iot-and-hardware-security-trainings)
 - [🔍 Technical Research and Hacking](#technical-research-and-hacking)
@@ -40,7 +41,7 @@
 - [📺 YouTube Channels for IoT Pentesting](#youtube-channels-for-iot-pentesting)
 - [⚒️ Exploitation Tools](#exploitation-tools)
 - [🖥️ IoT Pentesting OSes](#iot-pentesting-oses)
-- [📘 IoT Vulnerabilities Checking Guides](#iot-vulnerabilites-checking-guides)
+- [📘 IoT Vulnerabilities Checking Guides](#iot-vulnerabilities-checking-guides)
 - [🔬 IoT Labs](#vulnerable-iot-and-hardware-applications)
 - [📖 Awesome IoT Pentesting Guides](#awesome-iot-pentesting-guides)
 - [🐛 Fuzzing Things](#fuzzing-things)
@@ -49,22 +50,20 @@
 - [🏘 Villages](#villages)
 
 ## Specific Topics
+
 #### 🌐 Network
 
 #### 🌐 Web IoT Message Protocols
-
 - [📨 MQTT](#mqtt)
 - [📬 CoAP](#coap)
 
 #### 📱 Mobile App
-
 - [🛡️ Mobile Security (Android & iOS)](#mobile-security-android--ios)
 
 #### 📡 Wireless Protocols
-
 - [📻 Radio Hacking Starting Guide](#Radio-Hacker-Quick-Start-Guide)
 - [📡 Cellular Hacking GSM BTS](#cellular-hacking-gsm-bts)
-- [🐝 Zigbee](#zigbee-aLL-stuff)
+- [🐝 Zigbee](#zigbee-all-stuff)
 - [🔵 Bluetooth](#ble-intro-and-sw-hw-tools-to-pentest)
 - [📞 DECT](#dect-digital-enhanced-cordless-telecommunications)
 - [📲 NFC](#nfc-rfid)
@@ -78,7 +77,6 @@
 - [🔒 **Secureboot**](#secureboot)
 - [🔍 **Binary Analysis**](#binary-analysis)
 
-
 #### 🛠️ **Hardware**
 - [🔎 **IoT Hardware Intro**](#iot-hardware-overview-and-hacking)
 - [🛠️ **Required Hardware to Pentest IoT**](#hardware-gadgets-to-pentest)
@@ -89,13 +87,10 @@
   - [🔌 **TPM**](#tpm)
 - [🛠️ **Side Channel Attacks & Glitching Attacks**](#sidechannel-attacks)
 
-
 #### 💾 Storage Medium
-
 - [📀 EMMC ](#emmc-protocol-and-techniques)
 
 #### 💳 Payment Security
-
 - [💵 ATM Hacking](#ATM-Hacking)
 
 
