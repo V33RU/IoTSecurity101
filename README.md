@@ -406,7 +406,6 @@ A Collection for IoT Security Resources
 - [Zigator](https://github.com/akestoridis/zigator)
 - [Z3sec](https://github.com/IoTsec/Z3sec)
 
-
 #### Hardware Tools for Zigbee
 - [APIMOTE IEEE 802.15.4/ZIGBEE SNIFFING HARDWARE](https://www.riverloopsecurity.com/projects/apimote/)
 - [RaspBee-The Raspberry Pi Zigbee gateway](https://phoscon.de/en/raspbee/)
@@ -516,7 +515,9 @@ A Collection for IoT Security Resources
 - [AZM Online Arm Assembler by Azeria](https://azeria-labs.com/azm/)
 - [Online Disassembler](https://onlinedisassembler.com/odaweb/)
 - [Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go](https://godbolt.org/)
+
 ********************************************************************************************************************************
+
 ### ARM
 
 - [Azeria Labs](https://azeria-labs.com/)
@@ -525,6 +526,7 @@ A Collection for IoT Security Resources
 - [EXPLOIT.EDUCATION](https://exploit.education/)
 
 ********************************************************************************************************************************
+
 ### Pentesting Firmwares and emulating and analyzing
 
 ##### Firmware Analysis Tools
@@ -539,7 +541,6 @@ A Collection for IoT Security Resources
  - [QEMU](https://www.qemu.org/)
  - [Firmadyne](https://github.com/firmadyne/firmadyne)
  - [Firmware Modification Kit](https://code.google.com/archive/p/firmware-mod-kit/)
-
  
 ##### Resources
  - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
@@ -561,11 +562,13 @@ A Collection for IoT Security Resources
 - [Qemu + buildroot 101](https://gitbook.seguranca-informatica.pt/arm/tools/qemu-101)
  
 ********************************************************************************************************************************
+
 ### Firmware samples to pentest
 
  - [Download From here by firmware.center](https://firmware.center/)
 
 ********************************************************************************************************************************
+
 ### Binary Analysis
  - [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
  - [https://www.coalfire.com/the-coalfire-blog/reverse-engineering-and-patching-with-ghidra](https://flattsecurity.medium.com/finding-bugs-to-trigger-unauthenticated-command-injection-in-a-netgear-router-psv-2022-0044-2b394fb9edc)
@@ -575,6 +578,7 @@ A Collection for IoT Security Resources
 
 
 ********************************************************************************************************************************
+
 ### Symlinks Attacks
  - [Zip Slip Vulnerability](https://security.snyk.io/research/zip-slip-vulnerability)
  
