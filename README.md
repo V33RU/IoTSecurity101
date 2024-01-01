@@ -705,14 +705,14 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 
 #### Glitching and Fault Injection Resources
 
- ####*Tutorials and Case Studies*
+ #### *Tutorials and Case Studies*
 - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root) - Gaining root access to a Wink Hub through NAND glitching.
 - [Tutorial CW305-4 Voltage Glitching with Crowbars](https://wiki.newae.com/index.php?title=Tutorial_CW305-4_Voltage_Glitching_with_Crowbars) - Detailed tutorial on voltage glitching using crowbars.
 - [Voltage Glitching Attack using SySS iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw) - A demonstration of a voltage glitching attack by SySS PentestTV.
 - [Samy Kamkar - FPGA Glitching & Side Channel Attacks](https://www.youtube.com/watch?v=oGndiX5tvEk) - Insights on FPGA glitching and side channel attacks from Samy Kamkar.
 - [Hardware Power Glitch Attack - rhme2 Fiesta (FI 100)](https://www.youtube.com/watch?v=6Pf3pY3GxBM) - A hardware power glitch attack demonstration by LiveOverflow.
 
- ####*Specific Techniques and Experiments*
+ #### *Specific Techniques and Experiments*
 - [Keys in flash - Glitching AES keys from an Arduino / ATmega](https://srfilipek.medium.com/keys-in-a-flash-3e984d0de54b) - Extracting AES keys from an Arduino using glitching.
 - [Implementing Practical Electrical Glitching Attacks](https://blackhat.com/docs/eu-15/materials/eu-15-Giller-Implementing-Electrical-Glitching-Attacks.pdf) - A guide on implementing electrical glitching attacks, presented at Black Hat Europe 2015.
 - [How To Voltage Fault Injection](https://www.synacktiv.com/publications/how-to-voltage-fault-injection) - A comprehensive guide on voltage fault injection techniques.
@@ -747,18 +747,18 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 ********************************************************************************************************************************
 ### FlipperZero
 
-####*Custom Firmwares for Flipper Zero*
+#### *Custom Firmwares for Flipper Zero*
 - [Flipper Zero Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware)
 - [RogueMaster Flipper Zero Firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 
-####*Interesting Research on Flipper Zero*
+#### *Interesting Research on Flipper Zero*
 - CVE-2022-40363: [Exploiting Flipper Zero’s NFC file loader](https://vvx7.io/posts/2022/09/your-amiibos-haunted/)
 
-####*Flipper Zero 101: Guides and Resources*
+#### *Flipper Zero 101: Guides and Resources*
 - [Flipper Zero - Starter Guide (YouTube)](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
 - [Awesome Resources for Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
 
-####*Cool Hacks with Flipper Zero*
+#### *Cool Hacks with Flipper Zero*
 - [Gaylord M FOCker - Pwn MIFARE Tags](https://luemmelsec.github.io/gaylord-M-FOCker-ready-to-pwn-your-MIFARE-tags/)
 
   
@@ -776,51 +776,51 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 ******************************************************************************************************************************** 
 ### Vulnerable IoT and Hardware Applications
 
-- IoT: [DVID](https://github.com/Vulcainreo/DVID) - Deliberately vulnerable IoT device firmware for training and educational purposes.
-- Safe: [Damn Vulnerable Safe](https://insinuator.net/2016/01/damn-vulnerable-safe/) - A physical safe designed to be vulnerable, intended for security training.
-- IoT-vulhub: [IoT-vulhub](https://vulntotal-team.github.io/IoT-vulhub/#%E5%AE%89%E8%A3%85) - Collection of Dockerized vulnerable IoT applications for learning about IoT security.
-- Router: [DVRF](https://github.com/praetorian-code/DVRF) - Damn Vulnerable Router Firmware project for understanding router vulnerabilities.
-- SCADA: [Damn Vulnerable Chemical Process](https://www.slideshare.net/phdays/damn-vulnerable-chemical-process) - A presentation on a vulnerable SCADA system for learning purposes.
-- PI: [Sticky Fingers DV-Pi](https://whitedome.com.au/re4son/sticky-fingers-dv-pi/) - A vulnerable Raspberry Pi project for educational use.
-- SS7 Network: [Damn Vulnerable SS7 Network](https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network) - Demonstrates vulnerabilities in SS7 networks.
-- VoIP: [Hacklab VulnVoIP](https://www.vulnhub.com/entry/hacklab-vulnvoip,40/) - A vulnerable VoIP application for learning and training.
-- Hardware Hacking 101: [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking) - A repository for learning the basics of hardware hacking.
-- RHME-2015: [RHme-2015](https://github.com/Riscure/RHme-2015) - Archive of the RHme-2015 hardware hacking competition.
-- RHME-2016: [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Archive of the RHme-2016 hardware hacking competition.
-- RHME-2017: [Rhme-2017](https://github.com/Riscure/Rhme-2017) - Archive of the RHme-2017 hardware hacking competition.
+- IoT: [DVID](https://github.com/Vulcainreo/DVID) - `Deliberately vulnerable IoT device firmware for training and educational purposes.`
+- Safe: [Damn Vulnerable Safe](https://insinuator.net/2016/01/damn-vulnerable-safe/) - `A physical safe designed to be vulnerable, intended for security training.`
+- IoT-vulhub: [IoT-vulhub](https://vulntotal-team.github.io/IoT-vulhub/#%E5%AE%89%E8%A3%85) - `Collection of Dockerized vulnerable IoT applications for learning about IoT security.`
+- Router: [DVRF](https://github.com/praetorian-code/DVRF) - `Damn Vulnerable Router Firmware project for understanding router vulnerabilities.`
+- SCADA: [Damn Vulnerable Chemical Process](https://www.slideshare.net/phdays/damn-vulnerable-chemical-process) - `A presentation on a vulnerable SCADA system for learning purposes.`
+- PI: [Sticky Fingers DV-Pi](https://whitedome.com.au/re4son/sticky-fingers-dv-pi/) - `A vulnerable Raspberry Pi project for educational use.`
+- SS7 Network: [Damn Vulnerable SS7 Network](https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network) - `Demonstrates vulnerabilities in SS7 networks.`
+- VoIP: [Hacklab VulnVoIP](https://www.vulnhub.com/entry/hacklab-vulnvoip,40/) - `A vulnerable VoIP application for learning and training.`
+- Hardware Hacking 101: [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking) - `A repository for learning the basics of hardware hacking.`
+- RHME-2015: [RHme-2015](https://github.com/Riscure/RHme-2015) - `Archive of the RHme-2015 hardware hacking competition.`
+- RHME-2016: [Rhme-2016](https://github.com/Riscure/Rhme-2016) - `Archive of the RHme-2016 hardware hacking competition.`
+- RHME-2017: [Rhme-2017](https://github.com/Riscure/Rhme-2017) - `Archive of the RHme-2017 hardware hacking competition.`
 
 ### CTF For IoT And Embeddded
 
 #### Awesome Hardware, IoT, Firmware, ARM, and Reverse Engineering CTFs and Platforms
 
-####*Hardware CTFs*
+#### *Hardware CTFs*
 
 - [BLE CTF](https://github.com/hackgnar/ble_ctf) - A framework focused on Bluetooth Low Energy security.
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure's hardware security competition for 2016.
 - [Rhme-2017](https://github.com/Riscure/Rhme-2017) - Riscure's hardware security competition for 2017.
 
-####*IoT CTFs*
+#### *IoT CTFs*
 
 - [IoTGoat](https://github.com/scriptingxss/IoTGoat) - Deliberately insecure firmware based on OpenWrt for IoT security training.
 - [IoT Village CTF](https://www.iotvillage.org/) - A Capture The Flag event specifically focused on IoT security.
 - [IoTSec CTF](https://ctf.iotsec.io/) - Offers IoT related challenges for continuous learning.
 
-####*Firmware CTFs*
+#### *Firmware CTFs*
 
 - [Damn Vulnerable ARM Router](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html) - A deliberately vulnerable ARM router for exploitation practice.
 - [Firmware Security Training & CTF](https://github.com/0x6d696368/RouterAnalysisToolkit) - Firmware analysis tools and challenges by Router Analysis Toolkit.
 
-####*ARM CTFs*
+#### *ARM CTFs*
 
 - [ARM-X CTF](https://github.com/therealsaumil/armx) - A set of challenges focused on ARM exploitation.
 - [Azeria Labs ARM Challenges](https://azeria-labs.com/writing-arm-assembly-part-1/) - Offers ARM assembly challenges and tutorials.
   
-####*Reverse Engineering CTFs*
+#### *Reverse Engineering CTFs*
 
 - [Microcorruption](https://www.microcorruption.com/) - Embedded security CTF focusing on lock systems.
 - [Pwnable.kr](https://pwnable.kr/) - Offers various reverse engineering challenges.
 
-####*Platforms for Continuous Learning*
+#### *Platforms for Continuous Learning*
 
 - [Hack The Box](https://www.hackthebox.eu/) - Platform offering a range of challenges, including hardware and reverse engineering.
 - [Root Me](https://www.root-me.org/) - Platform with various types of challenges including hardware and reverse engineering.
