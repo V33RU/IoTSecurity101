@@ -3,10 +3,11 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
 
-- A Collection for IoT Security Resources
+##### A Collection for IoT Security Resources
 - You are welcome to fork and [contribute](https://github.com/V33RU/IoTSecurity101/blob/master/contributors.md#contributors)
 
- - Other Interesting Areas:
+	##### Other Interesting Areas:
+
  	- [ICS-Security](https://github.com/V33RU/IoTSecurity101/blob/master/ICS/Industrial%20Control%20Systems.md)
 	- [Automotive-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Automotive/Automotive-security.md)
 
