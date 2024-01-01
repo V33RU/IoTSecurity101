@@ -508,7 +508,7 @@ Other Interesting Areas:
 - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/) - The Open Web Application Security Project's guide for mobile security testing, applicable to iOS.
 
 ********************************************************************************************************************************
- ### Villages
+### Villages
 
  - [Payment Villages](https://www.paymentvillage.org/home)
  - [ICS Village](https://www.icsvillage.com/)
@@ -524,7 +524,6 @@ Other Interesting Areas:
 - [Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go](https://godbolt.org/)
 
 ********************************************************************************************************************************
-
 ### ARM
 
 - [Azeria Labs](https://azeria-labs.com/)
@@ -533,10 +532,9 @@ Other Interesting Areas:
 - [EXPLOIT.EDUCATION](https://exploit.education/)
 
 ********************************************************************************************************************************
-
 ### Pentesting Firmwares and emulating and analyzing
 
-##### Firmware Analysis Tools
+#### *Firmware Analysis Tools*
  - [EMBA-An analyzer for embedded Linux firmware](https://p4cx.medium.com/emba-b370ce503602)
  - [FACT-Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core)
  - [Binwalk](https://github.com/ReFirmLabs/binwalk)
@@ -549,7 +547,7 @@ Other Interesting Areas:
  - [Firmadyne](https://github.com/firmadyne/firmadyne)
  - [Firmware Modification Kit](https://code.google.com/archive/p/firmware-mod-kit/)
  
-##### Resources
+#### *Resources*
  - [Firmware analysis and reversing](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
  - [Reversing 101](https://0xinfection.github.io/reversing/)
  - [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS)
@@ -563,7 +561,7 @@ Other Interesting Areas:
  - [Reverse engineering with #Ghidra: Breaking an embedded firmware encryption scheme](https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing)
  - [Simulating and hunting firmware vulnerabilities with Qiling](https://blog.vincss.net/2020/12/pt007-simulating-and-hunting-firmware-vulnerabilities-with-Qiling.html?m=1&s=09)
 
-#### Firmware Dev && Firmware Emulation
+#### *Firmware Dev && Firmware Emulation*
 - [IoT binary analysis & emulation part -1](https://hacklido.com/blog/529-iot-binary-analysis-emulation-part-1)
 - [ross debugging for ARM / MIPS ELF with QEMU/toolchain](https://reverseengineering.stackexchange.com/questions/8829/cross-debugging-for-arm-mips-elf-with-qemu-toolchain)
 - [Qemu + buildroot 101](https://gitbook.seguranca-informatica.pt/arm/tools/qemu-101)
@@ -591,10 +589,10 @@ Other Interesting Areas:
  
 ********************************************************************************************************************************
 ### Secureboot
-#### Dev
+#### *Dev*
 - [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 
-#### Hacking
+#### *Hacking*
 - [Pwn the ESP32 Secure Boot](https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/)
 - [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
 - [Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM](https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html) / [Alternative Link](https://www.cnx-software.com/2016/10/06/hacking-arm-trustzone-secure-boot-on-amlogic-s905-soc/)
@@ -662,8 +660,8 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 
 #### SPI
 
-  - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html): A tutorial on how to use Bus Pirate, a universal bus interface, to dump firmware from a router via SPI.
-  - [How to Flash Chip of a Router With a Programmer | TP-Link Router Repair & MAC address change](https://www.youtube.com/watch?v=fbt4OJXJdOc&ab_channel=ElectricalProjects%5BCreativeLab%5D): 
+  - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html): A tutorial on how to use Bus Pirate, a universal bus interface, to dump firmware from a router via SPI
+  - [How to Flash Chip of a Router With a Programmer](https://www.youtube.com/watch?v=fbt4OJXJdOc&ab_channel=ElectricalProjects%5BCreativeLab%5D)
   - [Extracting Flash Memory over SPI](https://akimbocore.com/article/extracting-flash-memory-over-spi/)
   - [Extracting Firmware from Embedded Devices (SPI NOR Flash)](https://www.youtube.com/watch?v=nruUuDalNR0&ab_channel=FlashbackTeam)
   - [SPI-Blogs](https://www.google.com/search?q=%22spi+dump%22&source=hp&ei=5jv9YaW6JNvl2roPgbGqMA&iflsig=AHkkrS4AAAAAYf1J9qNY6Snarz3dsHr9KXF1YSY6AKVL&ved=0ahUKEwilxY3apOb1AhXbslYBHYGYCgYQ4dUDCAg&uact=5&oq=%22spi+dump%22&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeUABYAGC-A2gAcAB4AIABYIgBYJIBATGYAQCgAQKgAQE&sclient=gws-wiz)
