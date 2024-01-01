@@ -1,3 +1,5 @@
-theme: pages-themes/midnight@v0.2.0
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
