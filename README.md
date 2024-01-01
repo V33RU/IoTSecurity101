@@ -271,10 +271,17 @@ Other Interesting Areas:
 ********************************************************************************************************************************
 ### Reverse Engineering Tools
 
-- [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
-- [GDB](https://www.youtube.com/watch?v=fgMl0Uqiey8)
-- [Radare2](https://book.rada.re/) | [cutter](https://cutter.re/)
-- [Ghidra](https://ghidra-sre.org/)
+- [IDA Pro](https://www.hex-rays.com/products/ida/): An interactive disassembler that provides extensive information about binary code and is widely used for static analysis.
+- [GDB](https://www.gnu.org/software/gdb/): The GNU Project Debugger allows you to see what is going on 'inside' another program while it executes or what another program was doing at the moment it crashed.
+- [Radare2](https://www.rada.re/n/): An open-source framework for reverse engineering and analyzing binaries; includes a disassembler for multiple architectures.
+- [Cutter](https://cutter.re/): A Qt and C++ GUI for Radare2, aiming to provide a more user-friendly interface as well as additional features.
+- [Ghidra](https://ghidra-sre.org/): A software reverse engineering suite of tools developed by NSA that includes a decompiler, assembler, disassembler, and other tools to analyze binaries.
+- [Binary Ninja](https://binary.ninja/): A reverse engineering platform that is an alternative to IDA Pro, with a focus on binary analysis for security research and reverse engineering.
+- [OllyDbg](http://www.ollydbg.de/): An x86 debugger that emphasizes binary code analysis, which is useful for reverse engineering and finding security vulnerabilities.
+- [x64dbg](https://x64dbg.com/): An open-source x64/x32 debugger for windows with a focus on plugin support and scriptability.
+- [Hopper](https://www.hopperapp.com/): A reverse engineering tool for macOS and Linux that lets you disassemble, decompile and debug your applications.
+- [Immunity Debugger](https://www.immunityinc.com/products/debugger/): A powerful debugger for analyzing malware and reverse engineering with an integrated Python scripting interface for automation.
+- [PEiD](https://www.aldeid.com/wiki/PEiD): A tool that detects most common packers, cryptors, and compilers for PE files and is useful for reverse engineering of malware.
 
 ********************************************************************************************************************************
 ### Introduction
@@ -300,7 +307,7 @@ Other Interesting Areas:
 - [Eclipse Mosquitto MQTT broker 2.0.9 - 'mosquitto' Unquoted Service Path](https://www.exploit-db.com/exploits/49673)
 - [IoT Security: RCE in MQTT Protocol](https://systemweakness.com/iot-security-rce-in-mqtt-protocol-929e533f12b4)
 - [Penetration testing of Sesame Smart door lock](https://www.diva-portal.org/smash/get/diva2:1750933/FULLTEXT01.pdf)
-- 
+
 ##### *Known Vulnerabilities and CVE IDs of MQTT Protocol*
 - [CVE-2020-13849](https://nvd.nist.gov/vuln/detail/CVE-2020-13849): A vulnerability in MQTT protocol 3.1.1, allowing remote attackers to cause a denial of service. CVSS score: 7.5 (High).
 - [CVE-2023-3028](https://nvd.nist.gov/vuln/detail/CVE-2023-3028): Involves insufficient authentication in MQTT backend, leading to potential data access and manipulation. CVSS score: 9.8 (Critical).
