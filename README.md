@@ -705,14 +705,14 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 
 #### Glitching and Fault Injection Resources
 
- #### *Tutorials and Case Studies*
+ ##### *Tutorials and Case Studies*
 - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root) - Gaining root access to a Wink Hub through NAND glitching.
 - [Tutorial CW305-4 Voltage Glitching with Crowbars](https://wiki.newae.com/index.php?title=Tutorial_CW305-4_Voltage_Glitching_with_Crowbars) - Detailed tutorial on voltage glitching using crowbars.
 - [Voltage Glitching Attack using SySS iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw) - A demonstration of a voltage glitching attack by SySS PentestTV.
 - [Samy Kamkar - FPGA Glitching & Side Channel Attacks](https://www.youtube.com/watch?v=oGndiX5tvEk) - Insights on FPGA glitching and side channel attacks from Samy Kamkar.
 - [Hardware Power Glitch Attack - rhme2 Fiesta (FI 100)](https://www.youtube.com/watch?v=6Pf3pY3GxBM) - A hardware power glitch attack demonstration by LiveOverflow.
 
- #### *Specific Techniques and Experiments*
+ ##### *Specific Techniques and Experiments*
 - [Keys in flash - Glitching AES keys from an Arduino / ATmega](https://srfilipek.medium.com/keys-in-a-flash-3e984d0de54b) - Extracting AES keys from an Arduino using glitching.
 - [Implementing Practical Electrical Glitching Attacks](https://blackhat.com/docs/eu-15/materials/eu-15-Giller-Implementing-Electrical-Glitching-Attacks.pdf) - A guide on implementing electrical glitching attacks, presented at Black Hat Europe 2015.
 - [How To Voltage Fault Injection](https://www.synacktiv.com/publications/how-to-voltage-fault-injection) - A comprehensive guide on voltage fault injection techniques.
