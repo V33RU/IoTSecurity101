@@ -538,6 +538,7 @@ Other Interesting Areas:
  - [EMBA-An analyzer for embedded Linux firmware](https://p4cx.medium.com/emba-b370ce503602)
  - [FACT-Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core)
  - [Binwalk](https://github.com/ReFirmLabs/binwalk)
+ - [fwhunt-scanner-Tools for analyzing UEFI firmware and checking UEFI modules with FwHunt rules](https://github.com/binarly-io/fwhunt-scan)
  - [Qiling](https://github.com/qilingframework/qiling)
  - [fwanalyzer](https://github.com/cruise-automation/fwanalyzer)
  - [ByteSweep](https://gitlab.com/bytesweep/bytesweep)
@@ -560,11 +561,20 @@ Other Interesting Areas:
  - [Qiling & Binary Emulation for automatic unpacking](https://kernemporium.github.io/articles/en/auto_unpacking/m.html)
  - [Reverse engineering with #Ghidra: Breaking an embedded firmware encryption scheme](https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing)
  - [Simulating and hunting firmware vulnerabilities with Qiling](https://blog.vincss.net/2020/12/pt007-simulating-and-hunting-firmware-vulnerabilities-with-Qiling.html?m=1&s=09)
+ - [Using Symbolic Execution to Detect UEFI Firmware Vulnerabilities](https://binarly.io/posts/Using_Symbolic_Execution_to_Detect_UEFI_Firmware_Vulnerabilities/index.html)
+ - [Binarly Finds Six High Severity Firmware Vulnerabilities in HP Enterprise Devices](https://www.binarly.io/posts/Binarly_Finds_Six_High_Severity_Firmware_Vulnerabilities_in_HP_Enterprise_Devices/index.html)
+ - [Emulating and Exploiting UEFI Firmware](https://margin.re/2023/09/emulating-and-exploiting-uefi-firmware/)
+ - 
 
 #### *Firmware Dev && Firmware Emulation*
 - [IoT binary analysis & emulation part -1](https://hacklido.com/blog/529-iot-binary-analysis-emulation-part-1)
 - [ross debugging for ARM / MIPS ELF with QEMU/toolchain](https://reverseengineering.stackexchange.com/questions/8829/cross-debugging-for-arm-mips-elf-with-qemu-toolchain)
 - [Qemu + buildroot 101](https://gitbook.seguranca-informatica.pt/arm/tools/qemu-101)
+- [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)
+- [Adaptive Emulation Framework for Multi-Architecture IoT Firmware Testing](https://www.techscience.com/cmc/v75n2/52069/pdf)
+- [Automatic Firmware Emulation through Invalidity-guided Knowledge Inference](https://www.usenix.org/conference/usenixsecurity21/presentation/zhou)
+- [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
+- 
  
 ********************************************************************************************************************************
 
