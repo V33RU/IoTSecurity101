@@ -679,6 +679,8 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 
 #### UART
 
+   - [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot](https://voidstarsec.com/blog/uart-uboot-and-usb)
+   - [Router Analysis Part 1: UART Discovery and SPI Flash Extraction](https://wrongbaud.github.io/posts/router-teardown/)
    - [Identifying UART interface](https://www.mikroe.com/blog/uart-serial-communication)
    - [onewire-over-uart](https://github.com/dword1511/onewire-over-uart)
    - [Accessing sensor via UART](http://home.wlu.edu/~levys/courses/csci250s2017/SensorsSignalsSerialSockets.pdf)
