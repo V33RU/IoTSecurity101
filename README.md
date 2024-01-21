@@ -294,7 +294,9 @@ Other Interesting Areas:
 ********************************************************************************************************************************
 ### IoT Web and Message Services 
 
-#### MQTT
+### IoT Web and Message Services 
+
+#### **MQTT**
 
 ##### *Introduction to MQTT*
 - [Introduction to MQTT](https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
@@ -303,7 +305,7 @@ Other Interesting Areas:
 - [MQTT Broker Security - 101](https://payatu.com/blog/mqtt-broker-security/)
 - [Hacking the IoT with MQTT](https://morphuslabs.com/hacking-the-iot-with-mqtt-8edaf0d07b9b)
 - [Are Smart Homes Vulnerable to Hacking?](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
--[Servisnet Tessa - MQTT Credentials Dump (Unauthenticated) (Metasploit)](https://www.exploit-db.com/exploits/50713)
+- [Servisnet Tessa - MQTT Credentials Dump (Unauthenticated) (Metasploit)](https://www.exploit-db.com/exploits/50713)
 - [Eclipse Mosquitto MQTT broker 2.0.9 - 'mosquitto' Unquoted Service Path](https://www.exploit-db.com/exploits/49673)
 - [IoT Security: RCE in MQTT Protocol](https://systemweakness.com/iot-security-rce-in-mqtt-protocol-929e533f12b4)
 - [Penetration testing of Sesame Smart door lock](https://www.diva-portal.org/smash/get/diva2:1750933/FULLTEXT01.pdf)
