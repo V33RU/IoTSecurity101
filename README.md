@@ -672,7 +672,8 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 
 #### SPI
 
-  - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html): A tutorial on how to use Bus Pirate, a universal bus interface, to dump firmware from a router via SPI
+  - [Dumping the firmware From Router using BUSPIRATE - SPI Dump](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
+  - [TPM 2.0: Extracting Bitlocker keys through SPI](https://lucasteske.dev/2024/01/tpm2-bitlocker-keys)
   - [How to Flash Chip of a Router With a Programmer](https://www.youtube.com/watch?v=fbt4OJXJdOc&ab_channel=ElectricalProjects%5BCreativeLab%5D)
   - [Extracting Flash Memory over SPI](https://akimbocore.com/article/extracting-flash-memory-over-spi/)
   - [Extracting Firmware from Embedded Devices (SPI NOR Flash)](https://www.youtube.com/watch?v=nruUuDalNR0&ab_channel=FlashbackTeam)
