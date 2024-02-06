@@ -702,6 +702,7 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
    - [Extracting Firmware from External Memory via JTAG](https://www.youtube.com/watch?v=IadnBUJAvks&ab_channel=JoeGrand)
    - [Analyzing JTAG](https://nse.digital/pages/guides/hardware/jtag.html)
    - [The hitchhacker’s guide to iPhone Lightning & JTAG hacking](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/stacksmashing%20-%20The%20hitchhackers%20guide%20to%20iPhone%20Lightning%20%20%20JTAG%20hacking.pdf)
+   - [Debugging 8-bit AVR® microcontrollers trhough JTAG and AVR-gdb](https://hev0x.github.io/posts/debugging-avr-with-atmelice-and-gdb/)
 
 #### TPM
    - [Introduction to TPM (Trusted Platform Module)](https://sergioprado.blog/introduction-to-tpm-trusted-platform-module/)
