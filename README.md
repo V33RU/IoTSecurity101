@@ -444,7 +444,6 @@ Other Interesting Areas:
 - [BtleJuice Bluetooth Smart Man-in-the-Middle framework](https://github.com/DigitalSecurity/btlejuice)
 - [gattacker](https://github.com/securing/gattacker)
 - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
-- [bluing - An intelligence gathering tool for hacking Bluetooth](https://github.com/fO-000/bluing)
 - [DEDSEC-Bluetooth-exploit](https://github.com/0xbitx/DEDSEC-Bluetooth-exploit)
 - [BrakTooth Proof of Concept-Blutooth Classic Attacks](https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks)
 - [sweyntooth_bluetooth_low_energy_attacks Public](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks)
