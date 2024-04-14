@@ -389,6 +389,7 @@ Other Interesting Areas:
 - [SS7 Network Architecture](https://youtu.be/pg47dDUL1T0)
 - [Introduction to SS7 Signaling](https://www.patton.com/whitepapers/Intro_to_SS7_Tutorial.pdf)
 - [Breaking LTE on Layer Two](https://alter-attack.net/)
+- [LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer)
 
 #### Hardware Tools 
 - [Fake BTS Detector (SCL-8521)](https://www.shoghicom.com/fake-bts-detector.php)
