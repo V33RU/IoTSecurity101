@@ -203,6 +203,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - https://github.com/Riscure/Rhme-2017
 - https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
 - https://github.com/scriptingxss/IoTGoat
+- https://exploitthis.ctfd.io
 
 ********************************************************************************************************************************
 ### YouTube Channels for IoT Pentesting
