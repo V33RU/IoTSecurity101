@@ -183,6 +183,11 @@ Other Interesting Areas:
 - [Automotive Cybersecurity Engineering Handbook: The automotive engineer's roadmap to cyber-resilient vehicles Series](https://www.amazon.in/Automotive-Cybersecurity-Engineering-Handbook-cyber-resilient/dp/1801076537)
 - [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/)
 
+#### 2024
+- [Microcontroller Exploits](https://nostarch.com/microcontroller-exploits)
+- [Metasploit, 2nd Edition](https://nostarch.com/metasploit-2nd-edition)
+- [Engineering Secure Devices](https://nostarch.com/engineering-secure-devices)
+
 
 ********************************************************************************************************************************
 
