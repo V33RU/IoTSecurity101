@@ -874,6 +874,7 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 #### *🌐 IoT Security Blogs*
 
 - [wrongbaud](https://wrongbaud.github.io/)
+- [Firmware Analysis](https://fwanalysis.blogspot.com/)
 - [**voidstarsec**](https://voidstarsec.com/blog/)
 - [**Exploitee.rs Website**](https://www.exploitee.rs/)
 - [**Jilles.com**](https://jilles.com/)
