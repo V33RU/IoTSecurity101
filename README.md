@@ -826,7 +826,7 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 - [IoTSec CTF](https://ctf.iotsec.io/) - Offers IoT related challenges for continuous learning.
 
 #### *Firmware CTFs*
-
+- [Emulate to Exploitate](https://exploitthis.ctfd.io )
 - [Damn Vulnerable ARM Router](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html) - A deliberately vulnerable ARM router for exploitation practice.
 - [Firmware Security Training & CTF](https://github.com/0x6d696368/RouterAnalysisToolkit) - Firmware analysis tools and challenges by Router Analysis Toolkit.
 
