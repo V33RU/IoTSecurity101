@@ -187,6 +187,7 @@ Other Interesting Areas:
 - [Microcontroller Exploits](https://nostarch.com/microcontroller-exploits)
 - [Metasploit, 2nd Edition](https://nostarch.com/metasploit-2nd-edition)
 - [Engineering Secure Devices](https://nostarch.com/engineering-secure-devices)
+- [The Ultimate Hardware Hacking Gear Guide](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-)
 
 
 ********************************************************************************************************************************
