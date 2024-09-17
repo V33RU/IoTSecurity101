@@ -41,7 +41,7 @@ We are deeply grateful to everyone who has contributed to this project. Your har
 
 | Name                              | Role             | Link                                                                 |
 |----------------------------------- |------------------|----------------------------------------------------------------------|
-| [Mr-IoT (Veera)](https://github.com/v33ru)           | Project Lead     | [LinkedIn](https://www.linkedin.com/in/veeraiot/)                                 |
+| [Mr-IoT](https://github.com/v33ru)           | Project Lead     | [LinkedIn](https://www.linkedin.com/in/veeraiot/)                                 |
 | [Mohammed Saqeeb Shariff](https://www.linkedin.com/in/mdsaqeeb/) | Core Team Member | [LinkedIn](https://www.linkedin.com/in/mdsaqeeb/)                     |
 | [Kartheek Lade](https://github.com/KartheekLade)     | Core Team Member | [LinkedIn](https://www.linkedin.com/in/kartheeklade/)                             |
 
