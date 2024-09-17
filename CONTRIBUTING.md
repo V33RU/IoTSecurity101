@@ -1,40 +1,56 @@
 # Contributors
 
-This file lists all the individuals who have contributed to this project. We value each contribution and thank everyone for their hard work. Below are guidelines for contributing to this project.
+We are deeply grateful to everyone who has contributed to this project. Your hard work and dedication have helped shape it into what it is today. Below are the guidelines for contributing, as well as the list of all our amazing contributors.
 
 ## Contribution Guidelines
 
 ### How to Contribute
 
 1. **Fork the Repository:**
-   - Begin by forking the repository and cloning it to your local machine.
-2. **Create a Branch:**
-   - Create a new branch for your contribution. Name it appropriately.
+   - Start by forking the repository and cloning it to your local development environment.
+   
+2. **Create a New Branch:**
+   - Create a new branch for your contribution, following a clear and descriptive naming convention (e.g., `feature/add-login`, `fix/bug-123`).
+   
 3. **Make Your Changes:**
-   - Make the necessary changes/additions to the codebase or documentation.
-4. **Commit Changes:**
-   - Commit your changes with a clear and descriptive commit message.
+   - Implement the changes, whether it's improving the codebase, fixing bugs, or enhancing the documentation.
+   
+4. **Write Clear Commits:**
+   - Commit your changes with a concise and informative commit message (e.g., "Fix issue #123: Handle edge case in login flow").
+   
 5. **Push to Your Fork:**
-   - Push the changes to your fork of the repository.
-6. **Submit a Pull Request:**
-   - Create a pull request against our repository. Provide a clear description of the changes and reference any related issues.
+   - Push your local branch to your forked repository on GitHub.
+   
+6. **Submit a Pull Request (PR):**
+   - Submit a pull request to our repository with a thorough description of the changes you’ve made. Please link to any related issues.
 
 ### Contribution Review Process
 
-- After submitting a pull request, the maintainers will review your contribution.
-- Feedback or requests for changes may be provided.
-- Once approved, your contribution will be merged into the main codebase.
+- Once your pull request is submitted, the core team will review your changes.
+- You may receive feedback or suggestions for further improvements.
+- After the review and any necessary adjustments, your contribution will be merged into the main codebase.
 
 ### Code of Conduct
 
-- All contributors are expected to adhere to the project's code of conduct.
-- Respectful and constructive communication is required at all times.
+- We expect all contributors to follow our [Code of Conduct](link-to-code-of-conduct). Be respectful, inclusive, and professional at all times.
+- Constructive and polite communication is a must.
+
+---
 
 ## Core Team
 
-- [Mr-IoT](https://github.com/v33ru) - Project Lead
+| Name                              | Role             | Link                                                                 |
+|----------------------------------- |------------------|----------------------------------------------------------------------|
+| [Mr-IoT (Veera)](https://github.com/v33ru)           | Project Lead     | [LinkedIn](https://www.linkedin.com/in/veeraiot/)                                 |
+| [Mohammed Saqeeb Shariff](https://www.linkedin.com/in/mdsaqeeb/) | Core Team Member | [LinkedIn](https://www.linkedin.com/in/mdsaqeeb/)                     |
+| [Kartheek Lade](https://github.com/KartheekLade)     | Core Team Member | [LinkedIn](https://www.linkedin.com/in/kartheeklade/)                             |
+
+
+---
 
 ## Contributors
+
+Thank you to all our contributors, listed below, for their invaluable contributions:
 
    1. [Besimaltnok](https://github.com/besimaltnok)
    2. [David Sopas](https://github.com/dsopas)
@@ -42,14 +58,13 @@ This file lists all the individuals who have contributed to this project. We val
    4. [Thomas](https://github.com/thom-s)
    5. [Ajmal Aboobacker](https://github.com/B3EF)
    6. [RDxR10](https://github.com/RDxR10)
-   7. [Mohammed Saqeeb Shariff](https://www.linkedin.com/in/mdsaqeeb/)
-   8. [9lyph](https://github.com/9lyph)
-   9. [Besim ALTINOK](https://github.com/besimaltnok)
-   10. [NaimulIslam9m](https://github.com/NaimulIslam9m)
-   11. [beyefendi](https://github.com/beyefendi)
-   12. [Kartheek Lade](https://github.com/KartheekLade)
+   7. [9lyph](https://github.com/9lyph)
+   8. [Besim ALTINOK](https://github.com/besimaltnok)
+   9. [NaimulIslam9m](https://github.com/NaimulIslam9m)
+   10. [beyefendi](https://github.com/beyefendi)
 
+---
 
 ## Acknowledgements
 
-Special thanks to all contributors for their valuable input and dedication to the project.
+We would like to extend a special thank you to everyone who has contributed to this project. Whether you’ve written code, helped with documentation, or provided feedback, your efforts have been greatly appreciated. Together, we continue to build something amazing!
