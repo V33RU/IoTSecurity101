@@ -546,7 +546,7 @@ Other Interesting Areas:
 #### *Firmware Analysis Tools*
  - [EMBA-An analyzer for embedded Linux firmware](https://p4cx.medium.com/emba-b370ce503602)
  - [FACT-Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core)
- - [Binwalk](https://github.com/ReFirmLabs/binwalk)
+ - [Binwalk-v3](https://github.com/ReFirmLabs/binwalk/tree/binwalkv3)
  - [fwhunt-scanner-Tools for analyzing UEFI firmware and checking UEFI modules with FwHunt rules](https://github.com/binarly-io/fwhunt-scan)
  - [Qiling](https://github.com/qilingframework/qiling)
  - [fwanalyzer](https://github.com/cruise-automation/fwanalyzer)
