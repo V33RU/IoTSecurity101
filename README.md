@@ -873,7 +873,7 @@ Explore the world of EMMC hacking with these curated resources. Whether you're n
 ### Blogs for IoT Pentest
 
 #### *🌐 IoT Security Blogs*
-
+- [Team82 Research](https://claroty.com/team82/research)
 - [wrongbaud](https://wrongbaud.github.io/)
 - [Firmware Analysis](https://fwanalysis.blogspot.com/)
 - [**voidstarsec**](https://voidstarsec.com/blog/)
