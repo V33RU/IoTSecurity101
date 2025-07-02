@@ -1,3 +1,19 @@
+<h1 align="center">🔐 IoT Security 101</h1>
+<p align="center">A curated repository of IoT and embedded‑device security knowledge.</p>
+
+<p align="center">
+  <img src="path/to/banner.png" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/V33RU/IoTSecurity101/stargazers"><img src="https://img.shields.io/github/stars/V33RU/IoTSecurity101.svg" /></a>
+  <a href="https://github.com/V33RU/IoTSecurity101/network"><img src="https://img.shields.io/github/forks/V33RU/IoTSecurity101.svg" /></a>
+  <a href="https://github.com/V33RU/IoTSecurity101/blob/master/LICENSE"><img src="https://img.shields.io/github/license/V33RU/IoTSecurity101.svg"/></a>
+</p>
+
+-----------
+
+
 ![](/101-final/banner.png)
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
