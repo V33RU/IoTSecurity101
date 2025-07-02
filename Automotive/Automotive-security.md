@@ -101,12 +101,12 @@ Note: Explore each link to dig more into your topic of interest.
 
 #### Real-World Exploits
 
-- **Kia License Plate API Bug** - Remote control via backend endpoint.
-- **Škoda Mobile App Vulnerability** - Weak backend auth led to data & location leaks.
-- **Nissan Leaf VIN Bug** - Climate and trip data control via known VINs.
+- **Kia License Plate API Bug** - Remote control via backend endpoint. - [link](https://samcurry.net/hacking-kia)
+- **Škoda Mobile App Vulnerability** - Weak backend auth led to data & location leaks. - [link](https://blog.vensis.pl/2019/11/vw-hacking/)
+- **Nissan Leaf VIN Bug** - Climate and trip data control via known VINs. - [link](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/)
 - **Pwn2Own Automotive**
-  - Alpine & Sony IVI RCE
-  - Tesla EV Charger Remote Exploit
+  - Alpine & Sony IVI RCE 
+  - Tesla EV Charger Remote Exploit - [link](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector)
 
 #### New Tools and Repos
 
