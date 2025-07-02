@@ -1,9 +1,10 @@
-<h1 align="center">🔐 IoT Security 101</h1>
+<h1 align="center">🔐 IoT Security Resources</h1>
 <p align="center">A curated repository of IoT and embedded‑device security knowledge.</p>
 
 <p align="center">
-  <img src="path/to/banner.png" />
+  <img src="/101-final/banner.png" />
 </p>
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
 <p align="center">
   <a href="https://github.com/V33RU/IoTSecurity101/stargazers"><img src="https://img.shields.io/github/stars/V33RU/IoTSecurity101.svg" /></a>
@@ -13,13 +14,6 @@
 
 -----------
 
-
-![](/101-final/banner.png)
-
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
-
-
-A Collection for IoT Security Resources
 - You are welcome to fork and [contribute](https://github.com/V33RU/IoTSecurity101/blob/master/contributors.md#contributors)
 
 Other Interesting Areas:
