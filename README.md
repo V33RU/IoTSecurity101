@@ -13,14 +13,17 @@
   <a href="https://github.com/V33RU/IoTSecurity101/blob/master/LICENSE"><img src="https://img.shields.io/github/license/V33RU/IoTSecurity101.svg"/></a>
 </p>
 
------------
-
-- You are welcome to fork and [contribute](https://github.com/V33RU/IoTSecurity101/blob/master/contributors.md#contributors)
-
-Other Interesting Areas:
-
- - [ICS-Security](https://github.com/V33RU/IoTSecurity101/blob/master/ICS/Industrial%20Control%20Systems.md)
- - [Automotive-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Automotive/Automotive-security.md)
+<p align="center">
+  <a href="https://github.com/V33RU/IoTSecurity101/blob/master/ICS/Industrial%20Control%20Systems.md">
+    <img src="https://img.shields.io/badge/ICS%20Security-%F0%9F%94%8D-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/V33RU/IoTSecurity101/blob/master/Automotive/Automotive-security.md">
+    <img src="https://img.shields.io/badge/Automotive%20Security-%F0%9F%9A%97-green?style=for-the-badge">
+  </a>
+  <a href="https://github.com/V33RU/IoTSecurity101/blob/master/contributors.md#contributors">
+    <img src="https://img.shields.io/badge/Contribute-%F0%9F%A4%9D-purple?style=for-the-badge">
+  </a>
+</p>
 
 ********************************************************************************************************************************
 
