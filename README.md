@@ -20,7 +20,7 @@
   <a href="https://github.com/V33RU/IoTSecurity101/blob/master/Automotive/Automotive-security.md">
     <img src="https://img.shields.io/badge/Automotive%20Security-%F0%9F%9A%97-green?style=for-the-badge">
   </a>
-  <a href="https://github.com/V33RU/IoTSecurity101/blob/master/contributors.md#contributors">
+  <a href="https://github.com/V33RU/IoTSecurity101/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Contribute-%F0%9F%A4%9D-purple?style=for-the-badge">
   </a>
 </p>
