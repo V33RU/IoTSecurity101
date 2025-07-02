@@ -7,7 +7,7 @@
 
 [Automotive-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Automotive/Automotive-security.md) comprises a vast amount of interlinkings to different cybersecurity areas like IoT Security. So, don't limit yourself.
 
-This page contains additional stuff specific to automotive security compared to IoTsecurity101.
+This page contains additional stuff specific to automotive security compared to IoTSecurity101.
 
 Note: Explore each link to dig more into your topic of interest.
 
@@ -42,7 +42,7 @@ Note: Explore each link to dig more into your topic of interest.
 
 ### AutomotiveSecurityCommunity
 
-- [ASRG](asrg.io)
+- [ASRG](https://asrg.io)
 - [Auto-ISAC](https://automotiveisac.com/)
 
 ---
@@ -67,27 +67,66 @@ Note: Explore each link to dig more into your topic of interest.
 
 #### Hardware
 
-- [Nano-CAN](https://github.com/mintynet/nano-can) - Go-to CAN tool for beginners for hardware MITM.
-- [USBtin](http://www.fischl.de/usbtin/) - USB2CAN connector for data dumping on Linux.
-- [USB2CAN](http://www.8devices.com/products/usb2can/) - CAN connector for data dumping on Linux.
-- [CANPico](https://canislabs.com/canpico/) - Best tool for protocol level attacks, also comes with C API library support.
-- [Intrepid Tools](http://store.intrepidcs.com/) - Costly but reliable for rich hackers and corporate, comes with software support too.
-- [CANtact](http://linklayer.github.io/cantact/) - Open source tool available for purchase also.
-- [OBD-KILL](https://store.intrepidcs.com/product/chv-badge-30) - Fancy hacker version of CANPico.
-- [ELM327](https://www.elmelectronics.com/obdic.html) - Works (sometimes) in old vehicles where there is OBD-II data inflow protection enabled.
+- [Nano-CAN](https://github.com/mintynet/nano-can)
+- [USBtin](http://www.fischl.de/usbtin/)
+- [USB2CAN](http://www.8devices.com/products/usb2can/)
+- [CANPico](https://canislabs.com/canpico/)
+- [Intrepid Tools](http://store.intrepidcs.com/)
+- [CANtact](http://linklayer.github.io/cantact/)
+- [OBD-KILL](https://store.intrepidcs.com/product/chv-badge-30)
+- [ELM327](https://www.elmelectronics.com/obdic.html)
 
 #### Software
 
-- [can-utils](https://github.com/linux-can/can-utils) - Linux (SocketCAN) userspace utilities and tools for CAN bus.
-- [ICsim](https://github.com/zombieCraig/ICSim/) - CLI based Instrument Cluster emulator for learning.
-- [UDSim](https://github.com/zombieCraig/UDSim/) - GUI tool helps in learning also.
-- [CANalyse 2.0](https://github.com/canalyse/CANalyse-2.0) - Vehicle network analyzer built on top of python-can library.
-- [CANToolz](https://github.com/eik00d/CANToolz) - Framework for analyzing CAN bus networks.
-- [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) - Framework for analyzing vehicle networks.
+- [can-utils](https://github.com/linux-can/can-utils)
+- [ICsim](https://github.com/zombieCraig/ICSim/)
+- [UDSim](https://github.com/zombieCraig/UDSim/)
+- [CANalyse 2.0](https://github.com/canalyse/CANalyse-2.0)
+- [CANToolz](https://github.com/eik00d/CANToolz)
+- [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r)
 
 #### Libraries
 
-- [python-can](https://pypi.org/project/python-can/) - Python support for CAN developers and scripting.
-- [Scap CAN Layer](https://dissec.to/kb/chapters/can/can-scapy.html) - CAN integration in Scapy
+- [python-can](https://pypi.org/project/python-can/)
+- [Scap CAN Layer](https://dissec.to/kb/chapters/can/can-scapy.html)
+
+---
+
+### Automotive Security Updates
+
+#### Research Papers & Attack Vectors
+
+- **UWBAD** - UWB-based keyless entry jamming using COTS hardware. ([arXiv](https://arxiv.org/abs/2407.00682))
+- **SAE J1939 Attacks** - Exploits on heavy-vehicle transport layer protocol. ([arXiv](https://arxiv.org/abs/2406.00810))
+
+#### Real-World Exploits
+
+- **Kia License Plate API Bug** - Remote control via backend endpoint.
+- **Škoda Mobile App Vulnerability** - Weak backend auth led to data & location leaks.
+- **Nissan Leaf VIN Bug** - Climate and trip data control via known VINs.
+- **Pwn2Own Automotive**
+  - Alpine & Sony IVI RCE
+  - Tesla EV Charger Remote Exploit
+
+#### New Tools and Repos
+
+- [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
+- [wtsxDev/Vehicle-Security](https://github.com/wtsxDev/Vehicle-Security)
+- [souravbaghz/Carpunk](https://github.com/souravbaghz/Carpunk)
+- [I-CAN-hack/pq-flasher](https://github.com/I-CAN-hack/pq-flasher)
+
+#### Conference & Community Highlights
+
+- [Car Hacking Village](https://www.carhackingvillage.com/)
+- [ASRG](https://asrg.io)
+- [Auto-ISAC](https://automotiveisac.com/)
+
+#### Recommendations
+
+- Watch: DEF CON Car Hacking Village & Pwn2Own Automotive.
+- Read: UWBAD, J1939, backend abuse papers.
+- Use: CANalyzat0r, Carpunk, CANalyse2.0.
+- Follow: GitHub repos by jaredthecoder, wtsxDev.
+- Harden: API auth, VIN exposure, OTA process, UWB signal filtering.
 
 ---
