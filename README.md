@@ -189,7 +189,11 @@ Other Interesting Areas:
 - [Engineering Secure Devices](https://nostarch.com/engineering-secure-devices)
 - [The Ultimate Hardware Hacking Gear Guide](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-)
 
-
+#### 2025
+- [Mastering Hardware Hacking: Breaking and Securing Embedded Systems](https://www.amazon.com/Mastering-Hardware-Hacking-Offensive-Strategies/dp/B0DZ6358WM)
+- [Practical Hardware Pentesting (2nd Edition)](https://www.amazon.com/Practical-Hardware-Pentesting-techniques-embedded/dp/1803249323)
+- [IOActive E-Book: The State of Silicon Chip Hacking in 2025](https://info.ioactive.com/acton/fs/blocks/showLandingPage/a/34793/p/p-009c/t/page/fm/0)
+- 
 ********************************************************************************************************************************
 
 ### Awesome CheatSheets
