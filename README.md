@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Awesome connected Things Security Resources </h1>
+<h1 align="center">🔐 Awesome Connected Things Security Resources </h1>
 <p align="center">A curated repository of IoT and embedded‑device security knowledge.</p>
 
 <p align="center">
