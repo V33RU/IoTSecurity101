@@ -1,16 +1,26 @@
-<h1 align="center">🔐 Awesome Connected Things Security Resources </h1>
+<h1 align="center">🔐 Awesome Connected Things Security Resources</h1>
 <p align="center">A curated repository of IoT, Embedded, Industrial & Automotive, Core Tech security knowledge.</p>
 
 <p align="center">
   <img src="/101-final/banner.png" />
 </p>
 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/V33RU/IoTSecurity101/stargazers"><img src="https://img.shields.io/github/stars/V33RU/IoTSecurity101.svg" /></a>
-  <a href="https://github.com/V33RU/IoTSecurity101/network"><img src="https://img.shields.io/github/forks/V33RU/IoTSecurity101.svg" /></a>
-  <a href="https://github.com/V33RU/IoTSecurity101/blob/master/LICENSE"><img src="https://img.shields.io/github/license/V33RU/IoTSecurity101.svg"/></a>
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/stargazers">
+    <img src="https://img.shields.io/github/stars/V33RU/awesome-connected-things-sec.svg" />
+  </a>
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/network">
+    <img src="https://img.shields.io/github/forks/V33RU/awesome-connected-things-sec.svg" />
+  </a>
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/V33RU/awesome-connected-things-sec.svg"/>
+  </a>
 </p>
 
 <p align="center">
@@ -20,10 +30,11 @@
   <a href="https://github.com/V33RU/IoTSecurity101/blob/master/Automotive/Automotive-security.md">
     <img src="https://img.shields.io/badge/Automotive%20Security-%F0%9F%9A%97-green?style=for-the-badge">
   </a>
-  <a href="https://github.com/V33RU/IoTSecurity101/blob/master/CONTRIBUTING.md">
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Contribute-%F0%9F%A4%9D-purple?style=for-the-badge">
   </a>
 </p>
+
 
 ********************************************************************************************************************************
 
