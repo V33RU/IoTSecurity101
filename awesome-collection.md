@@ -4,7 +4,6 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
-## Awesome IoT &amp; Embedded &amp; Industrial &amp; Automotive && Radio && other core concepts Curated List
 
 ## Repositories and Resources
 - [IoT](#iot)
