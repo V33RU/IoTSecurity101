@@ -2,7 +2,7 @@
 <p align="center">A curated repository of IoT, Embedded, Industrial & Automotive, Core Tech security knowledge.</p>
 
 <p align="center">
-  <img src="/101-final/banner.png" />
+  <img src="/docs/images/banner.png" />
 </p>
 
 <p align="center">
