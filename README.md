@@ -27,10 +27,10 @@
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/ICS/Industrial%20Control%20Systems.md">
     <img src="https://img.shields.io/badge/ICS%20Security-%F0%9F%94%8D-blue?style=for-the-badge">
   </a>
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/Automotive/Automotive-security.md">
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/automotive-security.md">
     <img src="https://img.shields.io/badge/Automotive%20Security-%F0%9F%9A%97-green?style=for-the-badge">
   </a>
-    <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/awesome-collection.md">
+    <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/awesome-collection.md">
     <img src="https://img.shields.io/badge/Awesome-List%F0%9F%A4%9D-purple?style=for-the-badge">
   </a>
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/CONTRIBUTING.md">
