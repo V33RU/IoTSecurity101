@@ -62,6 +62,7 @@ Thank you to all our contributors, listed below, for their invaluable contributi
    8. [Besim ALTINOK](https://github.com/besimaltnok)
    9. [NaimulIslam9m](https://github.com/NaimulIslam9m)
    10. [beyefendi](https://github.com/beyefendi)
+   11. [Kartheek Lade](https://github.com/KartheekLade)
 
 ---
 
