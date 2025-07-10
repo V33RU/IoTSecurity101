@@ -24,7 +24,7 @@ We are deeply grateful to everyone who has helped shape this project. From code 
 - You may be asked for refinements or feedback.
 - Once approved, it will be merged into the main branch.
 
-Please be respectful, professional, and collaborative - we follow a strict [Code of Conduct](link-to-code-of-conduct).
+Please be respectful, professional, and collaborative - we follow a strict [Code of Conduct](https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/link-to-code-of-conduct.md).
 
 ---
 
