@@ -218,10 +218,16 @@
 - [The Ultimate Hardware Hacking Gear Guide](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-)
 
 #### 2025
-- [Mastering Hardware Hacking: Breaking and Securing Embedded Systems](https://www.amazon.com/Mastering-Hardware-Hacking-Offensive-Strategies/dp/B0DZ6358WM)
-- [Practical Hardware Pentesting (2nd Edition)](https://www.amazon.com/Practical-Hardware-Pentesting-techniques-embedded/dp/1803249323)
+- [Mastering Hardware Hacking: Breaking and Securing Embedded Systems](https://www.amazon.in/Hacking-Machine-Engineering-Hardware-Embedded/dp/B0F29WV5HF)
+- [Practical Hardware Pentesting (2nd Edition) – Amazon.in](https://www.amazon.in/Practical-Hardware-Pentesting-attacking-protecting/dp/1789619130)
+- [Practical Hardware Pentesting (2nd Edition) – Amazon.com](https://www.amazon.com/Practical-Hardware-Pentesting-techniques-embedded/dp/1803249323)
+- [Mastering Hardware Hacking – Amazon.com](https://www.amazon.com/Mastering-Hardware-Hacking-Offensive-Strategies/dp/B0DZ6358WM)
+- [Hardware Security: Challenges and Solutions](https://www.amazon.in/Hardware-Security-Challenges-Ashutosh-Mishra/dp/3031812123)
+- [Security of FPGA-Accelerated Cloud Computing Environments](https://www.amazon.in/Security-FPGA-Accelerated-Cloud-Computing-Environments/dp/3031453948)
+- [The Definitive Handbook on Reverse Engineering Tools](https://www.amazon.in/Definitive-Handbook-Reverse-Engineering-Tools-ebook/dp/B0F29HLW5B)
+- [Ghidra Software Reverse-Engineering for Beginners (2nd Edition)](https://www.amazon.in/Ghidra-Software-Reverse-Engineering-Beginners-Second/dp/B0DJGQ91R5)
 - [IOActive E-Book: The State of Silicon Chip Hacking in 2025](https://info.ioactive.com/acton/fs/blocks/showLandingPage/a/34793/p/p-009c/t/page/fm/0)
-- 
+
 ********************************************************************************************************************************
 
 ### Awesome CheatSheets
