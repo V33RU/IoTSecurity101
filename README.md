@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/Contribute-%F0%9F%A4%9D-purple?style=for-the-badge">
   </a>
 </p>
+![Last Updated](https://img.shields.io/github/last-commit/V33RU/awesome-connected-things-sec?style=flat-square)
 
 
 ********************************************************************************************************************************
