@@ -5,10 +5,11 @@
   <img src="/docs/images/banner.png" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
+<p align="left">
+  <a href="https://awesome.re">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
   </a>
+  <img src="https://img.shields.io/github/last-commit/V33RU/awesome-connected-things-sec?style=flat-square" alt="Last Updated">
 </p>
 
 <p align="center">
@@ -37,7 +38,6 @@
     <img src="https://img.shields.io/badge/Contribute-%F0%9F%A4%9D-purple?style=for-the-badge">
   </a>
 </p>
-![Last Updated](https://img.shields.io/github/last-commit/V33RU/awesome-connected-things-sec?style=flat-square)
 
 
 ********************************************************************************************************************************
