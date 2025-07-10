@@ -9,7 +9,6 @@
   <a href="https://awesome.re">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
   </a>
-  <img src="https://img.shields.io/github/last-commit/V33RU/awesome-connected-things-sec?style=flat-square" alt="Last Updated">
 </p>
 
 <p align="center">
@@ -22,6 +21,7 @@
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/V33RU/awesome-connected-things-sec.svg"/>
   </a>
+    <img src="https://img.shields.io/github/last-commit/V33RU/awesome-connected-things-sec?style=flat-square" alt="Last Updated">
 </p>
 
 <p align="center">
