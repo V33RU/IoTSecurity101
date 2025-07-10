@@ -24,7 +24,7 @@ We are deeply grateful to everyone who has helped shape this project. From code 
 - You may be asked for refinements or feedback.
 - Once approved, it will be merged into the main branch.
 
-Please be respectful, professional, and collaborative — we follow a strict [Code of Conduct](link-to-code-of-conduct).
+Please be respectful, professional, and collaborative - we follow a strict [Code of Conduct](link-to-code-of-conduct).
 
 ---
 
@@ -60,6 +60,6 @@ A huge shoutout to all the incredible individuals who’ve contributed their tim
 
 ## 🙏 Acknowledgements
 
-We sincerely thank **every contributor** who has helped make this project what it is — whether you wrote code, reported issues, improved docs, or inspired new features.
+We sincerely thank **every contributor** who has helped make this project what it is - whether you wrote code, reported issues, improved docs, or inspired new features.
 
 Together, we are building a stronger and more secure connected world. 💪🌍
