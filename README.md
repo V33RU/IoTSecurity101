@@ -220,8 +220,6 @@
 #### 2025
 - [Mastering Hardware Hacking: Breaking and Securing Embedded Systems](https://www.amazon.in/Hacking-Machine-Engineering-Hardware-Embedded/dp/B0F29WV5HF)
 - [Practical Hardware Pentesting (2nd Edition) – Amazon.in](https://www.amazon.in/Practical-Hardware-Pentesting-attacking-protecting/dp/1789619130)
-- [Practical Hardware Pentesting (2nd Edition) – Amazon.com](https://www.amazon.com/Practical-Hardware-Pentesting-techniques-embedded/dp/1803249323)
-- [Mastering Hardware Hacking – Amazon.com](https://www.amazon.com/Mastering-Hardware-Hacking-Offensive-Strategies/dp/B0DZ6358WM)
 - [Hardware Security: Challenges and Solutions](https://www.amazon.in/Hardware-Security-Challenges-Ashutosh-Mishra/dp/3031812123)
 - [Security of FPGA-Accelerated Cloud Computing Environments](https://www.amazon.in/Security-FPGA-Accelerated-Cloud-Computing-Environments/dp/3031453948)
 - [The Definitive Handbook on Reverse Engineering Tools](https://www.amazon.in/Definitive-Handbook-Reverse-Engineering-Tools-ebook/dp/B0F29HLW5B)
