@@ -387,12 +387,49 @@
 - [MQTT on Snapcraft](https://snapcraft.io/search?q=mqtt)
 
 
-#### CoAP
+#### 🛡️ CoAP Security & Pentesting Resources (2023–2025)
 
-- [Introduction](http://coap.technology/)
-- [CoAP client Tools](http://coap.technology/tools.html)
-- [CoAP Pentest Tools](https://bitbucket.org/aseemjakhar/expliot_framework)
-- [Nmap - NSE for coap](https://nmap.org/nsedoc/lib/coap.html)
+##### 🚀 CoAP Protocol & Security Updates
+
+- **Comparison of CoAP Security Protocols (IETF Internet-Draft, Oct 2023)**  
+  In-depth analysis of DTLS 1.2/1.3, TLS 1.2/1.3, cTLS, EDHOC, OSCORE, and Group OSCORE overheads.  
+  - 📖 [IETF Draft](https://datatracker.ietf.org/doc/draft-ietf-iotops-security-protocol-comparison/03/)
+
+- **EMQX: IoT Protocols & Security (2024)**  
+  Overview of CoAP, MQTT, LwM2M, detailing DTLS-based security, UDP overhead, and design considerations.  
+  - 🌐 [EMQX Blog](https://www.emqx.com/en/blog/iot-protocols-mqtt-coap-lwm2m)
+
+##### Software Tools
+
+- **[Expliot Framework](https://bitbucket.org/aseemjakhar/expliot_framework)** – CoAP fuzzing & exploitation
+- **[CoAP-NSE](https://nmap.org/nsedoc/lib/coap.html)** – Nmap scripting for CoAP discovery
+- **Copper (Cu)** – Firefox plugin for CoAP client interaction (via DTLS)
+- **libcoap** – C-based CoAP library with command-line tools
+- **Scapy-CoAP Plugin** – For building and injecting custom CoAP packets
+- **Eclipse Californium** – Full-featured Java CoAP framework
+- **Peach Fuzzer** – Commercial fuzzer with CoAP templates
+
+##### Hardware Tools
+
+- **Raspberry Pi / Arduino + 6LoWPAN Shields** – Mesh and constrained node simulations
+- **Zolertia Firefly, OpenMote, Nordic Boards** – CoAP stack testing under Contiki/RIOT OS
+- **RTL-SDR / Wi-Fi Sniffers** – Packet inspection for DTLS/OSCORE traffic
+
+##### 🧠 Blogs, Research & Tutorials
+
+- **[SpectralOps – Top IoT Protocols and Security Issues](https://spectralops.io/blog/top-5-most-commonly-used-iot-protocols-and-their-security-issues/)**
+- **[Radware – CoAP Primer](https://www.radware.com/security/ddos-knowledge-center/ddospedia/coap/)**
+- **[Webasha – IoT Pentest Lab Guide (2025)](https://www.webasha.com/blog/how-to-set-up-a-penetration-testing-lab-in-2025-complete-guide-with-tools-os-network-topology-and-real-world-practice-scenarios)**
+- **[Recorded Future IoT Protocol Study](https://raid2024.github.io/papers/raid2024-9.pdf)**
+
+
+##### 📚 Books & Guides
+
+- **"Practical CoAP" (Apress, 2024)**  
+  Updated edition with secure CoAP over DTLS & OSCORE examples.
+
+- **RFC 8613 (OSCORE)**  
+  🔗 [RFC Link](https://datatracker.ietf.org/doc/html/rfc8613)
 
 
 ********************************************************************************************************************************
