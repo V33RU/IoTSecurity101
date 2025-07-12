@@ -88,7 +88,7 @@
 
 #### 🌐 **Web IoT Message Protocols**
 - [📨 ***MQTT***](#mqtt)
-- [📬 ***CoAP***](#CoAP-Protocol-&-Security-Updates)
+- [📬 ***CoAP***](#coap-protocol-&-security-updates)
 
 #### 📱 **Mobile App**
 - [🛡***Mobile Security (Android & iOS)***](#mobile-security-android--ios)
