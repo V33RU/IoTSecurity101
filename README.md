@@ -397,7 +397,6 @@
 
 ##### *Software Tools*
 
-- [Expliot Framework](https://bitbucket.org/aseemjakhar/expliot_framework) – Fuzzing & exploitation
 - [CoAP NSE (Nmap)](https://nmap.org/nsedoc/lib/coap.html) – CoAP discovery via Nmap
 - [Copper (Firefox plugin)](https://github.com/mkovatsc/Copper) – Lightweight CoAP client for testing
 - [libcoap (CLI Tools)](https://github.com/obgm/libcoap) – C-based CoAP library with CLI
