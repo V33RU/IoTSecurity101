@@ -88,7 +88,7 @@
 
 #### 🌐 **Web IoT Message Protocols**
 - [📨 ***MQTT***](#mqtt)
-- [📬 ***CoAP***](#coap-protocol-&-security-updates)
+- [📬 ***CoAP***](#coap)
 
 #### 📱 **Mobile App**
 - [🛡***Mobile Security (Android & iOS)***](#mobile-security-android--ios)
@@ -387,7 +387,7 @@
 - [MQTT on Snapcraft](https://snapcraft.io/search?q=mqtt)
 
 ---
-#### **CoAP Protocol & Security Updates**
+#### **CoAP**
 
 - **IETF Security Protocol Comparison (2023)**  
   📖 [Read the Draft](https://datatracker.ietf.org/doc/draft-ietf-iotops-security-protocol-comparison/03/)
