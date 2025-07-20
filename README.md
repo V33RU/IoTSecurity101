@@ -203,7 +203,7 @@
 - [Inside Radio: An Attack and Defense Guide by Qing Yang, Lin Huang](https://books.google.co.in/books?id=71NSDwAAQBAJ) *(SDR, RF, wireless)*
 - [Pentest Hardware (online handbook, GitHub)](https://github.com/unprovable/PentestHardware)
 - [Gray Hat Hacking: The Ethical Hacker's Handbook, 5th Edition](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H)
-- [Intro to Bluetooth Low Energy (Afaneh, PDF)](https://www.mkafaneh.com/wp-content/uploads/2018/01/BLE.pdf)
+- [Intro to Bluetooth Low Energy (Afaneh, PDF)](https://daskalakispiros.com/files/Ebooks/Intro+to+Bluetooth+Low+Energy+v1.1.pdf)
 
 #### 2019
 
