@@ -177,9 +177,34 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ### Regulations & Standards
 
-- [UN ECE WP.29 (R155/R156) summary](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155)
-- [ISO/SAE 21434 overview](https://www.iso.org/standard/70918.html)
-- [Cyber Defense Magazine: Future of Automotive Cybersecurity](https://www.cyberdefensemagazine.com/the-future-of-automotive-cybersecurity-safeguarding-the-next-generation-of-mobility/)
+# International Automotive Cybersecurity Standards — Regional Table
+
+| Country/Region   | Key Standards / Regulations                                                                                                                                                                                                                                                                                                            | Regulatory Bodies / Notes                                                                                                              |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **Global**       | [ISO/SAE 21434](https://www.iso.org/standard/70918.html) (Cybersecurity Engineering), [UNECE WP.29 R155/R156](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155)                                                                                                | ISO, SAE, UNECE. Adopted by most OEMs worldwide.                                                |
+| **United States**| [SAE J3061](https://www.sae.org/standards/content/j3061_201601/), [NHTSA Cybersecurity Best Practices](https://www.nhtsa.gov/technology-innovation/vehicle-cybersecurity), [Auto-ISAC Best Practices](https://www.automotiveisac.com/best-practices/), [NIST 800 Series](https://csrc.nist.gov/publications/sp800)                          | NHTSA, SAE, Auto-ISAC, NIST. J3061 is a precursor to ISO/SAE 21434.                              |
+| **EU**           | [UNECE WP.29 R155/R156](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155), [GDPR](https://gdpr.eu/), [ENISA Guidance](https://www.enisa.europa.eu/publications/cybersecurity-challenges-in-the-updated-automotive-homologation-regulation)                                                           | UNECE, European Commission, ENISA. GDPR covers data privacy.                                     |
+| **Japan**        | [UNECE WP.29 R155/R156](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155), [JASO TP18004](https://www.jsa.or.jp/en/standardization/standards/list/?std_no=JASO%20TP18004)                                                                                       | JAMA, JASO, MLIT. JASO guidance tailors standards to domestic industry.                          |
+| **China**        | [GB/T 38629-2020](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1A37265F240A5EBE736D5A1516E27A93), [GB/T 37292-2018](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EEF574A39601C6B8F58DAE26DA55F4DC), MIIT, [CCC Cybersecurity](http://www.miit.gov.cn)                                      | MIIT, CCC. GB/T standards required for type approvals.                                           |
+| **South Korea**  | [UNECE WP.29](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155), KATRI Guidance                                                                                                                                                                                | KATRI, MOLIT. National docs supplement UNECE.                                                    |
+| **UK**           | [UNECE WP.29](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155), [DCMS Code of Practice](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security), [NCSC Guidance](https://www.ncsc.gov.uk/collection/connected-places-guidance)                                         | DVSA, DCMS, NCSC. Dedicated automotive/IoT code post-Brexit.                                     |
+| **Australia**    | [UNECE WP.29](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155), [ACSC Guidance](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-connected-vehicles)                                                                                       | Dept. of Infrastructure, ACSC. National supplements for cyber and connected fleets.               |
+| **Germany**      | [IT Security Catalogue (BNetzA)](https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/Security_of_supply/IT_Security_Catalogue/IT_Security_Catalogue_node.html), [UNECE WP.29](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155)                            | BNetzA. Applies IT/OT security standards to automotive and infrastructure sectors.                |
+| **Switzerland**  | [Basel/FINMA Cyber Guidance](https://www.finma.ch/en/documentation/finma-guidance/)                                                                                                                                                                                                             | Basel Committee, FINMA. Emphasis on supply chain and digital vehicle resilience.                  |
+
+---
+
+**Reference Resource Links:**
+- [UNECE WP.29 Regulation Summary](https://unece.org/transport/vehicle-regulations/notifications-un-regulations/r155)
+- [ISO/SAE 21434 Standard Overview](https://www.iso.org/standard/70918.html)
+- [Auto-ISAC Best Practices](https://www.automotiveisac.com/best-practices/)
+- [ENISA Automotive Cybersecurity](https://www.enisa.europa.eu/publications/cybersecurity-challenges-in-the-updated-automotive-homologation-regulation)
+- [China MIIT](http://www.miit.gov.cn)
+- [DCMS Consumer IoT Code of Practice](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
+- [Australian Cyber Security Centre Automotive Guidance](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-connected-vehicles)
+- [BNetzA IT Security Catalogue](https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/Security_of_supply/IT_Security_Catalogue/IT_Security_Catalogue_node.html)
+
+
 
 ### New & Emerging Threats
 
