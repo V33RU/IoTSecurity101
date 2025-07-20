@@ -6,15 +6,15 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ## Table of Contents
 
-- [1. Early Days: 1990s–2000s](#1-early-days-1990s2000s)
-- [2. 2010–2014: Proof-of-Concepts and Recognition](#2-20102014-proof-of-concepts-and-recognition)
-- [3. 2015–2018: Mainstream Awareness and Escalation](#3-20152018-mainstream-awareness-and-escalation)
-- [4. 2019–2021: Community, Tools, and Remote Exploits](#4-20192021-community-tools-and-remote-exploits)
-- [5. 2022–2025: Modern Era and Emerging Frontiers](#5-20222025-modern-era-and-emerging-frontiers)
-- [6. Essential Learning & Research Resources](#6-essential-learning--research-resources)
-- [7. Getting Started with Car Hacking (Today)](#7-getting-started-with-car-hacking-today)
-- [8. Summary Timeline of Milestones](#8-summary-timeline-of-milestones)
-- [9. Curated Modern Automotive Security List (2025)](#9-curated-modern-automotive-security-list-2025)
+- [Early Days: 1990s–2000s](#1-early-days-1990s2000s)
+- [2010–2014: Proof-of-Concepts and Recognition](#2-20102014-proof-of-concepts-and-recognition)
+- [2015–2018: Mainstream Awareness and Escalation](#3-20152018-mainstream-awareness-and-escalation)
+- [2019–2021: Community, Tools, and Remote Exploits](#4-20192021-community-tools-and-remote-exploits)
+- [2022–2025: Modern Era and Emerging Frontiers](#5-20222025-modern-era-and-emerging-frontiers)
+- [Essential Learning & Research Resources](#6-essential-learning--research-resources)
+- [Getting Started with Car Hacking (Today)](#7-getting-started-with-car-hacking-today)
+- [Summary Timeline of Milestones](#8-summary-timeline-of-milestones)
+- [Curated Modern Automotive Security List (2025)](#9-curated-modern-automotive-security-list-2025)
 
 ---
 
