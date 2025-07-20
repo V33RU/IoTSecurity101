@@ -1,6 +1,6 @@
 # Car Hacking Resources: From Origins to Today
 
-A historical and up-to-date guide to the world of automotive security and car hacking—covering foundational breakthroughs, major attacks, community growth, tools, and essential resources.
+A historical and up-to-date guide to the world of automotive security and car hacking covering foundational breakthroughs, major attacks, community growth, tools, and essential resources.
 
 ---
 
