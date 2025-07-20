@@ -28,7 +28,7 @@
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/ICS/Industrial-Control-Systems.md">
     <img src="https://img.shields.io/badge/ICS%20Security-%F0%9F%94%8D-blue?style=for-the-badge">
   </a>
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/automotive-security.md">
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/Automotive/automotive-security.md">
     <img src="https://img.shields.io/badge/Automotive%20Security-%F0%9F%9A%97-green?style=for-the-badge">
   </a>
     <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/awesome-collection.md">
