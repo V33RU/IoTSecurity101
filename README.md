@@ -194,7 +194,6 @@
 #### 2016
 
 - [Learning Linux Binary Analysis by Ryan "elfmaster" O'Neill](https://www.packtpub.com/en-bg/product/learning-linux-binary-analysis-9781782167112)
-- [Car Hacker's Handbook by Craig Smith](http://opengarages.org/handbook)
 
 ##### # 2017
 
