@@ -182,7 +182,7 @@
 #### 2014
 
 - [Android Hacker's Handbook by Joshua J. Drake](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
-- [Near Field Communication (NFC): From Theory to Practice](https://books.google.com/books?id=9gE9bSju23gC) *(NFC Security)*
+- [Near Field Communication (NFC): From Theory to Practice](https://www.amazon.in/Near-Field-Communication-NFC-Practice/dp/1119971098)
 
 #### 2015
 
