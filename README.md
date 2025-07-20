@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/ICS/Industrial%20Control%20Systems.md">
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/ICS/Industrial-Control-Systems.md">
     <img src="https://img.shields.io/badge/ICS%20Security-%F0%9F%94%8D-blue?style=for-the-badge">
   </a>
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/automotive-security.md">
