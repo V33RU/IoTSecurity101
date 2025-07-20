@@ -1,6 +1,6 @@
 # Industrial Control Systems (ICS) Security — Complete Guide
 
-Industrial Control Systems (ICS) are the backbone of critical infrastructure: power, water, oil & gas, manufacturing, and more. This file covers the full ICS security landscape—basics, threats, exploits, major incidents, key vulnerabilities, standards, and the best resources.
+Industrial Control Systems (ICS) are the backbone of critical infrastructure: power, water, oil & gas, manufacturing, and more. This file covers the full ICS security landscape - basics, threats, exploits, major incidents, key vulnerabilities, standards, and the best resources.
 
 ---
 
