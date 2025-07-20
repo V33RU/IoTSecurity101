@@ -166,63 +166,82 @@
 ### Books for IoT Penetration Testing
 
 #### 2004
-- [The Firmware Handbook (Embedded Technology) 1st Edition by Jack Ganssle](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
-- [Hardware Hacking: Have Fun while Voiding your Warranty 1st Edition](https://www.elsevier.com/books/hardware-hacking/grand/978-1-932266-83-2)
+
+- [The Firmware Handbook (Embedded Technology) by Jack Ganssle](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
+- [Hardware Hacking: Have Fun while Voiding your Warranty by Joe Grand](https://www.elsevier.com/books/hardware-hacking/grand/978-1-932266-83-2)
 
 #### 2007
-- [Linksys WRT54G Ultimate Hacking 1st Edition by Paul Asadoorian](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
+
+- [Linksys WRT54G Ultimate Hacking by Paul Asadoorian](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
 
 #### 2013
-- [Hacking the Xbox - An Introduction to Reverse Engineering HACKING THE XBOX by Andrew “bunnie” Huang](https://www.nostarch.com/xboxfree)
-- [Applied Cyber Security and the Smart Grid: Implementing Security Controls into the Modern Power Infrastructure by Eric D. Knapp , Raj Samani](https://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/)
+
+- [Hacking the Xbox: An Introduction to Reverse Engineering by Andrew "bunnie" Huang](https://www.nostarch.com/xboxfree)
+- [Applied Cyber Security and the Smart Grid by Eric D. Knapp & Raj Samani](https://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/)
 
 #### 2014
+
 - [Android Hacker's Handbook by Joshua J. Drake](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
+- [Near Field Communication (NFC): From Theory to Practice](https://books.google.com/books?id=9gE9bSju23gC) *(NFC Security)*
 
 #### 2015
-- [The Art of Pcb Reverse Engineering: Unravelling the Beauty of the Original Design](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
-- [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts 1st Edition, by Nitesh Dhanjani](https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36)
+
+- [The Art of PCB Reverse Engineering by Keng Tiong](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
+- [Abusing the Internet of Things by Nitesh Dhanjani](https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36)
 
 #### 2016
-- [Learning Linux Binary Analysis By Ryan "elfmaster" O'Neill](https://www.packtpub.com/networking-and-servers/learning-linux-binary-analysis)
-- [Car hacker's handbook by Craig Smith](http://opengarages.org/handbook)
 
-#### 2017
-- [IoT Penetration Testing Cookbook By Aaron Guzman , Aditya Gupta](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
+- [Learning Linux Binary Analysis by Ryan "elfmaster" O'Neill](https://www.packtpub.com/en-bg/product/learning-linux-binary-analysis-9781782167112)
+- [Car Hacker's Handbook by Craig Smith](http://opengarages.org/handbook)
+
+##### # 2017
+
+- [IoT Penetration Testing Cookbook by Aaron Guzman & Aditya Gupta](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
 
 #### 2018
-- [Inside Radio: An Attack and Defense Guide by Authors: Yang, Qing, Huang, Lin](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
-- [Pentest Hardware](https://github.com/unprovable/PentestHardware/)
-- [Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition 5th Edition by Daniel Regalado , Shon Harris , Allen Harper , Chris Eagle , Jonathan Ness , Branko Spasojevic , Ryan Linn , Stephen Sims](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H)
+
+- [Inside Radio: An Attack and Defense Guide by Qing Yang, Lin Huang](https://books.google.co.in/books?id=71NSDwAAQBAJ) *(SDR, RF, wireless)*
+- [Pentest Hardware (online handbook, GitHub)](https://github.com/unprovable/PentestHardware)
+- [Gray Hat Hacking: The Ethical Hacker's Handbook, 5th Edition](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H)
+- [Intro to Bluetooth Low Energy (Afaneh, PDF)](https://www.mkafaneh.com/wp-content/uploads/2018/01/BLE.pdf)
+
+#### 2019
+
+- _Binary Analysis Cookbook_ *(see [Practical Binary Analysis](https://nostarch.com/practicalbinaryanalysis) for a modern alternative)*
+- [Bluetooth® LE Security Study Guide](https://www.bluetooth.com/bluetooth-resources/le-security-study-guide/)*
 
 #### 2021
-- [Practical Hardware Pentesting](https://www.packtpub.com/product/practical-hardware-pentesting/9781789619133?_ga=2.224205017.333884789.1668314814-101815837.1668314814)
-- [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks Front Cover Jasper van Woudenberg, Colin O'Flynn](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s)
-- [Practical IoT Hacking-The Definitive Guide to Attacking the Internet of Things by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods](https://nostarch.com/practical-iot-hacking)
-- [Manual PCB-RE: The Essentials](https://www.amazon.in/Manual-PCB-RE-Essentials-Keng-Tiong/dp/B0974Z3NDS)
+
+- [Practical Hardware Pentesting by Jean-Georges Valle](https://www.packtpub.com/product/practical-hardware-pentesting/9781789619133)
+- [The Hardware Hacking Handbook by Jasper van Woudenberg & Colin O'Flynn](https://books.google.co.in/books?id=DEqatAEACAAJ)
+- [Practical IoT Hacking: The Definitive Guide](https://nostarch.com/practical-iot-hacking)
+- [Manual PCB-RE: The Essentials by Keng Tiong](https://www.amazon.in/Manual-PCB-RE-Essentials-Keng-Tiong/dp/B0974Z3NDS)
+- [Black Hat Python, 2nd Edition](https://nostarch.com/black-hat-python-2nd-edition) *(for scripting, IoT automation)*
 
 #### 2022
-- [PatrIoT: practical and agile threat research for IoT by Emre Süren](https://link.springer.com/article/10.1007/s10207-022-00633-3)
+
+- [PatrIoT: Practical and Agile Threat Research for IoT by Emre Süren](https://link.springer.com/article/10.1007/s10207-022-00633-3)
 
 #### 2023
-- [Practical Hardware Pentesting - Second Edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322)
-- [Blue Fox: Arm Assembly Internals & Reverse Engineering](https://www.wiley.com/en-gb/Blue+Fox%3A+Arm+Assembly+Internals+%26+Reverse+Engineering-p-9781119745303)
+
+- [Practical Hardware Pentesting – Second Edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322)
 - [Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976)
 - [Hardware Security Training, Hands-on!](https://link.springer.com/book/10.1007/978-3-031-31034-8)
-- [Automotive Cybersecurity Engineering Handbook: The automotive engineer's roadmap to cyber-resilient vehicles Series](https://www.amazon.in/Automotive-Cybersecurity-Engineering-Handbook-cyber-resilient/dp/1801076537)
 - [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/)
+- _SDR for a Secure and Prosperous Wireless Network_ *(specialist, check publisher)*
+- [Practical Binary Analysis by Dennis Andriesse](https://nostarch.com/binaryanalysis)
+-  [Hack the Airwaves: Advanced BLE Exploitation Techniques](https://www.amazon.in/Hack-Airwaves-Exploitation-Techniques-Cybersecurity/dp/B0CFX2S4ZM)
 
 #### 2024
+
 - [Microcontroller Exploits](https://nostarch.com/microcontroller-exploits)
-- [Metasploit, 2nd Edition](https://nostarch.com/metasploit-2nd-edition)
-- [Engineering Secure Devices](https://nostarch.com/engineering-secure-devices)
-- [The Ultimate Hardware Hacking Gear Guide](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-)
+- [The Ultimate Hardware Hacking Gear Guide (GitHub)](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-)
+- [Security Issues in Mobile NFC Devices (Michael Roland)](https://link.springer.com/book/10.1007/978-3-319-15488-6)
 
 #### 2025
 - [Mastering Hardware Hacking: Breaking and Securing Embedded Systems](https://www.amazon.in/Hacking-Machine-Engineering-Hardware-Embedded/dp/B0F29WV5HF)
 - [Practical Hardware Pentesting (2nd Edition) – Amazon.in](https://www.amazon.in/Practical-Hardware-Pentesting-attacking-protecting/dp/1789619130)
 - [Hardware Security: Challenges and Solutions](https://www.amazon.in/Hardware-Security-Challenges-Ashutosh-Mishra/dp/3031812123)
-- [Security of FPGA-Accelerated Cloud Computing Environments](https://www.amazon.in/Security-FPGA-Accelerated-Cloud-Computing-Environments/dp/3031453948)
 - [The Definitive Handbook on Reverse Engineering Tools](https://www.amazon.in/Definitive-Handbook-Reverse-Engineering-Tools-ebook/dp/B0F29HLW5B)
 - [Ghidra Software Reverse-Engineering for Beginners (2nd Edition)](https://www.amazon.in/Ghidra-Software-Reverse-Engineering-Beginners-Second/dp/B0DJGQ91R5)
 - [IOActive E-Book: The State of Silicon Chip Hacking in 2025](https://info.ioactive.com/acton/fs/blocks/showLandingPage/a/34793/p/p-009c/t/page/fm/0)
