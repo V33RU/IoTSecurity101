@@ -19,7 +19,7 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ---
 
-## 1. Early Days: 1990s–2000s
+## Early Days: 1990s–2000s
 
 - **First Hacking Points:** OBD (On-Board Diagnostics) port introduction enabled access to engine management with custom hardware and proprietary protocols.
 - **Key Focus:** Wired access to in-vehicle networks, mainly CAN (Controller Area Network, [CAN Wikipedia](https://en.wikipedia.org/wiki/CAN_bus), standardized 1991).
@@ -27,7 +27,7 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ---
 
-## 2. 2010–2014: Proof-of-Concepts and Recognition
+## 2010–2014: Proof-of-Concepts and Recognition
 
 - Researchers began hacking ECUs through direct access, quickly moving to remote attacks via Bluetooth, CD, cellular, and more.
 - Notable exploits included 2011 Chevy Malibu remote hacks ([Wired Article](https://www.wired.com/2011/03/hackers-car/)) and proof that almost any connected vehicle could be at risk.
@@ -35,7 +35,7 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ---
 
-## 3. 2015–2018: Mainstream Awareness and Escalation
+## 2015–2018: Mainstream Awareness and Escalation
 
 - **Landmark Hacks:**
   - 2013: [Miller and Valasek](https://illmatics.com/carhacking.html) controlled Ford Escape and Toyota Prius (acceleration, steering, GPS spoofing).
@@ -47,7 +47,7 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ---
 
-## 4. 2019–2021: Community, Tools, and Remote Exploits
+## 2019–2021: Community, Tools, and Remote Exploits
 
 - **Events:** [Car Hacking Village (DEF CON)](https://www.carhackingvillage.com/) and [Car Hacking Village @ DefCamp](https://def.camp/car-hacking-village/) expand globally.
 - [Open Garages](https://github.com/openGarages) and online forums centralize tutorials, datasets, and collaborative research.
@@ -56,7 +56,7 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ---
 
-## 5. 2022–2025: Modern Era and Emerging Frontiers
+## 2022–2025: Modern Era and Emerging Frontiers
 
 - **API & Backend Attacks:**
   - Mass remote exploitation of telematics APIs by researchers - impacting brands like Acura, Kia ([Kia API bug](https://samcurry.net/hacking-kia)), BMW, Tesla ([Tesla charger exploit](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector)), Nissan ([Nissan Leaf hack](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/)), and Škoda ([Škoda Mobile App bug](https://blog.vensis.pl/2019/11/vw-hacking/)).
