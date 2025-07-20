@@ -38,11 +38,11 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 - **Landmark Hacks:**
   - 2013: [Miller and Valasek](https://illmatics.com/carhacking.html) controlled Ford Escape and Toyota Prius (acceleration, steering, GPS spoofing).
-  - 2015: [Jeep Cherokee/UConnect hack](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) allowed full remote takeover—leading to million-vehicle recall.
+  - 2015: [Jeep Cherokee/UConnect hack](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) allowed full remote takeover - leading to million-vehicle recall.
   - Tesla ([2016 hack](https://www.wired.com/2016/09/tesla-hack-can-remote-control-brakes-and-more/)), BMW ([ConnectedDrive hack](https://www.wired.com/2015/01/hackers-remotely-unlock-dozens-bmw-models/)), and Nissan ([Nissan Leaf hack](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/)) also targeted through remote and telematics attacks.
 - **Ecosystem Milestones:**
   - [Instrument Cluster Simulator (ICSim)](https://github.com/zombieCraig/ICSim) released.
-  - [DEF CON Car Hacking Village](https://www.carhackingvillage.com/)—a global hub for car security research.
+  - [DEF CON Car Hacking Village](https://www.carhackingvillage.com/) - a global hub for car security research.
 
 ---
 
@@ -51,14 +51,14 @@ A historical and up-to-date guide to the world of automotive security and car ha
 - **Events:** [Car Hacking Village (DEF CON)](https://www.carhackingvillage.com/) and [Car Hacking Village @ DefCamp](https://def.camp/car-hacking-village/) expand globally.
 - [Open Garages](https://github.com/openGarages) and online forums centralize tutorials, datasets, and collaborative research.
 - Tools like [can-utils](https://github.com/linux-can/can-utils), [python-can](https://pypi.org/project/python-can/), and [Scapy/CAN](https://dissec.to/kb/chapters/can/can-scapy.html) widely adopted in both hobbyist and professional domains.
-- Complexity increases—modern vehicles become software-centric and remotely exploitable.
+- Complexity increases - modern vehicles become software-centric and remotely exploitable.
 
 ---
 
 ## 5. 2022–2025: Modern Era and Emerging Frontiers
 
 - **API & Backend Attacks:**
-  - Mass remote exploitation of telematics APIs by researchers—impacting brands like Acura, Kia ([Kia API bug](https://samcurry.net/hacking-kia)), BMW, Tesla ([Tesla charger exploit](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector)), Nissan ([Nissan Leaf hack](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/)), and Škoda ([Škoda Mobile App bug](https://blog.vensis.pl/2019/11/vw-hacking/)).
+  - Mass remote exploitation of telematics APIs by researchers - impacting brands like Acura, Kia ([Kia API bug](https://samcurry.net/hacking-kia)), BMW, Tesla ([Tesla charger exploit](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector)), Nissan ([Nissan Leaf hack](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/)), and Škoda ([Škoda Mobile App bug](https://blog.vensis.pl/2019/11/vw-hacking/)).
 - **Hardware & Software Expansion:** Advanced interfaces and attack tools: [Nano-CAN](https://github.com/mintynet/nano-can), [CANtact](http://linklayer.github.io/cantact/), [CANPico](https://canislabs.com/canpico/), [M2 by Macchina](https://www.macchina.cc/), [ELM327](https://www.amazon.com/dp/B07SK6MJT1/).
 - **Active Communities:** [DEF CON Car Hacking Village](https://www.carhackingvillage.com/), [ASRG](https://asrg.io/), [Car Hacking Village (Europe, DefCamp)](https://def.camp/car-hacking-village/), [Open Garages](https://github.com/openGarages).
 - **Ongoing Publications:** [The Car Hacker’s Handbook](https://nostarch.com/carhacking), academic surveys ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0167404825001415), [MDPI Sensors](https://www.mdpi.com/1424-8220/24/18/6139)), live vulnerability tracking ([VicOne zero-days](https://vicone.com/automotive-zero-day-vulnerabilities)).
@@ -198,4 +198,4 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ---
 
-*This guide covers car hacking’s journey from early OBD/CAN explorations to today’s cloud, API, and AI security challenges—linking you directly to key reference points and resources at each stage.*
+*This guide covers car hacking’s journey from early OBD/CAN explorations to today’s cloud, API, and AI security challenges - linking you directly to key reference points and resources at each stage.*
