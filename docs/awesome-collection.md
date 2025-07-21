@@ -17,6 +17,7 @@
 - [Simulation & Testbeds](#-simulation--testbeds)
 - [Standards & Compliance](#-standards--compliance)
 - [RFID & NFC](#-rfid--nfc)
+- [Awesome Flipper Zero Lists](#-awesome-flipper-zero-lists)
 
 ---
 
@@ -103,5 +104,5 @@
 
 ---
 
-## Awesome Flipper Zero Lists
-- [Awesome FlipperZero](https://github.com/djsime1/awesome-flipperzero) 
+## 🦦 Awesome Flipper Zero Lists
+- [Awesome FlipperZero](https://github.com/djsime1/awesome-flipperzero)  
