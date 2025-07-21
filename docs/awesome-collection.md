@@ -93,10 +93,15 @@
 ---
 
 ### 📜 Standards & Compliance
-- [Awesome Security Standards](https://github.com/standardnotes/awesome-security-standards)  
+- [Awesome Security Standards](https://github.com/standardnotes/awesome-security-standards)
 
 ---
 
 ### 🔁 RFID & NFC
 - [Awesome RFID Talks](https://github.com/doegox/awesome-rfid-talks)  
-- [Awesome NFC](https://github.com/blasquezmartin/awesome-nfc)  
+- [Awesome NFC](https://github.com/blasquezmartin/awesome-nfc)
+
+---
+
+## Awesome Flipper Zero Lists
+- [Awesome FlipperZero](https://github.com/djsime1/awesome-flipperzero) 
