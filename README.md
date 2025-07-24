@@ -526,7 +526,9 @@
 - [BLE Characteristics: A Beginner's Tutorial](https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
 
 ##### *Bluetooth And BLE PentestTools*
+-
 - [Bluing - An intelligence gathering tool for hacking Bluetooth](https://github.com/fO-000/bluing)
+- [BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework](https://github.com/sgxgsx/BlueToolkit)
 - [btproxy](https://github.com/conorpp/btproxy)
 - [hcitool & bluez](https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez)
 - [Testing With GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
