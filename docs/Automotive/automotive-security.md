@@ -66,7 +66,7 @@ A historical and up-to-date guide to the world of automotive security and car ha
 
 ---
 
-## International Automotive Cybersecurity Standards — Regional Table
+## International Automotive Cybersecurity Standards - Regional Table
 
 | Country/Region   | Key Standards / Regulations                                                                                                                                                                                                                                                                                                            | Regulatory Bodies / Notes                                                                                                              |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
